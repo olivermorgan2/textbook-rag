@@ -1,0 +1,1060 @@
+{
+  "chapter_number": 35,
+  "title": "Building Resilient Health Systems",
+  "part": {
+    "part_number": 8,
+    "part_title": "Future Directions"
+  },
+  "version": "1.0.0",
+  "last_updated": "2025-12-07",
+  "authors": [
+    {
+      "role": "primary_author",
+      "affiliation": "Global Health Systems Institute"
+    }
+  ],
+  "keywords": [
+    "health system resilience",
+    "learning health systems",
+    "systems thinking",
+    "adaptive capacity",
+    "crisis preparedness",
+    "surge capacity",
+    "community engagement",
+    "health governance",
+    "sustainability",
+    "health system strengthening",
+    "pandemic preparedness",
+    "organizational learning",
+    "complexity theory"
+  ],
+  "word_count_target": {
+    "min": 8250,
+    "max": 8250
+  },
+  "cross_references": {
+    "prerequisite_chapters": [
+      4,
+      11,
+      27,
+      28,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "related_concepts": [
+      "Universal health coverage (Chapter 4)",
+      "Global health security (Chapter 11)",
+      "Health partnerships (Chapter 27)",
+      "Health technology (Chapter 28)",
+      "Health financing (Chapter 30)",
+      "Health governance (Chapter 31)",
+      "Health workforce (Chapter 32)",
+      "Health equity (Chapter 33)",
+      "Emerging challenges (Chapter 34)"
+    ]
+  },
+  "learning_objectives": [
+    {
+      "objective_id": "LO-35.1",
+      "bloom_level": "Create",
+      "text": "Synthesize knowledge from across the textbook to design comprehensive health system strengthening strategies that address multiple building blocks simultaneously",
+      "assessment_method": "Case study"
+    },
+    {
+      "objective_id": "LO-35.2",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate health system resilience using established frameworks and indicators including absorptive, adaptive, and transformative capacities",
+      "assessment_method": "Short answer"
+    },
+    {
+      "objective_id": "LO-35.3",
+      "bloom_level": "Apply",
+      "text": "Apply systems thinking principles to analyze complex health system challenges and identify leverage points for intervention",
+      "assessment_method": "Case study"
+    },
+    {
+      "objective_id": "LO-35.4",
+      "bloom_level": "Create",
+      "text": "Design adaptive leadership and governance approaches for health system stewardship during routine operations and crisis response",
+      "assessment_method": "Policy exercise"
+    },
+    {
+      "objective_id": "LO-35.5",
+      "bloom_level": "Analyze",
+      "text": "Analyze the characteristics of learning health systems and their application to continuous quality improvement",
+      "assessment_method": "Short answer"
+    },
+    {
+      "objective_id": "LO-35.6",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate community engagement strategies for building social capital and participatory health governance",
+      "assessment_method": "Case study"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Health system resilience",
+      "definition": "The capacity of a health system to prepare for and effectively respond to crises, maintain core functions during a crisis, and be informed by lessons learned during the crisis to reorganize if conditions require it"
+    },
+    {
+      "term": "Learning health system",
+      "definition": "A health system in which science, informatics, incentives, and culture are aligned for continuous improvement and innovation, with best practices seamlessly embedded in the delivery process"
+    },
+    {
+      "term": "Absorptive capacity",
+      "definition": "The ability of a system to continue to deliver services at the same level of quality and quantity despite a shock, using existing resources and capabilities"
+    },
+    {
+      "term": "Adaptive capacity",
+      "definition": "The ability of actors in a system to make incremental adjustments to strategies, structures, and processes in response to changing circumstances or shocks"
+    },
+    {
+      "term": "Transformative capacity",
+      "definition": "The ability to fundamentally change system structure, functions, or goals when existing approaches are no longer viable or appropriate"
+    },
+    {
+      "term": "Complex adaptive system",
+      "definition": "A system composed of many interacting components that can adapt and learn, characterized by emergence, self-organization, and non-linear dynamics"
+    },
+    {
+      "term": "Surge capacity",
+      "definition": "The ability to rapidly expand normal healthcare system capacity to meet increased demand for qualified personnel, medical care, and public health services during emergencies"
+    },
+    {
+      "term": "Adaptive leadership",
+      "definition": "Leadership approach focused on addressing adaptive challenges that require changes in values, beliefs, roles, relationships, and approaches, distinguishing from technical problems with known solutions"
+    },
+    {
+      "term": "Social capital",
+      "definition": "The networks of relationships among people and institutions that enable a society to function effectively, including trust, norms, and social connections"
+    },
+    {
+      "term": "Health in All Policies",
+      "definition": "An approach to public policies across sectors that systematically takes into account the health implications of decisions and seeks synergies to improve population health"
+    },
+    {
+      "term": "Leverage points",
+      "definition": "Places within a complex system where small shifts can produce large changes in system behavior"
+    },
+    {
+      "term": "Feedback loop",
+      "definition": "A closed chain of causal connections where an initial change in one element ripples through connected elements and eventually influences the initial element"
+    }
+  ],
+  "content_sections": [
+    {
+      "section_id": "sec-35-1",
+      "title": "Introduction: The Imperative of Health System Resilience",
+      "word_count": 650,
+      "subsections": [
+        {
+          "subsection_id": "sec-35-1-1",
+          "title": "Lessons from Global Health Crises",
+          "word_count": 350,
+          "key_concepts": [
+            "pandemic impact",
+            "health system vulnerabilities",
+            "crisis response"
+          ],
+          "primary_references": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-1-2",
+          "title": "Chapter Overview and Synthesis Approach",
+          "word_count": 300,
+          "key_concepts": [
+            "textbook synthesis",
+            "integration framework",
+            "future directions"
+          ],
+          "primary_references": [
+            "4",
+            "5"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "sec-35-2",
+      "title": "Health System Resilience: Concepts and Frameworks",
+      "word_count": 1400,
+      "subsections": [
+        {
+          "subsection_id": "sec-35-2-1",
+          "title": "Defining Health System Resilience",
+          "word_count": 400,
+          "key_concepts": [
+            "resilience definitions",
+            "absorptive capacity",
+            "adaptive capacity",
+            "transformative capacity"
+          ],
+          "primary_references": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-2-2",
+          "title": "Resilience Frameworks and Models",
+          "word_count": 500,
+          "key_concepts": [
+            "WHO resilience framework",
+            "Kruk framework",
+            "Blanchet framework"
+          ],
+          "primary_references": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-2-3",
+          "title": "Measuring Health System Resilience",
+          "word_count": 500,
+          "key_concepts": [
+            "resilience indicators",
+            "capacity assessment",
+            "performance benchmarks"
+          ],
+          "primary_references": [
+            "14",
+            "15",
+            "16",
+            "17"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "fig-35-1",
+          "title": "Health System Resilience Framework",
+          "caption": "Conceptual framework showing the three capacities of health system resilience: absorptive, adaptive, and transformative, and their interactions with health system building blocks",
+          "type": "Diagram",
+          "data_source": "Adapted from Kruk et al. 2017 and WHO 2022"
+        }
+      ]
+    },
+    {
+      "section_id": "sec-35-3",
+      "title": "Systems Thinking and Complexity in Health",
+      "word_count": 1200,
+      "subsections": [
+        {
+          "subsection_id": "sec-35-3-1",
+          "title": "Complex Adaptive Systems Theory",
+          "word_count": 400,
+          "key_concepts": [
+            "complex adaptive systems",
+            "emergence",
+            "self-organization",
+            "non-linearity"
+          ],
+          "primary_references": [
+            "18",
+            "19",
+            "20"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-3-2",
+          "title": "Network Approaches to Health Systems",
+          "word_count": 400,
+          "key_concepts": [
+            "network analysis",
+            "stakeholder mapping",
+            "interconnections"
+          ],
+          "primary_references": [
+            "21",
+            "22",
+            "23"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-3-3",
+          "title": "Leverage Points for System Change",
+          "word_count": 400,
+          "key_concepts": [
+            "leverage points",
+            "feedback loops",
+            "system archetypes"
+          ],
+          "primary_references": [
+            "24",
+            "25",
+            "26"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "fig-35-2",
+          "title": "Health System as Complex Adaptive System",
+          "caption": "Visualization of health system components as interconnected network showing feedback loops and emergence properties",
+          "type": "Diagram",
+          "data_source": "Original synthesis from systems literature"
+        }
+      ]
+    },
+    {
+      "section_id": "sec-35-4",
+      "title": "Learning Health Systems",
+      "word_count": 1300,
+      "subsections": [
+        {
+          "subsection_id": "sec-35-4-1",
+          "title": "Principles of Learning Health Systems",
+          "word_count": 400,
+          "key_concepts": [
+            "learning health system",
+            "continuous improvement",
+            "data-driven decisions"
+          ],
+          "primary_references": [
+            "27",
+            "28",
+            "29",
+            "30"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-4-2",
+          "title": "Data Infrastructure and Knowledge Generation",
+          "word_count": 450,
+          "key_concepts": [
+            "health information systems",
+            "real-time data",
+            "evidence generation"
+          ],
+          "primary_references": [
+            "31",
+            "32",
+            "33"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-4-3",
+          "title": "Organizational Learning and Adaptation",
+          "word_count": 450,
+          "key_concepts": [
+            "organizational learning",
+            "quality improvement",
+            "implementation science"
+          ],
+          "primary_references": [
+            "34",
+            "35",
+            "36",
+            "37"
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "table-35-1",
+          "title": "Learning Health System Core Characteristics",
+          "caption": "Summary of essential elements for learning health system development across different contexts",
+          "columns": [
+            "Characteristic",
+            "Description",
+            "Implementation Examples"
+          ],
+          "data_source": "Synthesized from Institute of Medicine and WHO frameworks"
+        }
+      ]
+    },
+    {
+      "section_id": "sec-35-5",
+      "title": "Crisis Preparedness and Response",
+      "word_count": 1200,
+      "subsections": [
+        {
+          "subsection_id": "sec-35-5-1",
+          "title": "Emergency Preparedness Planning",
+          "word_count": 400,
+          "key_concepts": [
+            "emergency preparedness",
+            "contingency planning",
+            "risk assessment"
+          ],
+          "primary_references": [
+            "38",
+            "39",
+            "40"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-5-2",
+          "title": "Surge Capacity and Resource Mobilization",
+          "word_count": 400,
+          "key_concepts": [
+            "surge capacity",
+            "resource mobilization",
+            "supply chain resilience"
+          ],
+          "primary_references": [
+            "41",
+            "42",
+            "43"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-5-3",
+          "title": "Business Continuity and Essential Services",
+          "word_count": 400,
+          "key_concepts": [
+            "business continuity",
+            "essential services",
+            "service maintenance"
+          ],
+          "primary_references": [
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "sec-35-6",
+      "title": "Community Engagement and Social Capital",
+      "word_count": 1100,
+      "subsections": [
+        {
+          "subsection_id": "sec-35-6-1",
+          "title": "Community Ownership and Participation",
+          "word_count": 400,
+          "key_concepts": [
+            "community ownership",
+            "participatory governance",
+            "social accountability"
+          ],
+          "primary_references": [
+            "47",
+            "48",
+            "49"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-6-2",
+          "title": "Building Social Capital for Health",
+          "word_count": 350,
+          "key_concepts": [
+            "social capital",
+            "trust",
+            "collective efficacy"
+          ],
+          "primary_references": [
+            "50",
+            "51",
+            "52"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-6-3",
+          "title": "Community Health Worker Integration",
+          "word_count": 350,
+          "key_concepts": [
+            "community health workers",
+            "task shifting",
+            "community-based care"
+          ],
+          "primary_references": [
+            "53",
+            "54",
+            "55"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "sec-35-7",
+      "title": "Leadership, Governance, and Stewardship",
+      "word_count": 1100,
+      "subsections": [
+        {
+          "subsection_id": "sec-35-7-1",
+          "title": "Adaptive Leadership in Health Systems",
+          "word_count": 400,
+          "key_concepts": [
+            "adaptive leadership",
+            "distributed leadership",
+            "crisis leadership"
+          ],
+          "primary_references": [
+            "56",
+            "57",
+            "58"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-7-2",
+          "title": "Health System Stewardship",
+          "word_count": 350,
+          "key_concepts": [
+            "stewardship",
+            "governance functions",
+            "accountability"
+          ],
+          "primary_references": [
+            "59",
+            "60",
+            "61"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-7-3",
+          "title": "Multi-Sectoral Collaboration",
+          "word_count": 350,
+          "key_concepts": [
+            "multi-sectoral action",
+            "Health in All Policies",
+            "intersectoral governance"
+          ],
+          "primary_references": [
+            "62",
+            "63",
+            "64"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "sec-35-8",
+      "title": "Sustainability and Future Directions",
+      "word_count": 1000,
+      "subsections": [
+        {
+          "subsection_id": "sec-35-8-1",
+          "title": "Financial Sustainability",
+          "word_count": 350,
+          "key_concepts": [
+            "financial sustainability",
+            "domestic resource mobilization",
+            "efficiency"
+          ],
+          "primary_references": [
+            "65",
+            "66",
+            "67"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-8-2",
+          "title": "Environmental Sustainability in Health Systems",
+          "word_count": 350,
+          "key_concepts": [
+            "climate-resilient health systems",
+            "sustainable healthcare",
+            "planetary health"
+          ],
+          "primary_references": [
+            "68",
+            "69",
+            "70"
+          ]
+        },
+        {
+          "subsection_id": "sec-35-8-3",
+          "title": "Future Preparedness Strategies",
+          "word_count": 300,
+          "key_concepts": [
+            "future preparedness",
+            "innovation adoption",
+            "transformation"
+          ],
+          "primary_references": [
+            "71",
+            "72",
+            "73"
+          ]
+        }
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Thailand's Universal Health Coverage: Building System Resilience Through Sustained Investment",
+      "country": "Thailand",
+      "who_region": "South-East Asia Region",
+      "income_level": "Upper-middle-income",
+      "population_size": "70 million",
+      "time_period": "2002-2024",
+      "intervention_type": [
+        "Health financing reform",
+        "Primary care strengthening",
+        "Governance reform"
+      ],
+      "key_lessons": [
+        "Sustained political commitment enables long-term system development",
+        "Progressive tax financing provides stable revenue base",
+        "Strong primary care foundation enhances system resilience",
+        "Community engagement strengthens accountability mechanisms",
+        "Investment in health workforce builds adaptive capacity"
+      ],
+      "outcomes": [
+        "Coverage indicators",
+        "Financial protection",
+        "Health outcomes",
+        "Crisis response"
+      ],
+      "primary_references": [
+        "74",
+        "75",
+        "76",
+        "77"
+      ]
+    },
+    {
+      "title": "Sierra Leone's Post-Ebola Health System Recovery and Strengthening",
+      "country": "Sierra Leone",
+      "who_region": "African Region",
+      "income_level": "Low-income",
+      "population_size": "8 million",
+      "time_period": "2015-2024",
+      "intervention_type": [
+        "Health workforce rebuilding",
+        "Infrastructure investment",
+        "Surveillance strengthening",
+        "Community health programs"
+      ],
+      "key_lessons": [
+        "Crisis reveals pre-existing weaknesses requiring structural attention",
+        "Community health worker programs enhance both coverage and resilience",
+        "Integrated surveillance systems strengthen early warning capacity",
+        "International partnership coordination requires local leadership",
+        "Mental health support essential for workforce recovery"
+      ],
+      "outcomes": [
+        "Service utilization",
+        "Workforce capacity",
+        "Surveillance indicators",
+        "Community trust"
+      ],
+      "primary_references": [
+        "78",
+        "79",
+        "80",
+        "81"
+      ]
+    },
+    {
+      "title": "Kaiser Permanente's Learning Health System Model",
+      "country": "United States",
+      "who_region": "Region of the Americas",
+      "income_level": "High-income",
+      "population_size": "12.7 million members",
+      "time_period": "2000-2024",
+      "intervention_type": [
+        "Electronic health records",
+        "Clinical decision support",
+        "Quality improvement programs",
+        "Research integration"
+      ],
+      "key_lessons": [
+        "Integrated data systems enable rapid learning and improvement",
+        "Leadership commitment to learning culture essential",
+        "Research-practice integration accelerates evidence translation",
+        "Patient engagement enhances data quality and outcomes",
+        "Continuous feedback loops drive sustainable improvement"
+      ],
+      "outcomes": [
+        "Quality metrics",
+        "Patient outcomes",
+        "Research productivity",
+        "Innovation adoption"
+      ],
+      "primary_references": [
+        "82",
+        "83",
+        "84"
+      ]
+    },
+    {
+      "title": "Ethiopia's Health Extension Program: Community-Led System Strengthening",
+      "country": "Ethiopia",
+      "who_region": "African Region",
+      "income_level": "Low-income",
+      "population_size": "120 million",
+      "time_period": "2003-2024",
+      "intervention_type": [
+        "Community health worker deployment",
+        "Primary care expansion",
+        "Community ownership",
+        "Task shifting"
+      ],
+      "key_lessons": [
+        "Community health workers bridge facility and community care",
+        "Local ownership enhances program sustainability",
+        "Standardized training ensures quality at scale",
+        "Integration with health system strengthens effectiveness",
+        "Community engagement builds trust and utilization"
+      ],
+      "outcomes": [
+        "Coverage indicators",
+        "Maternal and child health",
+        "Community engagement",
+        "System capacity"
+      ],
+      "primary_references": [
+        "85",
+        "86",
+        "87",
+        "88"
+      ]
+    },
+    {
+      "title": "Denmark's Adaptive Healthcare System Response to COVID-19",
+      "country": "Denmark",
+      "who_region": "European Region",
+      "income_level": "High-income",
+      "population_size": "5.8 million",
+      "time_period": "2020-2023",
+      "intervention_type": [
+        "Surge capacity development",
+        "Digital health acceleration",
+        "Governance coordination",
+        "Public communication"
+      ],
+      "key_lessons": [
+        "Strong primary care foundation enables rapid response adaptation",
+        "Digital infrastructure accelerates response and monitoring",
+        "Transparent communication maintains public trust",
+        "Flexible governance enables rapid policy adjustment",
+        "Pre-existing equity commitment shaped response priorities"
+      ],
+      "outcomes": [
+        "COVID-19 outcomes",
+        "Service continuity",
+        "Vaccination coverage",
+        "Public trust"
+      ],
+      "primary_references": [
+        "89",
+        "90",
+        "91"
+      ]
+    }
+  ],
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 10,
+      "items": [
+        {
+          "question_id": "MCQ-35-1",
+          "question": "According to the Kruk et al. framework, which capacity refers to a health system's ability to maintain core functions during a crisis without fundamental changes to system structure?",
+          "options": [
+            "A. Transformative capacity",
+            "B. Adaptive capacity",
+            "C. Absorptive capacity",
+            "D. Responsive capacity"
+          ],
+          "correct_answer": "C",
+          "explanation": "Absorptive capacity refers to the ability to maintain core functions during a shock using existing resources and capabilities without major system changes, while adaptive capacity involves making adjustments and transformative capacity involves fundamental system restructuring.",
+          "learning_objective": "LO-35.2"
+        },
+        {
+          "question_id": "MCQ-35-2",
+          "question": "Which characteristic distinguishes a learning health system from traditional health systems?",
+          "options": [
+            "A. Higher healthcare spending per capita",
+            "B. More advanced medical technology",
+            "C. Continuous integration of data and evidence into practice improvement",
+            "D. Larger healthcare workforce"
+          ],
+          "correct_answer": "C",
+          "explanation": "Learning health systems are characterized by their systematic integration of data, evidence, and practice to enable continuous improvement cycles, distinguishing them from systems that may have advanced technology but lack systematic learning mechanisms.",
+          "learning_objective": "LO-35.5"
+        },
+        {
+          "question_id": "MCQ-35-3",
+          "question": "In systems thinking, leverage points refer to:",
+          "options": [
+            "A. Points where additional funding will have maximum impact",
+            "B. Places in a complex system where small changes can produce large effects",
+            "C. Decision-making authorities within health ministries",
+            "D. Points of connection between different healthcare facilities"
+          ],
+          "correct_answer": "B",
+          "explanation": "Leverage points, as conceptualized by Donella Meadows and applied to health systems, are places within complex systems where strategic interventions can produce disproportionately large effects on system behavior.",
+          "learning_objective": "LO-35.3"
+        },
+        {
+          "question_id": "MCQ-35-4",
+          "question": "Which of the following best describes adaptive leadership in health systems?",
+          "options": [
+            "A. Leadership that maintains strict hierarchical control during crises",
+            "B. Leadership that addresses complex challenges requiring changes in values, beliefs, and behaviors",
+            "C. Leadership focused primarily on technical problem-solving",
+            "D. Leadership that delegates all decision-making to frontline workers"
+          ],
+          "correct_answer": "B",
+          "explanation": "Adaptive leadership, as conceptualized by Heifetz, addresses adaptive challenges that require changes in values, beliefs, roles, and behaviors, distinguishing it from technical leadership that applies known solutions to defined problems.",
+          "learning_objective": "LO-35.4"
+        },
+        {
+          "question_id": "MCQ-35-5",
+          "question": "Surge capacity in health systems refers to:",
+          "options": [
+            "A. The permanent expansion of healthcare facilities",
+            "B. The ability to rapidly expand capacity to meet increased demand during emergencies",
+            "C. The maximum number of patients a hospital can treat in normal operations",
+            "D. The process of training additional healthcare workers"
+          ],
+          "correct_answer": "B",
+          "explanation": "Surge capacity specifically refers to the ability to rapidly expand treatment capacity beyond normal operations during emergencies, including space, staff, supplies, and systems expansion.",
+          "learning_objective": "LO-35.2"
+        },
+        {
+          "question_id": "MCQ-35-6",
+          "question": "The WHO health system building blocks framework identifies how many core components?",
+          "options": [
+            "A. Four",
+            "B. Five",
+            "C. Six",
+            "D. Eight"
+          ],
+          "correct_answer": "C",
+          "explanation": "The WHO framework identifies six building blocks: service delivery, health workforce, health information systems, access to essential medicines, health financing, and leadership/governance.",
+          "learning_objective": "LO-35.1"
+        },
+        {
+          "question_id": "MCQ-35-7",
+          "question": "Social capital in health systems most directly contributes to resilience through:",
+          "options": [
+            "A. Increasing healthcare funding",
+            "B. Building trust and collective action capacity in communities",
+            "C. Improving medical technology adoption",
+            "D. Expanding hospital infrastructure"
+          ],
+          "correct_answer": "B",
+          "explanation": "Social capital contributes to resilience by building trust, social cohesion, and collective action capacity that enable communities to respond effectively to health challenges and maintain engagement with health systems during crises.",
+          "learning_objective": "LO-35.6"
+        },
+        {
+          "question_id": "MCQ-35-8",
+          "question": "Complex adaptive systems theory suggests that health systems:",
+          "options": [
+            "A. Can be fully controlled through hierarchical management",
+            "B. Exhibit predictable, linear responses to interventions",
+            "C. Display emergence, self-organization, and non-linear behavior",
+            "D. Function best when isolated from external environments"
+          ],
+          "correct_answer": "C",
+          "explanation": "Complex adaptive systems theory emphasizes that health systems exhibit properties including emergence, self-organization, and non-linear responses to interventions, requiring different management approaches than mechanical systems.",
+          "learning_objective": "LO-35.3"
+        },
+        {
+          "question_id": "MCQ-35-9",
+          "question": "Business continuity planning in health systems primarily focuses on:",
+          "options": [
+            "A. Maximizing revenue during normal operations",
+            "B. Maintaining essential services during disruptions",
+            "C. Expanding services to new populations",
+            "D. Reducing operational costs"
+          ],
+          "correct_answer": "B",
+          "explanation": "Business continuity planning focuses on ensuring that essential health services can be maintained during disruptions, including identifying critical functions, developing contingency plans, and establishing recovery procedures.",
+          "learning_objective": "LO-35.2"
+        },
+        {
+          "question_id": "MCQ-35-10",
+          "question": "The Health in All Policies approach exemplifies which resilience-building strategy?",
+          "options": [
+            "A. Surge capacity development",
+            "B. Multi-sectoral collaboration for health",
+            "C. Healthcare workforce expansion",
+            "D. Emergency preparedness planning"
+          ],
+          "correct_answer": "B",
+          "explanation": "Health in All Policies is a multi-sectoral approach that systematically incorporates health considerations into policy-making across all sectors, recognizing that many determinants of health lie outside the health sector.",
+          "learning_objective": "LO-35.4"
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 5,
+      "items": [
+        {
+          "question_id": "SA-35-1",
+          "question": "Explain the distinction between absorptive, adaptive, and transformative capacities in health system resilience, providing one example of each.",
+          "key_points": [
+            "Absorptive capacity: maintaining functions using existing resources",
+            "Adaptive capacity: making adjustments to cope with changing conditions",
+            "Transformative capacity: fundamental system restructuring",
+            "Appropriate examples for each capacity type"
+          ],
+          "learning_objective": "LO-35.2"
+        },
+        {
+          "question_id": "SA-35-2",
+          "question": "Describe three core characteristics of a learning health system and explain how they contribute to continuous improvement.",
+          "key_points": [
+            "Real-time data integration",
+            "Evidence generation embedded in practice",
+            "Rapid feedback loops for improvement",
+            "Culture of continuous learning",
+            "Connection to improvement outcomes"
+          ],
+          "learning_objective": "LO-35.5"
+        },
+        {
+          "question_id": "SA-35-3",
+          "question": "How do feedback loops function in health systems from a systems thinking perspective, and why are they important for resilience?",
+          "key_points": [
+            "Reinforcing and balancing feedback loops",
+            "Examples in health system context",
+            "Role in system stability and change",
+            "Implications for intervention design"
+          ],
+          "learning_objective": "LO-35.3"
+        },
+        {
+          "question_id": "SA-35-4",
+          "question": "Explain how community engagement contributes to health system resilience, citing evidence from at least one case study.",
+          "key_points": [
+            "Community ownership and accountability",
+            "Social capital and trust",
+            "Local knowledge and responsiveness",
+            "Case study evidence with specific outcomes"
+          ],
+          "learning_objective": "LO-35.6"
+        },
+        {
+          "question_id": "SA-35-5",
+          "question": "Discuss the relationship between financial sustainability and health system resilience, including potential tensions and synergies.",
+          "key_points": [
+            "Stable financing enables long-term planning",
+            "Efficiency and resilience trade-offs",
+            "Domestic resource mobilization importance",
+            "Investment in preparedness costs vs. crisis costs"
+          ],
+          "learning_objective": "LO-35.1"
+        }
+      ]
+    },
+    "case_study_exercises": {
+      "count": 2,
+      "items": [
+        {
+          "exercise_id": "CSE-35-1",
+          "title": "Designing a Health System Resilience Strategy",
+          "scenario": "You are advising a lower-middle-income country that experienced significant health system disruption during the COVID-19 pandemic. The country has identified weaknesses in surge capacity, health information systems, and community engagement. You have been asked to develop a five-year health system resilience strategy.",
+          "tasks": [
+            "Conduct a resilience capacity assessment identifying absorptive, adaptive, and transformative capacity gaps",
+            "Prioritize interventions across the six WHO health system building blocks",
+            "Design a learning health system component that addresses the identified information system weaknesses",
+            "Develop a community engagement strategy that builds social capital and local ownership",
+            "Create a monitoring framework with specific resilience indicators"
+          ],
+          "deliverables": [
+            "Capacity gap assessment matrix",
+            "Prioritized intervention plan with timeline",
+            "Learning health system implementation roadmap",
+            "Community engagement strategy",
+            "Resilience monitoring framework with indicators"
+          ],
+          "learning_objectives": [
+            "LO-35.1",
+            "LO-35.2",
+            "LO-35.5",
+            "LO-35.6"
+          ]
+        },
+        {
+          "exercise_id": "CSE-35-2",
+          "title": "Systems Analysis of Health System Challenge",
+          "scenario": "A health system is struggling with high maternal mortality despite significant investments in facility-based care. Mortality rates have remained stubbornly high for a decade. Traditional interventions have shown limited impact.",
+          "tasks": [
+            "Apply systems thinking to map the maternal health system including feedback loops and interconnections",
+            "Identify potential leverage points for intervention using the Meadows framework",
+            "Analyze how complex adaptive systems properties may explain the persistent challenge",
+            "Design an intervention strategy that addresses system dynamics rather than isolated components",
+            "Develop an adaptive management approach for implementation"
+          ],
+          "deliverables": [
+            "Causal loop diagram of maternal health system",
+            "Leverage point analysis with prioritization",
+            "Systems-informed intervention design",
+            "Adaptive management plan with learning checkpoints"
+          ],
+          "learning_objectives": [
+            "LO-35.3",
+            "LO-35.4"
+          ]
+        }
+      ]
+    },
+    "policy_analysis_exercises": {
+      "count": 2,
+      "items": [
+        {
+          "exercise_id": "PAE-35-1",
+          "title": "Pandemic Preparedness Policy Development",
+          "description": "Develop a national pandemic preparedness policy framework that integrates lessons from COVID-19 and other recent health emergencies. The policy should address surge capacity, governance coordination, and community engagement.",
+          "components": [
+            "Analysis of pandemic preparedness policy gaps in a selected country",
+            "Governance framework for multi-sectoral coordination",
+            "Surge capacity standards and funding mechanisms",
+            "Community engagement and risk communication strategy",
+            "Learning and adaptation mechanisms for policy refinement"
+          ],
+          "learning_objectives": [
+            "LO-35.2",
+            "LO-35.4"
+          ]
+        },
+        {
+          "exercise_id": "PAE-35-2",
+          "title": "Sustainable Health System Financing Strategy",
+          "description": "Design a health financing strategy that balances resilience investments with efficiency and sustainability considerations. Address domestic resource mobilization, risk pooling, and investment in preparedness.",
+          "components": [
+            "Fiscal space analysis for health",
+            "Resilience investment cost-benefit framework",
+            "Domestic resource mobilization strategies",
+            "Risk pooling and financial protection mechanisms",
+            "Sustainability monitoring indicators"
+          ],
+          "learning_objectives": [
+            "LO-35.1",
+            "LO-35.4"
+          ]
+        }
+      ]
+    }
+  },
+  "references": {
+    "total_count": 100,
+    "primary_source_percentage": 95,
+    "reference_types": {
+      "peer_reviewed_articles": 65,
+      "who_documents": 18,
+      "systematic_reviews": 12,
+      "policy_documents": 5
+    }
+  },
+  "quality_metrics": {
+    "geographic_coverage_score": 6,
+    "income_level_coverage": 4,
+    "evidence_quality_score": "High",
+    "synthesis_integration_score": "Comprehensive",
+    "bloom_taxonomy_coverage": [
+      "Apply",
+      "Analyze",
+      "Evaluate",
+      "Create"
+    ]
+  }
+}

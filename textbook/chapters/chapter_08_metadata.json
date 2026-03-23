@@ -1,0 +1,262 @@
+{
+  "chapter_number": 8,
+  "title": "Vector-Borne Diseases",
+  "part": {
+    "part_number": 2,
+    "part_title": "Communicable Diseases"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "citation_style": "Vancouver",
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define vector-borne diseases and describe the epidemiological characteristics of major vector-borne pathogens including malaria, dengue, chikungunya, Zika, yellow fever, and neglected tropical diseases"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Explain vector biology, ecology, and life cycles for major disease vectors including Anopheles, Aedes, Culex, and Phlebotomus species"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Identify global distribution patterns of vector-borne diseases and factors influencing transmission dynamics"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Compare transmission patterns between different vector-borne diseases and their relationship to environmental factors"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Analyze the relationship between climate change, urbanization, and changing vector-borne disease epidemiology"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the principles of integrated vector management and its components"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Design evidence-based vector control interventions appropriate for different epidemiological settings"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply malaria elimination frameworks to assess elimination feasibility in various contexts"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Implement community engagement strategies for vector control programs"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate the effectiveness of different vector control methods including ITNs, IRS, biological control, and novel technologies"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Assess the impact of climate change on vector-borne disease distribution and transmission patterns"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze barriers and facilitators to vector-borne disease control in resource-limited settings"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Integrate multiple vector control strategies into comprehensive integrated vector management programs"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop One Health approaches to vector-borne disease prevention and control"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Create climate change adaptation strategies for vector-borne disease control"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critically assess malaria elimination strategies and their likelihood of success in different contexts"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate cost-effectiveness of vector-borne disease control interventions"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Judge the quality of vector-borne disease surveillance systems and outbreak response mechanisms"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Malaria",
+      "subtopics": [
+        "Global epidemiology and burden",
+        "Plasmodium species and life cycle",
+        "Anopheles vector biology and behavior",
+        "Clinical manifestations and severe malaria",
+        "Vector control: ITNs, IRS, larviciding",
+        "Case management and treatment",
+        "Elimination strategies and certification",
+        "Drug and insecticide resistance"
+      ],
+      "geographic_focus": [
+        "Sub-Saharan Africa",
+        "Southeast Asia",
+        "Amazon Basin",
+        "Pacific Islands"
+      ]
+    },
+    {
+      "topic": "Arboviral Diseases",
+      "subtopics": [
+        "Dengue epidemiology and serotypes",
+        "Chikungunya emergence and spread",
+        "Zika virus and public health impact",
+        "Aedes aegypti and albopictus biology",
+        "Urban vector control strategies",
+        "Outbreak investigation and response",
+        "Vaccine development and implementation"
+      ],
+      "geographic_focus": [
+        "Americas",
+        "Southeast Asia",
+        "Pacific Region",
+        "Africa",
+        "Mediterranean"
+      ]
+    },
+    {
+      "topic": "Yellow Fever",
+      "subtopics": [
+        "Sylvatic vs urban transmission cycles",
+        "17D vaccine development and use",
+        "Outbreak response strategies",
+        "Emergency vaccination campaigns",
+        "International health regulations"
+      ],
+      "geographic_focus": [
+        "West Africa",
+        "Central Africa",
+        "South America"
+      ]
+    },
+    {
+      "topic": "Neglected Tropical Diseases",
+      "subtopics": [
+        "Leishmaniasis: cutaneous, visceral, mucocutaneous",
+        "Human African trypanosomiasis",
+        "Chagas disease",
+        "Onchocerciasis and river blindness",
+        "Lymphatic filariasis",
+        "Elimination and eradication programs",
+        "Mass drug administration strategies"
+      ],
+      "geographic_focus": [
+        "All WHO regions with emphasis on endemic areas"
+      ]
+    },
+    {
+      "topic": "Vector Ecology and Control",
+      "subtopics": [
+        "Vector biology and life cycles",
+        "Environmental factors affecting vector populations",
+        "Integrated vector management principles",
+        "Biological control methods",
+        "Novel control technologies",
+        "Insecticide resistance monitoring",
+        "Community engagement in vector control"
+      ]
+    },
+    {
+      "topic": "Climate Change and Vector-Borne Diseases",
+      "subtopics": [
+        "Temperature and precipitation effects on vectors",
+        "Altitudinal and latitudinal range shifts",
+        "Seasonal pattern changes",
+        "Early warning systems",
+        "Adaptation strategies"
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Malaria Elimination in Sri Lanka",
+      "income_level": "Lower-middle income",
+      "time_period": "2000-2016",
+      "focus": "Successful elimination strategy implementation",
+      "key_interventions": [
+        "Strengthened surveillance systems",
+        "Case investigation and response",
+        "Vector control intensification",
+        "Cross-border collaboration",
+        "Political commitment and funding"
+      ]
+    },
+    {
+      "title": "Dengue Control in Singapore",
+      "income_level": "High income",
+      "time_period": "Ongoing program since 1970s",
+      "focus": "Urban vector control and surveillance innovation",
+      "key_interventions": [
+        "Comprehensive surveillance systems",
+        "Source reduction campaigns",
+        "Wolbachia mosquito program",
+        "Community engagement strategies",
+        "Technology-enhanced monitoring"
+      ]
+    },
+    {
+      "title": "Onchocerciasis Control Programme in West Africa",
+      "income_level": "Low income",
+      "time_period": "1974-2002",
+      "focus": "Regional elimination through integrated approach",
+      "key_interventions": [
+        "Vector control (larviciding)",
+        "Mass drug administration with ivermectin",
+        "Community-directed treatment",
+        "Regional coordination",
+        "Partnership development"
+      ]
+    },
+    {
+      "title": "Highland Malaria in East Africa",
+      "income_level": "Low income",
+      "time_period": "1990s-present",
+      "focus": "Climate change adaptation strategies",
+      "key_interventions": [
+        "Surveillance system adaptation",
+        "Early warning systems",
+        "Targeted vector control",
+        "Capacity building for epidemic response",
+        "Climate monitoring integration"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low income",
+      "Lower-middle income",
+      "Upper-middle income",
+      "High income"
+    ]
+  },
+  "competencies_addressed": [
+    "Epidemiological analysis",
+    "Program planning and implementation",
+    "Community engagement",
+    "Evidence-based decision making",
+    "Cross-cultural communication",
+    "Systems thinking",
+    "Policy analysis"
+  ]
+}

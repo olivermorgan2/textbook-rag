@@ -1,0 +1,104 @@
+{
+  "chapter_number": 1,
+  "title": "Introduction to Global Public Health",
+  "part": {
+    "part_number": 1,
+    "part_title": "Foundations of Global Public Health"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "citation_style": "Vancouver",
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define global public health and distinguish it from traditional public health practice."
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the historical evolution of global public health from international sanitary conferences to contemporary global health governance."
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply core principles of global public health (equity, human rights, evidence-based practice) to analyze contemporary health challenges."
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the roles and relationships of key global health actors including WHO, multilateral organizations, and civil society."
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the effectiveness of global health initiatives using case studies from different WHO regions and income levels."
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Synthesize knowledge of global health principles to propose solutions for emerging health challenges that transcend national boundaries."
+    }
+  ],
+  "key_concepts": [
+    "Global public health definition",
+    "Health as a human right",
+    "Global health governance",
+    "International Health Regulations",
+    "Sustainable Development Goals",
+    "Health equity",
+    "Global health security",
+    "One Health approach",
+    "Universal health coverage",
+    "Health systems strengthening"
+  ],
+  "content_sections": [
+    {
+      "title": "1.1 Defining Global Public Health"
+    },
+    {
+      "title": "1.2 Historical Evolution and Key Milestones"
+    },
+    {
+      "title": "1.3 Core Principles and Values"
+    },
+    {
+      "title": "1.4 Global Health Governance and Architecture"
+    },
+    {
+      "title": "1.5 Key Actors in Global Health"
+    },
+    {
+      "title": "1.6 Contemporary Challenges and Future Directions"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Smallpox Eradication: A Global Public Health Success",
+      "who_region": "All regions",
+      "income_level": "All levels",
+      "geographic_focus": "Global initiative",
+      "key_lessons": [
+        "Demonstrates power of coordinated global action and surveillance"
+      ]
+    },
+    {
+      "title": "Rwanda's Health System Transformation (1994-2024)",
+      "who_region": "African Region",
+      "income_level": "Low to Lower-middle income",
+      "geographic_focus": "Sub-Saharan Africa",
+      "key_lessons": [
+        "Post-conflict health system rebuilding and community-based care"
+      ]
+    },
+    {
+      "title": "Thailand's Universal Health Coverage Journey",
+      "who_region": "South-East Asia Region",
+      "income_level": "Upper-middle income",
+      "geographic_focus": "Southeast Asia",
+      "key_lessons": [
+        "Policy innovation in achieving universal health coverage"
+      ]
+    }
+  ]
+}

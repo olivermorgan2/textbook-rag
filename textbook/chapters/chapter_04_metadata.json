@@ -1,0 +1,141 @@
+{
+  "chapter_number": 4,
+  "title": "Global Health Systems and Universal Health Coverage",
+  "part": {
+    "part_number": 1,
+    "part_title": "Foundations of Global Public Health"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "citation_style": "Vancouver",
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define the six building blocks of health systems according to the WHO framework"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the relationship between health system strengthening and universal health coverage achievement"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Assess health system performance using established WHO and other international frameworks"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Compare different health financing mechanisms and their impact on financial protection and equity"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the effectiveness of different UHC implementation strategies across diverse country contexts"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design context-appropriate health system strengthening interventions for low- and middle-income countries"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "WHO Health Systems Framework"
+    },
+    {
+      "topic": "Universal Health Coverage dimensions"
+    },
+    {
+      "topic": "Health financing mechanisms"
+    },
+    {
+      "topic": "Primary Health Care as foundation"
+    },
+    {
+      "topic": "Health systems governance"
+    },
+    {
+      "topic": "Human resources for health"
+    },
+    {
+      "topic": "Health information systems"
+    },
+    {
+      "topic": "Medical products and technologies"
+    },
+    {
+      "topic": "Service delivery models"
+    },
+    {
+      "topic": "Health systems resilience"
+    },
+    {
+      "topic": "Digital health innovations"
+    },
+    {
+      "topic": "Performance measurement frameworks"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Thailand's Journey to Universal Health Coverage",
+      "focus": "Successful UHC implementation in middle-income country",
+      "key_lessons": [
+        "Political commitment",
+        "Evidence-based policy",
+        "Stepwise implementation",
+        "Financial sustainability"
+      ]
+    },
+    {
+      "title": "Rwanda's Performance-Based Financing Revolution",
+      "focus": "Innovative health financing mechanism",
+      "key_lessons": [
+        "Quality improvement",
+        "Provider incentives",
+        "Community engagement",
+        "Results measurement"
+      ]
+    },
+    {
+      "title": "Estonia's Digital Health Transformation",
+      "focus": "Digital health system innovation",
+      "key_lessons": [
+        "Interoperability",
+        "Privacy protection",
+        "User adoption",
+        "Efficiency gains"
+      ]
+    },
+    {
+      "title": "Sierra Leone: Rebuilding Health Systems Post-Conflict",
+      "focus": "Health system strengthening in fragile state",
+      "key_lessons": [
+        "International cooperation",
+        "Capacity building",
+        "Infrastructure rebuilding",
+        "Trust restoration"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "South-East Asia Region",
+      "European Region",
+      "Region of the Americas",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ]
+  },
+  "key_frameworks": [
+    "WHO Health Systems Framework (6 building blocks)",
+    "WHO UHC monitoring framework",
+    "Health Systems Performance Assessment",
+    "Tracer indicators for UHC",
+    "OECD Health Systems Characteristics Survey",
+    "World Bank Universal Health Coverage Index"
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "chapter_number": 22,
+  "title": "Environmental Health",
+  "part": {
+    "part_number": 5,
+    "part_title": "Environmental and Social Determinants"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Identify major environmental health hazards and their sources"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "List key environmental health policies and regulatory frameworks"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Describe the basic principles of environmental exposure assessment"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the pathways linking environmental exposures to health outcomes"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Compare air quality standards and monitoring approaches globally"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Interpret environmental health risk assessment methodologies"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Assess environmental health risks using standard exposure assessment tools"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply environmental health principles to design interventions for specific populations"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Use environmental justice frameworks in policy analysis"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the effectiveness of environmental health interventions across different contexts"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate climate change health impact projections and uncertainty"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Compare environmental health policies between high-income and low-income settings"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critique current approaches to environmental health regulation and enforcement"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Assess the quality and reliability of environmental health research evidence"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate trade-offs between economic development and environmental health protection"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design comprehensive environmental health programs for specific communities"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop environmental justice policies addressing health disparities"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Formulate adaptive environmental health strategies for climate change"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Air Quality Pollution",
+      "subtopics": [
+        "ambient air pollution",
+        "indoor air pollution",
+        "particulate matter",
+        "ground-level ozone",
+        "sulfur dioxide",
+        "nitrogen oxides",
+        "health impacts",
+        "vulnerable populations"
+      ],
+      "global_examples": [
+        "China air quality improvements",
+        "India pollution control",
+        "Mexico City smog reduction",
+        "London air quality zones"
+      ],
+      "assessment_methods": [
+        "air quality monitoring",
+        "exposure modeling",
+        "health impact assessment"
+      ]
+    },
+    {
+      "topic": "Water Quality Safety",
+      "subtopics": [
+        "water contamination sources",
+        "microbial contamination",
+        "chemical contamination",
+        "water treatment technologies",
+        "water quality monitoring",
+        "sanitation systems"
+      ],
+      "global_examples": [
+        "Flint water crisis",
+        "Bangladesh arsenic contamination",
+        "cholera outbreaks",
+        "water treatment programs"
+      ],
+      "assessment_methods": [
+        "water quality testing",
+        "microbial analysis",
+        "chemical analysis"
+      ]
+    },
+    {
+      "topic": "Climate Change Health",
+      "subtopics": [
+        "direct health effects",
+        "indirect health effects",
+        "extreme weather events",
+        "vector-borne diseases",
+        "food security",
+        "adaptation strategies",
+        "mitigation strategies"
+      ],
+      "global_examples": [
+        "European heat waves",
+        "Australian bushfires",
+        "Pacific Island adaptation",
+        "Arctic communities"
+      ],
+      "assessment_methods": [
+        "climate projections",
+        "vulnerability assessment",
+        "adaptation planning"
+      ]
+    },
+    {
+      "topic": "Chemical Exposures",
+      "subtopics": [
+        "pesticides",
+        "heavy metals",
+        "endocrine disruptors",
+        "persistent organic pollutants",
+        "occupational exposures",
+        "environmental justice"
+      ],
+      "global_examples": [
+        "lead paint removal",
+        "DDT phase-out",
+        "mercury reduction",
+        "industrial chemical regulation"
+      ],
+      "assessment_methods": [
+        "biomonitoring",
+        "exposure modeling",
+        "risk assessment"
+      ]
+    },
+    {
+      "topic": "Built Environment",
+      "subtopics": [
+        "housing quality",
+        "urban planning",
+        "green spaces",
+        "transportation",
+        "walkability",
+        "noise pollution"
+      ],
+      "global_examples": [
+        "Healthy Cities initiatives",
+        "urban green space programs",
+        "transportation interventions",
+        "slum upgrading"
+      ],
+      "assessment_methods": [
+        "built environment audits",
+        "walkability assessments",
+        "noise monitoring"
+      ]
+    },
+    {
+      "topic": "Environmental Assessment",
+      "subtopics": [
+        "exposure assessment",
+        "health impact assessment",
+        "risk assessment",
+        "environmental monitoring",
+        "cumulative risk assessment"
+      ],
+      "methodologies": [
+        "exposure modeling",
+        "biomarker analysis",
+        "geographic information systems",
+        "epidemiological studies"
+      ],
+      "applications": [
+        "policy development",
+        "intervention design",
+        "regulatory compliance"
+      ]
+    },
+    {
+      "topic": "Environmental Policy",
+      "subtopics": [
+        "regulation development",
+        "monitoring systems",
+        "enforcement mechanisms",
+        "international agreements",
+        "environmental law"
+      ],
+      "global_frameworks": [
+        "Paris Agreement",
+        "Stockholm Convention",
+        "Basel Convention",
+        "WHO air quality guidelines"
+      ],
+      "implementation_challenges": [
+        "capacity building",
+        "resource allocation",
+        "political will",
+        "international cooperation"
+      ]
+    },
+    {
+      "topic": "Planetary Health",
+      "subtopics": [
+        "environmental sustainability",
+        "human health co-benefits",
+        "ecosystem services",
+        "biodiversity",
+        "circular economy",
+        "sustainable development"
+      ],
+      "integration_approaches": [
+        "One Health",
+        "EcoHealth",
+        "sustainable development goals",
+        "green economy"
+      ],
+      "indicators": [
+        "environmental footprint",
+        "ecological integrity",
+        "health co-benefits"
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "China's Air Pollution Control: The 2013-2017 Clean Air Action Plan",
+      "who_region": "Western Pacific Region",
+      "income_level": "Upper-middle income",
+      "geographic_focus": "China (Western Pacific Region)",
+      "population_size": "1.4 billion",
+      "intervention_type": [
+        "National policy implementation"
+      ],
+      "key_interventions": [
+        "coal reduction",
+        "industrial emission controls",
+        "vehicle emission standards",
+        "monitoring network expansion"
+      ],
+      "key_lessons": [
+        "political commitment essential",
+        "multi-sectoral coordination needed",
+        "economic co-benefits possible"
+      ],
+      "outcomes": [
+        "reduced PM2.5 concentrations",
+        "decreased premature mortality",
+        "improved respiratory health"
+      ],
+      "sdg_alignment": [
+        "SDG 3",
+        "SDG 11",
+        "SDG 13"
+      ]
+    },
+    {
+      "title": "European Heat-Health Warning Systems: Lessons from the 2003 Heat Wave",
+      "who_region": "European Region",
+      "income_level": "High income",
+      "geographic_focus": "Europe (European Region)",
+      "population_size": "Multiple countries",
+      "intervention_type": [
+        "Early warning system implementation"
+      ],
+      "key_interventions": [
+        "meteorological monitoring",
+        "public health alerts",
+        "emergency response protocols",
+        "vulnerable population protection"
+      ],
+      "key_lessons": [
+        "early warning systems save lives",
+        "vulnerable populations need targeted protection",
+        "intersectoral collaboration critical"
+      ],
+      "outcomes": [
+        "reduced heat-related mortality",
+        "improved emergency preparedness",
+        "enhanced public awareness"
+      ],
+      "sdg_alignment": [
+        "SDG 3",
+        "SDG 11",
+        "SDG 13"
+      ]
+    },
+    {
+      "title": "Medellín Urban Innovation: Green Corridors and Public Spaces",
+      "who_region": "Region of the Americas",
+      "income_level": "Upper-middle income",
+      "geographic_focus": "Medellín, Colombia (Region of the Americas)",
+      "population_size": "2.5 million metropolitan area",
+      "intervention_type": [
+        "Urban planning transformation"
+      ],
+      "key_interventions": [
+        "green corridor development",
+        "public transportation",
+        "public space creation",
+        "informal settlement upgrading"
+      ],
+      "key_lessons": [
+        "urban design affects health",
+        "community engagement essential",
+        "integrated planning needed"
+      ],
+      "outcomes": [
+        "reduced air pollution",
+        "increased physical activity",
+        "improved mental health",
+        "reduced violence"
+      ],
+      "sdg_alignment": [
+        "SDG 3",
+        "SDG 11",
+        "SDG 16"
+      ]
+    },
+    {
+      "title": "South Africa's Mine Water Management: Addressing Legacy Pollution",
+      "who_region": "African Region",
+      "income_level": "Upper-middle income",
+      "geographic_focus": "Witwatersrand Basin, South Africa (African Region)",
+      "population_size": "12 million affected",
+      "intervention_type": [
+        "Environmental remediation and community health"
+      ],
+      "key_interventions": [
+        "water treatment systems",
+        "community monitoring",
+        "health surveillance",
+        "alternative water supplies"
+      ],
+      "key_lessons": [
+        "environmental justice requires community engagement",
+        "legacy pollution affects marginalized populations",
+        "long-term solutions needed"
+      ],
+      "outcomes": [
+        "reduced water contamination",
+        "decreased disease burden",
+        "improved community capacity"
+      ],
+      "sdg_alignment": [
+        "SDG 3",
+        "SDG 6",
+        "SDG 10"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East_Asia",
+      "European Region",
+      "Eastern_Mediterranean",
+      "Western_Pacific"
+    ],
+    "income_levels": [
+      "low_income",
+      "lower_middle_income",
+      "upper_middle_income",
+      "high_income"
+    ],
+    "income_level_details": {
+      "low_income": [
+        "environmental health in LDCs",
+        "basic environmental services",
+        "community-based solutions"
+      ],
+      "lower_middle_income": [
+        "pollution in rapidly industrializing countries",
+        "environmental health transitions",
+        "policy implementation challenges"
+      ],
+      "upper_middle_income": [
+        "air quality improvements in China",
+        "urban environmental health",
+        "climate adaptation investments"
+      ],
+      "high_income": [
+        "environmental health regulation",
+        "advanced monitoring systems",
+        "environmental justice movements"
+      ]
+    }
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 15,
+      "topics": [
+        "air pollution health effects",
+        "water quality standards",
+        "climate health impacts",
+        "chemical exposure pathways",
+        "environmental assessment methods"
+      ],
+      "difficulty_levels": [
+        "basic recall",
+        "application",
+        "analysis"
+      ]
+    },
+    "short_answer_questions": {
+      "count": 8,
+      "topics": [
+        "environmental health risk factors",
+        "policy implementation challenges",
+        "exposure assessment methods",
+        "environmental justice principles"
+      ],
+      "word_limit": "100-150 words each"
+    },
+    "case_study_exercises": {
+      "count": 4,
+      "formats": [
+        "environmental health impact assessment",
+        "policy analysis",
+        "intervention design",
+        "environmental justice evaluation"
+      ],
+      "requirements": [
+        "evidence-based reasoning",
+        "consideration of context",
+        "practical recommendations"
+      ]
+    },
+    "policy_analysis_exercises": {
+      "count": 2,
+      "topics": [
+        "environmental health regulation comparison",
+        "climate adaptation policy evaluation"
+      ],
+      "requirements": [
+        "stakeholder analysis",
+        "implementation feasibility",
+        "health equity considerations"
+      ]
+    }
+  },
+  "research_emphasis": {
+    "exposure_assessment": [
+      "biomarker development",
+      "exposure modeling advances",
+      "cumulative exposure assessment",
+      "vulnerable population studies"
+    ],
+    "climate_health": [
+      "health impact projections",
+      "adaptation effectiveness",
+      "co-benefits analysis",
+      "extreme event health impacts"
+    ],
+    "built_environment": [
+      "health impact evaluation",
+      "natural experiments",
+      "intervention effectiveness",
+      "health equity outcomes"
+    ],
+    "policy_evaluation": [
+      "implementation research",
+      "enforcement effectiveness",
+      "health co-benefits",
+      "economic evaluation"
+    ],
+    "environmental_justice": [
+      "health disparities research",
+      "community-based participatory research",
+      "cumulative impact assessment",
+      "policy solutions"
+    ]
+  },
+  "sustainability_integration": {
+    "sdg_connections": [
+      "SDG 3: Good Health",
+      "SDG 6: Clean Water",
+      "SDG 11: Sustainable Cities",
+      "SDG 13: Climate Action",
+      "SDG 15: Life on Land"
+    ],
+    "planetary_health": [
+      "environmental limits",
+      "health co-benefits",
+      "sustainable development",
+      "intergenerational equity"
+    ],
+    "green_economy": [
+      "environmental health investments",
+      "job creation",
+      "innovation",
+      "sustainable technologies"
+    ],
+    "humanitarian_settings": [
+      "environmental health in emergencies",
+      "WASH in crisis",
+      "climate displacement",
+      "conflict and environment"
+    ]
+  }
+}

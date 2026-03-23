@@ -1,0 +1,853 @@
+{
+  "chapter_number": 34,
+  "title": "Emerging Challenges in Global Health",
+  "part": {
+    "part_number": 8,
+    "part_title": "Future Directions"
+  },
+  "version": "1.0",
+  "last_updated": "2025-12-07",
+  "keywords": [
+    "planetary health",
+    "climate change",
+    "health impacts",
+    "globalization",
+    "artificial intelligence",
+    "genomics",
+    "demographic transition",
+    "aging populations",
+    "migration health",
+    "antimicrobial resistance",
+    "emerging infectious diseases",
+    "health system transformation",
+    "digital health",
+    "sustainable healthcare",
+    "anticipatory governance"
+  ],
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "actual_word_count": 7856,
+  "cross_references": {
+    "prerequisite_chapters": [
+      2,
+      3,
+      11,
+      22,
+      28
+    ],
+    "related_chapters": [
+      11,
+      22,
+      25,
+      28,
+      31,
+      35
+    ],
+    "follow_up_chapters": [
+      35
+    ]
+  },
+  "learning_objectives": [
+    {
+      "objective_id": "LO-34.1",
+      "bloom_level": "Analyze",
+      "text": "Analyze the interconnections between planetary health, environmental sustainability, and human health outcomes using systems thinking frameworks",
+      "assessment_method": "Case study analysis"
+    },
+    {
+      "objective_id": "LO-34.2",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate evidence on climate change health impacts and critically assess adaptation strategies across different geographic and economic contexts",
+      "assessment_method": "Policy analysis exercise"
+    },
+    {
+      "objective_id": "LO-34.3",
+      "bloom_level": "Create",
+      "text": "Design governance frameworks for emerging health technologies including artificial intelligence, genomics, and digital health applications",
+      "assessment_method": "Governance framework development"
+    },
+    {
+      "objective_id": "LO-34.4",
+      "bloom_level": "Apply",
+      "text": "Apply scenario planning and forecasting methodologies to anticipate future global health challenges",
+      "assessment_method": "Scenario planning exercise"
+    },
+    {
+      "objective_id": "LO-34.5",
+      "bloom_level": "Create",
+      "text": "Synthesize strategies for health system transformation in response to demographic transitions and changing disease burdens",
+      "assessment_method": "Policy brief development"
+    },
+    {
+      "objective_id": "LO-34.6",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate global cooperation mechanisms and anticipatory governance approaches for addressing transboundary health threats",
+      "assessment_method": "Multiple choice and short answer"
+    }
+  ],
+  "content_sections": [
+    {
+      "section_id": "34.1",
+      "title": "Introduction to Emerging Global Health Challenges",
+      "subsections": [
+        {
+          "subsection_id": "34.1.1",
+          "title": "The Changing Global Health Landscape"
+        },
+        {
+          "subsection_id": "34.1.2",
+          "title": "Systems Thinking and Complexity"
+        },
+        {
+          "subsection_id": "34.1.3",
+          "title": "Anticipatory Governance Frameworks"
+        }
+      ],
+      "key_concepts": [
+        "emerging health challenges",
+        "systems thinking",
+        "complexity science",
+        "anticipatory governance",
+        "future preparedness"
+      ]
+    },
+    {
+      "section_id": "34.2",
+      "title": "Planetary Health and Environmental Sustainability",
+      "subsections": [
+        {
+          "subsection_id": "34.2.1",
+          "title": "Conceptual Framework for Planetary Health"
+        },
+        {
+          "subsection_id": "34.2.2",
+          "title": "Planetary Boundaries and Health Implications"
+        },
+        {
+          "subsection_id": "34.2.3",
+          "title": "Biodiversity Loss and Human Health"
+        },
+        {
+          "subsection_id": "34.2.4",
+          "title": "Sustainable Healthcare Systems"
+        }
+      ],
+      "key_concepts": [
+        "planetary health",
+        "planetary boundaries",
+        "biodiversity",
+        "sustainable healthcare",
+        "environmental health"
+      ]
+    },
+    {
+      "section_id": "34.3",
+      "title": "Climate Change and Health",
+      "subsections": [
+        {
+          "subsection_id": "34.3.1",
+          "title": "Direct Health Impacts of Climate Change"
+        },
+        {
+          "subsection_id": "34.3.2",
+          "title": "Indirect and Ecosystem-Mediated Effects"
+        },
+        {
+          "subsection_id": "34.3.3",
+          "title": "Climate-Sensitive Infectious Diseases"
+        },
+        {
+          "subsection_id": "34.3.4",
+          "title": "Climate Change Adaptation in Health Systems"
+        }
+      ],
+      "key_concepts": [
+        "climate change",
+        "heat-related mortality",
+        "vector-borne diseases",
+        "food security",
+        "climate adaptation"
+      ]
+    },
+    {
+      "section_id": "34.4",
+      "title": "Technological Disruption in Health",
+      "subsections": [
+        {
+          "subsection_id": "34.4.1",
+          "title": "Artificial Intelligence and Machine Learning"
+        },
+        {
+          "subsection_id": "34.4.2",
+          "title": "Genomics and Precision Medicine"
+        },
+        {
+          "subsection_id": "34.4.3",
+          "title": "Digital Health Transformation"
+        },
+        {
+          "subsection_id": "34.4.4",
+          "title": "Governance of Health Technologies"
+        }
+      ],
+      "key_concepts": [
+        "artificial intelligence",
+        "machine learning",
+        "genomics",
+        "precision medicine",
+        "digital health",
+        "technology governance"
+      ]
+    },
+    {
+      "section_id": "34.5",
+      "title": "Demographic Transitions and Health",
+      "subsections": [
+        {
+          "subsection_id": "34.5.1",
+          "title": "Global Aging and Health System Implications"
+        },
+        {
+          "subsection_id": "34.5.2",
+          "title": "Migration and Health"
+        },
+        {
+          "subsection_id": "34.5.3",
+          "title": "Urbanization and Health Challenges"
+        },
+        {
+          "subsection_id": "34.5.4",
+          "title": "Changing Family Structures and Care Systems"
+        }
+      ],
+      "key_concepts": [
+        "population aging",
+        "migration health",
+        "urbanization",
+        "demographic dividend",
+        "care systems"
+      ]
+    },
+    {
+      "section_id": "34.6",
+      "title": "Emerging Infectious Disease Threats",
+      "subsections": [
+        {
+          "subsection_id": "34.6.1",
+          "title": "Pandemic Risk and Preparedness"
+        },
+        {
+          "subsection_id": "34.6.2",
+          "title": "Antimicrobial Resistance as Global Threat"
+        },
+        {
+          "subsection_id": "34.6.3",
+          "title": "Zoonotic Disease Emergence and One Health"
+        },
+        {
+          "subsection_id": "34.6.4",
+          "title": "Global Health Security Architecture"
+        }
+      ],
+      "key_concepts": [
+        "pandemic preparedness",
+        "antimicrobial resistance",
+        "zoonotic diseases",
+        "One Health",
+        "global health security"
+      ]
+    },
+    {
+      "section_id": "34.7",
+      "title": "Social and Political Determinants of Future Health",
+      "subsections": [
+        {
+          "subsection_id": "34.7.1",
+          "title": "Globalization and Health Equity"
+        },
+        {
+          "subsection_id": "34.7.2",
+          "title": "Conflict, Fragility, and Health"
+        },
+        {
+          "subsection_id": "34.7.3",
+          "title": "Changing Governance Landscapes"
+        },
+        {
+          "subsection_id": "34.7.4",
+          "title": "Misinformation and Health"
+        }
+      ],
+      "key_concepts": [
+        "globalization",
+        "health equity",
+        "conflict",
+        "governance",
+        "misinformation"
+      ]
+    },
+    {
+      "section_id": "34.8",
+      "title": "Case Studies in Emerging Health Challenges",
+      "subsections": [
+        {
+          "subsection_id": "34.8.1",
+          "title": "Case Study 34.1: European Heat-Health Action Plans"
+        },
+        {
+          "subsection_id": "34.8.2",
+          "title": "Case Study 34.2: NHS England Sustainable Healthcare"
+        },
+        {
+          "subsection_id": "34.8.3",
+          "title": "Case Study 34.3: Singapore AI Governance in Healthcare"
+        },
+        {
+          "subsection_id": "34.8.4",
+          "title": "Case Study 34.4: Japan's Super-Aged Society Response"
+        }
+      ],
+      "key_concepts": [
+        "heat-health systems",
+        "sustainable healthcare",
+        "AI governance",
+        "aging society"
+      ]
+    },
+    {
+      "section_id": "34.9",
+      "title": "Future Directions and Strategic Responses",
+      "subsections": [
+        {
+          "subsection_id": "34.9.1",
+          "title": "Scenario Planning for Global Health"
+        },
+        {
+          "subsection_id": "34.9.2",
+          "title": "Innovation and Adaptation Strategies"
+        },
+        {
+          "subsection_id": "34.9.3",
+          "title": "Global Cooperation Mechanisms"
+        }
+      ],
+      "key_concepts": [
+        "scenario planning",
+        "innovation",
+        "adaptation",
+        "global cooperation"
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "case_study_id": "CS-34.1",
+      "title": "European Heat-Health Action Plans: Climate Adaptation in Public Health",
+      "who_region": "European Region",
+      "income_level": "High-income",
+      "population_focus": "Urban populations, elderly, vulnerable groups",
+      "time_period": "2003-2024",
+      "key_themes": [
+        "Heat-health warning systems",
+        "Early warning response systems",
+        "Vulnerable population protection",
+        "Climate-resilient health systems"
+      ],
+      "outcomes": [
+        "Heat-related mortality reduction",
+        "Warning system effectiveness",
+        "Population coverage",
+        "Response time improvements"
+      ],
+      "primary_references": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "case_study_id": "CS-34.2",
+      "title": "NHS England Greener NHS Programme: Sustainable Healthcare Transformation",
+      "who_region": "European Region",
+      "income_level": "High-income",
+      "population_focus": "National health system",
+      "time_period": "2020-2040 (target)",
+      "key_themes": [
+        "Healthcare decarbonization",
+        "Sustainable procurement",
+        "Clinical pathway redesign",
+        "Net zero healthcare"
+      ],
+      "outcomes": [
+        "Carbon emissions reduction",
+        "Supply chain sustainability",
+        "Clinical practice changes",
+        "Cost savings"
+      ],
+      "primary_references": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "case_study_id": "CS-34.3",
+      "title": "Singapore's AI Governance Framework for Healthcare",
+      "who_region": "Western Pacific Region",
+      "income_level": "High-income",
+      "population_focus": "National health system and digital health users",
+      "time_period": "2019-2024",
+      "key_themes": [
+        "AI ethics and governance",
+        "Algorithmic accountability",
+        "Data protection",
+        "Innovation enablement"
+      ],
+      "outcomes": [
+        "Regulatory compliance",
+        "AI deployment safety",
+        "Innovation ecosystem growth",
+        "Public trust indicators"
+      ],
+      "primary_references": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "case_study_id": "CS-34.4",
+      "title": "Japan's Community-Based Integrated Care System for Super-Aged Society",
+      "who_region": "Western Pacific Region",
+      "income_level": "High-income",
+      "population_focus": "Elderly population, communities",
+      "time_period": "2012-2025",
+      "key_themes": [
+        "Integrated care systems",
+        "Community-based care",
+        "Technology-assisted aging",
+        "Long-term care reform"
+      ],
+      "outcomes": [
+        "Care coordination effectiveness",
+        "Hospital admission rates",
+        "Quality of life measures",
+        "Caregiver burden"
+      ],
+      "primary_references": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "Eastern Mediterranean Region",
+      "European Region",
+      "South-East Asia Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low-income",
+      "Lower-middle-income",
+      "Upper-middle-income",
+      "High-income"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom",
+      "Singapore",
+      "Japan",
+      "United States",
+      "China",
+      "India",
+      "Brazil",
+      "South Africa",
+      "Bangladesh",
+      "Kenya",
+      "Thailand",
+      "Australia",
+      "Canada",
+      "Sweden",
+      "Netherlands",
+      "Rwanda"
+    ]
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 15,
+      "items": [
+        {
+          "question_id": "MCQ-34.1",
+          "question": "Which framework conceptualizes human health as dependent on natural systems that are being compromised by human activities?",
+          "options": [
+            "A) One Health framework",
+            "B) Social determinants of health framework",
+            "C) Planetary health framework",
+            "D) Health systems framework"
+          ],
+          "correct_answer": "C",
+          "explanation": "Planetary health is a framework that examines the interdependence of human civilization and natural systems, recognizing that human health ultimately depends on maintaining planetary systems within safe operating boundaries.",
+          "learning_objective": "LO-34.1",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.2",
+          "question": "According to the Lancet Countdown, what proportion of the global burden of disease is potentially attributable to climate change?",
+          "options": [
+            "A) Less than 5%",
+            "B) Approximately 10-15%",
+            "C) Approximately 25%",
+            "D) More than 50%"
+          ],
+          "correct_answer": "C",
+          "explanation": "The Lancet Countdown estimates that approximately 25% of the global burden of disease is potentially attributable to modifiable environmental factors including climate change, though this varies by region and condition.",
+          "learning_objective": "LO-34.2",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.3",
+          "question": "Which approach to AI governance in healthcare emphasizes continuous monitoring and iterative improvement rather than one-time pre-market approval?",
+          "options": [
+            "A) Precautionary principle",
+            "B) Adaptive regulation",
+            "C) Self-regulation",
+            "D) Harmonized standards"
+          ],
+          "correct_answer": "B",
+          "explanation": "Adaptive regulation emphasizes continuous monitoring, real-world evidence generation, and iterative improvement of AI systems rather than relying solely on pre-market approval processes.",
+          "learning_objective": "LO-34.3",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.4",
+          "question": "What is the primary purpose of scenario planning in global health?",
+          "options": [
+            "A) To predict the future with certainty",
+            "B) To explore multiple plausible futures and develop adaptive strategies",
+            "C) To identify the single most likely outcome",
+            "D) To justify current policy decisions"
+          ],
+          "correct_answer": "B",
+          "explanation": "Scenario planning explores multiple plausible futures rather than predicting a single outcome, helping organizations develop adaptive strategies and build capacity to respond to different possible circumstances.",
+          "learning_objective": "LO-34.4",
+          "difficulty": "Easy"
+        },
+        {
+          "question_id": "MCQ-34.5",
+          "question": "Which country has the highest proportion of population aged 65 and over globally?",
+          "options": [
+            "A) Germany",
+            "B) Italy",
+            "C) Japan",
+            "D) Sweden"
+          ],
+          "correct_answer": "C",
+          "explanation": "Japan has the highest proportion of population aged 65 and over globally, exceeding 29% of the total population, making it the world's most aged society.",
+          "learning_objective": "LO-34.5",
+          "difficulty": "Easy"
+        },
+        {
+          "question_id": "MCQ-34.6",
+          "question": "The concept of 'planetary boundaries' identifies how many Earth system processes with thresholds that should not be crossed?",
+          "options": [
+            "A) Five",
+            "B) Seven",
+            "C) Nine",
+            "D) Twelve"
+          ],
+          "correct_answer": "C",
+          "explanation": "The planetary boundaries framework identifies nine Earth system processes with scientifically established thresholds that should not be crossed to maintain a safe operating space for humanity.",
+          "learning_objective": "LO-34.1",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.7",
+          "question": "What is the estimated annual number of deaths attributable to antimicrobial resistance globally?",
+          "options": [
+            "A) Approximately 500,000",
+            "B) Approximately 1.3 million",
+            "C) Approximately 5 million",
+            "D) Approximately 10 million"
+          ],
+          "correct_answer": "B",
+          "explanation": "Current estimates attribute approximately 1.3 million deaths annually directly to antimicrobial resistance, with additional millions having AMR as a contributing factor.",
+          "learning_objective": "LO-34.6",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.8",
+          "question": "Which factor is most closely associated with zoonotic disease emergence?",
+          "options": [
+            "A) Improved sanitation",
+            "B) Land use change and deforestation",
+            "C) Urbanization alone",
+            "D) Climate change alone"
+          ],
+          "correct_answer": "B",
+          "explanation": "Land use change and deforestation are most closely associated with zoonotic disease emergence because they increase human-wildlife interface and create conditions for pathogen spillover events.",
+          "learning_objective": "LO-34.6",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.9",
+          "question": "The NHS England net zero commitment aims to achieve what carbon emissions target by 2040?",
+          "options": [
+            "A) 50% reduction",
+            "B) 80% reduction",
+            "C) Net zero for direct emissions",
+            "D) Complete elimination of all emissions"
+          ],
+          "correct_answer": "C",
+          "explanation": "NHS England aims to achieve net zero for direct emissions (Scope 1 and 2) by 2040, with a broader net zero target including supply chain emissions by 2045.",
+          "learning_objective": "LO-34.1",
+          "difficulty": "Difficult"
+        },
+        {
+          "question_id": "MCQ-34.10",
+          "question": "What is 'anticipatory governance' in the context of emerging health technologies?",
+          "options": [
+            "A) Governance that responds only after problems emerge",
+            "B) Governance that attempts to foresee and prepare for future developments",
+            "C) Governance that prevents all technological innovation",
+            "D) Governance that defers all decisions to technical experts"
+          ],
+          "correct_answer": "B",
+          "explanation": "Anticipatory governance involves proactively identifying potential future developments and their implications, enabling preparation of governance frameworks before challenges fully materialize.",
+          "learning_objective": "LO-34.3",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.11",
+          "question": "Which demographic trend poses the greatest challenge to health system sustainability in high-income countries?",
+          "options": [
+            "A) Declining fertility rates",
+            "B) Population aging and increasing dependency ratios",
+            "C) Rural-to-urban migration",
+            "D) International migration"
+          ],
+          "correct_answer": "B",
+          "explanation": "Population aging and increasing dependency ratios pose the greatest sustainability challenge because they combine increased healthcare demand with reduced working-age population to fund services.",
+          "learning_objective": "LO-34.5",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.12",
+          "question": "The healthcare sector contributes approximately what proportion of global carbon emissions?",
+          "options": [
+            "A) 1-2%",
+            "B) 4-5%",
+            "C) 8-10%",
+            "D) 15-20%"
+          ],
+          "correct_answer": "B",
+          "explanation": "The healthcare sector contributes approximately 4-5% of global carbon emissions, making it a significant contributor to climate change while also being affected by climate impacts.",
+          "learning_objective": "LO-34.1",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.13",
+          "question": "What is the 'healthy migrant effect'?",
+          "options": [
+            "A) Migration always improves health outcomes",
+            "B) Migrants tend to be healthier than host populations upon arrival",
+            "C) Host populations become healthier after receiving migrants",
+            "D) Migration policies improve population health"
+          ],
+          "correct_answer": "B",
+          "explanation": "The healthy migrant effect refers to the observation that migrants tend to be healthier than host populations upon arrival, likely due to self-selection factors in migration decisions.",
+          "learning_objective": "LO-34.5",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.14",
+          "question": "Which approach best describes Japan's Community-based Integrated Care System?",
+          "options": [
+            "A) Hospital-centered acute care",
+            "B) Integration of medical, nursing, prevention, housing, and livelihood support",
+            "C) Centralized national care facilities",
+            "D) Family-only caregiving support"
+          ],
+          "correct_answer": "B",
+          "explanation": "Japan's Community-based Integrated Care System integrates medical care, nursing care, preventive services, housing, and livelihood support within communities to enable aging in place.",
+          "learning_objective": "LO-34.5",
+          "difficulty": "Moderate"
+        },
+        {
+          "question_id": "MCQ-34.15",
+          "question": "What is the primary challenge of AI algorithmic bias in healthcare?",
+          "options": [
+            "A) Algorithms are too slow",
+            "B) AI may perpetuate or amplify existing health disparities",
+            "C) AI systems are too expensive",
+            "D) AI cannot process medical data"
+          ],
+          "correct_answer": "B",
+          "explanation": "Algorithmic bias is a primary concern because AI systems trained on biased data may perpetuate or amplify existing health disparities, potentially leading to inequitable care recommendations.",
+          "learning_objective": "LO-34.3",
+          "difficulty": "Moderate"
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 5,
+      "items": [
+        {
+          "question_id": "SA-34.1",
+          "question": "Explain the concept of planetary health and describe three ways in which transgressing planetary boundaries could affect human health outcomes.",
+          "guidance": "Discuss the planetary health framework, explain planetary boundaries concept, and provide specific examples of health impacts from boundary transgression such as climate change, biodiversity loss, and nitrogen cycle disruption.",
+          "learning_objective": "LO-34.1",
+          "expected_length": "300-400 words"
+        },
+        {
+          "question_id": "SA-34.2",
+          "question": "Describe the key components of an effective heat-health action plan and explain why these systems have become increasingly important.",
+          "guidance": "Address early warning systems, response protocols, vulnerable population identification, communication strategies, and long-term adaptation measures. Discuss climate change drivers of increasing importance.",
+          "learning_objective": "LO-34.2",
+          "expected_length": "300-400 words"
+        },
+        {
+          "question_id": "SA-34.3",
+          "question": "Analyze the potential benefits and risks of artificial intelligence applications in healthcare, and discuss governance approaches to maximize benefits while minimizing harms.",
+          "guidance": "Consider diagnostic accuracy, efficiency gains, access improvements alongside bias, privacy, accountability, and equity concerns. Discuss adaptive regulation, ethics frameworks, and stakeholder engagement.",
+          "learning_objective": "LO-34.3",
+          "expected_length": "400-500 words"
+        },
+        {
+          "question_id": "SA-34.4",
+          "question": "Explain how demographic transitions create challenges for health systems and describe strategies for adapting to aging populations.",
+          "guidance": "Discuss dependency ratios, changing disease burden, workforce implications, and fiscal sustainability. Address integrated care, technology, workforce adaptation, and community-based approaches.",
+          "learning_objective": "LO-34.5",
+          "expected_length": "300-400 words"
+        },
+        {
+          "question_id": "SA-34.5",
+          "question": "Describe the One Health approach and explain its relevance to addressing emerging infectious disease threats.",
+          "guidance": "Define One Health, explain the interconnection of human, animal, and environmental health, and discuss applications to zoonotic disease prevention, antimicrobial resistance, and pandemic preparedness.",
+          "learning_objective": "LO-34.6",
+          "expected_length": "300-400 words"
+        }
+      ]
+    },
+    "case_study_exercises": {
+      "count": 3,
+      "items": [
+        {
+          "exercise_id": "CSE-34.1",
+          "title": "Climate Adaptation Planning for a Coastal City",
+          "scenario": "You are advising a public health department in a coastal city of 500,000 people in a lower-middle-income country. The city faces increasing heat waves, sea level rise, and changing disease patterns. Current health infrastructure includes one tertiary hospital, five community health centers, and limited emergency response capacity.",
+          "tasks": [
+            "Conduct a climate vulnerability assessment identifying priority health risks",
+            "Design a heat-health action plan appropriate for resource constraints",
+            "Develop an adaptation strategy addressing both immediate and long-term challenges",
+            "Create a monitoring and evaluation framework for adaptation interventions",
+            "Propose governance structures for climate-health integration"
+          ],
+          "learning_objectives": [
+            "LO-34.2",
+            "LO-34.4"
+          ],
+          "deliverable": "Climate-health adaptation plan (2,000-2,500 words)"
+        },
+        {
+          "exercise_id": "CSE-34.2",
+          "title": "AI Governance Framework Development",
+          "scenario": "A national health ministry is developing a governance framework for AI deployment in healthcare. Several AI diagnostic tools are seeking approval, including algorithms for diabetic retinopathy screening, skin cancer detection, and sepsis prediction. The country has limited regulatory capacity and diverse healthcare settings ranging from rural clinics to urban tertiary hospitals.",
+          "tasks": [
+            "Analyze key governance challenges for AI in healthcare",
+            "Develop a risk-based classification system for AI medical devices",
+            "Design approval processes appropriate for different risk levels",
+            "Create post-market surveillance mechanisms",
+            "Address equity and access considerations across different healthcare settings"
+          ],
+          "learning_objectives": [
+            "LO-34.3",
+            "LO-34.6"
+          ],
+          "deliverable": "AI governance framework proposal (2,000-2,500 words)"
+        },
+        {
+          "exercise_id": "CSE-34.3",
+          "title": "Health System Transformation for Aging Society",
+          "scenario": "A country is experiencing rapid demographic transition with the proportion of population over 65 projected to increase from 15% to 28% within 20 years. Current health system is hospital-centric with limited community care infrastructure. Long-term care is primarily family-provided, but family structures are changing with increased urbanization and female workforce participation.",
+          "tasks": [
+            "Analyze health system implications of demographic transition",
+            "Design an integrated care model for the aging population",
+            "Develop workforce strategy including task shifting and technology utilization",
+            "Create financing mechanisms for sustainable long-term care",
+            "Propose community-based care infrastructure development"
+          ],
+          "learning_objectives": [
+            "LO-34.5",
+            "LO-34.4"
+          ],
+          "deliverable": "Health system transformation strategy (2,500-3,000 words)"
+        }
+      ]
+    },
+    "policy_analysis_exercises": {
+      "count": 2,
+      "items": [
+        {
+          "exercise_id": "PAE-34.1",
+          "title": "Sustainable Healthcare Policy Analysis",
+          "description": "Analyze a healthcare decarbonization policy using policy analysis frameworks. Consider political feasibility, economic implications, implementation challenges, and co-benefits for health outcomes.",
+          "learning_objective": "LO-34.1",
+          "deliverable": "Policy analysis brief (1,500-2,000 words)"
+        },
+        {
+          "exercise_id": "PAE-34.2",
+          "title": "Scenario Planning Exercise",
+          "description": "Develop three plausible scenarios for global health in 2040, considering climate change, technological development, demographic transition, and geopolitical factors. For each scenario, identify key health system implications and strategic responses.",
+          "learning_objective": "LO-34.4",
+          "deliverable": "Scenario analysis report (2,000-2,500 words)"
+        }
+      ]
+    }
+  },
+  "references": {
+    "total_count": 58,
+    "reference_types": {
+      "peer_reviewed_articles": 38,
+      "who_documents": 8,
+      "lancet_commissions": 4,
+      "government_reports": 5,
+      "international_frameworks": 3
+    },
+    "publication_years": {
+      "2020_2025": 32,
+      "2015_2019": 18,
+      "2010_2014": 6,
+      "pre_2010": 2
+    }
+  },
+  "quality_metrics": {
+    "primary_source_percentage": 95,
+    "recent_reference_percentage": 86,
+    "geographic_coverage_score": 6,
+    "income_level_coverage": 4,
+    "case_study_diversity": "High",
+    "bloom_taxonomy_coverage": [
+      "Apply",
+      "Analyze",
+      "Evaluate",
+      "Create"
+    ]
+  }
+}

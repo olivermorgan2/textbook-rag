@@ -1,0 +1,241 @@
+{
+  "chapter_number": 18,
+  "title": "Maternal and Child Health",
+  "part": {
+    "part_number": 4,
+    "part_title": "Special Populations and Life Course Approach"
+  },
+  "last_updated": "2025-11-29",
+  "word_count_target": {
+    "min": 7,
+    "max": 7
+  },
+  "reference_count_target": {
+    "min": 50,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define key maternal and child health indicators including maternal mortality ratio, infant mortality rate, and under-5 mortality rate"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the continuum of care approach for maternal, newborn, and child health across the life course"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Describe the main causes of maternal and child mortality globally and their distribution by region and income level"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Calculate and interpret maternal and child health indicators using global health data sources"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Design evidence-based maternal and child health interventions appropriate for different health system contexts"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the social determinants contributing to maternal and child health disparities across different populations"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Compare the effectiveness of community-based versus facility-based maternal and child health interventions"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the impact of integrated maternal and child health programs on health outcomes and health system performance"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop a comprehensive maternal and child health strategy that addresses multiple levels of the health system"
+    }
+  ],
+  "key_concepts": [
+    "Maternal mortality ratio (MMR)",
+    "Infant mortality rate (IMR)",
+    "Under-5 mortality rate (U5MR)",
+    "Skilled birth attendance",
+    "Emergency obstetric care (EmOC)",
+    "Essential newborn care",
+    "Continuum of care",
+    "Life course approach",
+    "Reproductive, maternal, newborn, child health (RMNCH)",
+    "Community health workers",
+    "Task-shifting",
+    "Performance-based financing",
+    "Conditional cash transfers",
+    "Integrated management of childhood illness (IMCI)",
+    "Family planning",
+    "Preconception care",
+    "Adolescent sexual and reproductive health"
+  ],
+  "case_studies": [
+    {
+      "title": "Rwanda's Maternal Mortality Reduction: Community Health Cooperatives and Performance-Based Financing",
+      "country": "Rwanda",
+      "who_region": "African Region",
+      "income_level": "Lower middle income",
+      "population_size": "12.9 million",
+      "focus": "Maternal mortality reduction through health system strengthening",
+      "key_interventions": [
+        "Community health cooperatives (CHCs)",
+        "Performance-based financing",
+        "Skilled birth attendance scale-up",
+        "Emergency obstetric care improvements",
+        "Health insurance coverage expansion"
+      ],
+      "outcomes": "MMR reduced from 1,071 per 100,000 in 2000 to 210 per 100,000 in 2017"
+    },
+    {
+      "title": "Brazil's Criança Feliz Program: Integrated Early Childhood Development",
+      "country": "Brazil",
+      "who_region": "Latin America",
+      "income_level": "Upper middle income",
+      "population_size": "215 million",
+      "focus": "Child survival and development through home visiting",
+      "key_interventions": [
+        "Home visiting program for vulnerable families",
+        "Integration with Bolsa Família conditional cash transfer",
+        "Early childhood development focus",
+        "Community health agent training",
+        "Multi-sectoral coordination"
+      ],
+      "outcomes": "Improved vaccination coverage, reduced child mortality, enhanced child development outcomes"
+    },
+    {
+      "title": "India's RMNCH+A Strategy: Scaling Reproductive, Maternal, Newborn, Child Health and Adolescent Programs",
+      "country": "India",
+      "who_region": "South-East Asia Region",
+      "income_level": "Lower middle income",
+      "population_size": "1.4 billion",
+      "focus": "Comprehensive life course approach to MCH",
+      "key_interventions": [
+        "Janani Suraksha Yojana (conditional cash transfers)",
+        "ASHA (Accredited Social Health Activist) program",
+        "Facility-based newborn care units",
+        "Adolescent health programs",
+        "Family planning service strengthening"
+      ],
+      "outcomes": "MMR decreased from 556 in 1990 to 103 per 100,000 in 2017-19; U5MR from 126 to 35 per 1,000 live births"
+    },
+    {
+      "title": "Ghana's Community-based Health Planning and Services (CHPS): Mobile Technology for Pregnancy Monitoring",
+      "country": "Ghana",
+      "who_region": "African Region",
+      "income_level": "Lower middle income",
+      "population_size": "32.8 million",
+      "focus": "Innovation in maternal health service delivery through mobile health",
+      "key_interventions": [
+        "Mobile health platform for pregnancy tracking",
+        "Community health officer training",
+        "Task-shifting for family planning services",
+        "Real-time data collection and monitoring",
+        "Emergency transport systems"
+      ],
+      "outcomes": "Increased antenatal care utilization, improved birth preparedness, reduced maternal and neonatal complications"
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "south_east_asia",
+      "European Region",
+      "eastern_mediterranean",
+      "western_pacific"
+    ],
+    "income_levels": [
+      "low_income",
+      "lower_middle_income",
+      "upper_middle_income",
+      "high_income"
+    ],
+    "income_level_details": {
+      "low_income": [
+        "Afghanistan",
+        "Ethiopia",
+        "Malawi",
+        "Haiti"
+      ],
+      "lower_middle_income": [
+        "India",
+        "Bangladesh",
+        "Cambodia",
+        "Nigeria"
+      ],
+      "upper_middle_income": [
+        "Brazil",
+        "Mexico",
+        "Romania"
+      ],
+      "high_income": [
+        "examples for comparison and best practices"
+      ]
+    }
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 3,
+      "items": [
+        {
+          "question": "Which of the following best defines the maternal mortality ratio (MMR)?",
+          "options": [
+            "Number of maternal deaths per 1,000 live births",
+            "Number of maternal deaths per 100,000 live births",
+            "Number of maternal deaths per 1,000 women of reproductive age",
+            "Number of maternal deaths per 100,000 women of reproductive age"
+          ],
+          "correct": "Number of maternal deaths per 100,000 live births",
+          "explanation": "MMR is defined as the number of maternal deaths during pregnancy, childbirth, or within 42 days of termination of pregnancy per 100,000 live births in a given time period."
+        },
+        {
+          "question": "According to WHO recommendations, what percentage of births should be attended by skilled birth attendants to significantly reduce maternal mortality?",
+          "options": [
+            "At least 50%",
+            "At least 70%",
+            "At least 90%",
+            "100%"
+          ],
+          "correct": "At least 90%",
+          "explanation": "WHO recommends that at least 90% of births should be attended by skilled birth attendants to achieve significant reductions in maternal and neonatal mortality."
+        },
+        {
+          "question": "Which intervention has been shown to be most effective in preventing neonatal deaths in low-resource settings?",
+          "options": [
+            "Exclusive breastfeeding promotion",
+            "Kangaroo mother care for preterm infants",
+            "Early initiation of breastfeeding and thermal care",
+            "All of the above"
+          ],
+          "correct": "All of the above",
+          "explanation": "Multiple interventions including early breastfeeding, thermal care, and kangaroo mother care work synergistically to prevent neonatal deaths."
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 2,
+      "items": [
+        {
+          "question": "Explain the 'three delays' model in maternal mortality and provide an example intervention for each delay.",
+          "key_points": [
+            "Delay in deciding to seek care (education, empowerment)",
+            "Delay in reaching appropriate care (transport, infrastructure)",
+            "Delay in receiving quality care (skilled providers, equipment)"
+          ]
+        },
+        {
+          "question": "Describe the components of the continuum of care for maternal, newborn, and child health.",
+          "key_points": [
+            "Preconception care and family planning",
+            "Pregnancy care (antenatal, delivery, postnatal)",
+            "Newborn care (immediate, first week, first month)",
+            "Child health (infant, under-5)",
+            "Adolescent health and reproductive health preparation"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "chapter_number": 26,
+  "title": "Health Promotion and Disease Prevention",
+  "part": {
+    "part_number": 6,
+    "part_title": "Global Health Interventions and Programs"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define and differentiate between primordial, primary, secondary, and tertiary prevention levels"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Describe key health promotion principles including the Ottawa Charter and Health in All Policies approach"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Explain major behavior change theories and their applications in health promotion"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Compare prevention frameworks across different health conditions and populations"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Summarize the social ecological model and its application to health promotion interventions"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Interpret cost-effectiveness analyses of prevention programs"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply behavior change theories to design culturally appropriate health promotion interventions"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Use prevention frameworks to develop comprehensive intervention strategies for specific health problems"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Implement community mobilization approaches for health promotion"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the effectiveness of population-level prevention interventions across different settings"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Examine factors influencing the success of community health promotion programs"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Assess the role of social determinants in health promotion intervention outcomes"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Integrate multiple behavior change theories to design comprehensive health promotion programs"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop implementation strategies for scaling up evidence-based prevention interventions"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Create evaluation frameworks for complex health promotion initiatives"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the cost-effectiveness and sustainability of different prevention approaches"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critique health promotion programs using appropriate theoretical and methodological frameworks"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Judge the quality and applicability of prevention research across different contexts"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Prevention Frameworks"
+    },
+    {
+      "topic": "Health Promotion Principles"
+    },
+    {
+      "topic": "Behavior Change Theories"
+    },
+    {
+      "topic": "Community Approaches"
+    },
+    {
+      "topic": "Population Interventions"
+    },
+    {
+      "topic": "Implementation Science"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Thailand's Tobacco Control Success",
+      "geographic_focus": "Thailand (Southeast Asia, Upper-middle income)",
+      "focus": "Comprehensive tobacco control policy implementation",
+      "outcomes": "Significant reduction in smoking prevalence from 32% to 19% among adults",
+      "key_elements": [
+        "Multi-pronged policy approach including taxation, advertising bans, and health warnings",
+        "Strong political leadership and civil society engagement",
+        "Evidence-based policy development and implementation",
+        "Sustained commitment over decades"
+      ],
+      "type": "Population-level prevention"
+    },
+    {
+      "title": "North Karelia Project: Community CVD Prevention",
+      "geographic_focus": "Finland (Europe, High income)",
+      "focus": "Community-wide cardiovascular disease prevention",
+      "outcomes": "85% reduction in CVD mortality over 35 years",
+      "key_elements": [
+        "Community mobilization and participation",
+        "Multiple intervention strategies targeting diet, smoking, and hypertension",
+        "Collaboration with local organizations and health services",
+        "Long-term implementation and evaluation"
+      ],
+      "type": "Community health promotion"
+    },
+    {
+      "title": "Mexico's Sugar-Sweetened Beverage Tax",
+      "geographic_focus": "Mexico (Americas, Upper-middle income)",
+      "focus": "Fiscal policy for obesity and diabetes prevention",
+      "outcomes": "12% reduction in SSB purchases, particularly among low-income households",
+      "key_elements": [
+        "Evidence-based policy development",
+        "Stakeholder engagement and advocacy",
+        "Implementation despite industry opposition",
+        "Monitoring and evaluation systems"
+      ],
+      "type": "Policy intervention"
+    },
+    {
+      "title": "Ethiopia's Health Extension Program",
+      "geographic_focus": "Ethiopia (Africa, Low income)",
+      "focus": "Community-based health education and promotion",
+      "outcomes": "Improved maternal and child health outcomes, increased health service utilization",
+      "key_elements": [
+        "Training of community health extension workers",
+        "Focus on preventive care and health education",
+        "Integration with existing health systems",
+        "Community ownership and participation"
+      ],
+      "type": "Health education innovation"
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low income (Ethiopia)",
+      "Lower-middle income (examples)",
+      "Upper-middle income (Thailand, Mexico)",
+      "High income (Finland)"
+    ]
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 2,
+      "items": [
+        {
+          "question": "Which level of prevention focuses on preventing the development of risk factors in healthy populations?",
+          "options": [
+            "Primary prevention",
+            "Secondary prevention",
+            "Tertiary prevention",
+            "Primordial prevention"
+          ],
+          "correct_answer": "Primordial prevention",
+          "explanation": "Primordial prevention aims to prevent the development of risk factors before they occur"
+        },
+        {
+          "question": "According to the Health Belief Model, which factors influence health behavior change?",
+          "options": [
+            "Perceived susceptibility and severity only",
+            "Perceived benefits and barriers only",
+            "Self-efficacy and social support only",
+            "All of the above factors combined"
+          ],
+          "correct_answer": "All of the above factors combined",
+          "explanation": "The Health Belief Model includes perceived susceptibility, severity, benefits, barriers, cues to action, and self-efficacy"
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 3,
+      "items": [
+        "Describe the five action areas of the Ottawa Charter for Health Promotion and provide an example of each",
+        "Explain how the social ecological model can be applied to design a comprehensive smoking cessation program",
+        "Compare and contrast the effectiveness of individual-level versus population-level prevention approaches"
+      ]
+    },
+    "case_study_exercises": {
+      "count": 3,
+      "items": [
+        "Design a multi-level intervention to prevent type 2 diabetes in a low-income urban community",
+        "Develop an implementation plan for scaling up a successful community-based hypertension control program",
+        "Analyze the cost-effectiveness of different approaches to reducing road traffic injuries"
+      ]
+    }
+  },
+  "research_emphasis": [
+    "Systematic reviews of prevention intervention effectiveness",
+    "Implementation science studies on scaling up prevention programs",
+    "Cost-effectiveness analyses of health promotion interventions",
+    "Community engagement and participatory evaluation research",
+    "Behavior change theory testing and application studies"
+  ],
+  "quality_metrics": {
+    "evidence_base": "Primary sources only, peer-reviewed research",
+    "citation_style": "Vancouver",
+    "global_representation": "All WHO regions and income levels represented",
+    "theoretical_grounding": "Multiple behavior change and health promotion theories",
+    "practical_application": "Implementation guidance and real-world examples"
+  }
+}

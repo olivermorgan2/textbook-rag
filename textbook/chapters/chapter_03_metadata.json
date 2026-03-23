@@ -1,0 +1,209 @@
+{
+  "chapter_number": 3,
+  "title": "Global Disease Burden and Epidemiological Transitions",
+  "part": {
+    "part_number": 1,
+    "part_title": "Foundations of Global Public Health"
+  },
+  "authors": [
+    {
+      "name": "Global Public Health Textbook Team"
+    }
+  ],
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "citation_style": "Vancouver",
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define key concepts in global disease burden measurement including DALYs, QALYs, YLD, and YLL"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Describe the epidemiological transition theory and its variations across different populations"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Explain the relationship between demographic transitions and health patterns"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Identify major data sources for global burden of disease estimates"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Compare disease burden patterns across WHO regions and income levels"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Interpret trends in global epidemiological transitions over the past century"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the concept of double and triple disease burdens in low- and middle-income countries"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Discuss limitations and challenges in global disease burden measurement"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Calculate basic disease burden measures using provided data"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply epidemiological transition framework to analyze country-specific health patterns"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Use GBD data to inform health priority setting exercises"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Assess surveillance system performance using burden data quality indicators"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze factors driving epidemiological transitions in different global contexts"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate the impact of globalization on disease pattern changes"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Compare methodological approaches for disease burden estimation"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Examine regional variations in epidemiological transition timing and patterns"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Integrate demographic, epidemiological, and socioeconomic data to explain health transitions"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop frameworks for predicting future disease burden trends"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Synthesize evidence on climate change impacts on disease geography"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critically assess the validity and reliability of global burden estimates"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate policy implications of different disease burden measurement approaches"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Judge the effectiveness of surveillance systems in capturing disease burden changes"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Global Burden of Disease Study methodology"
+    },
+    {
+      "topic": "Disability-adjusted life years (DALYs) and variations"
+    },
+    {
+      "topic": "Quality-adjusted life years (QALYs) and health utility"
+    },
+    {
+      "topic": "Epidemiological transition theory and stages"
+    },
+    {
+      "topic": "Demographic transition linkages"
+    },
+    {
+      "topic": "Double and triple disease burdens"
+    },
+    {
+      "topic": "Regional disease pattern variations"
+    },
+    {
+      "topic": "Data quality and surveillance systems"
+    },
+    {
+      "topic": "Emerging health challenges"
+    },
+    {
+      "topic": "Climate change and disease geography"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "China's Rapid Epidemiological Transition",
+      "focus": "Country experiencing rapid epidemiological transition",
+      "key_themes": [
+        "Economic development",
+        "NCDs rise",
+        "Urbanization health impacts"
+      ]
+    },
+    {
+      "title": "Nigeria's Triple Disease Burden",
+      "focus": "Sub-Saharan African country managing communicable, non-communicable, and injury burdens",
+      "key_themes": [
+        "Resource constraints",
+        "Health system challenges",
+        "Disease burden prioritization"
+      ]
+    },
+    {
+      "title": "Pacific Island Nations: Unique Disease Patterns",
+      "focus": "Small island developing states with distinctive epidemiological profiles",
+      "key_themes": [
+        "NCD epidemics",
+        "Climate vulnerability",
+        "Healthcare access"
+      ]
+    },
+    {
+      "title": "Afghanistan: Post-Conflict Epidemiological Profile",
+      "focus": "Health pattern changes following conflict and reconstruction",
+      "key_themes": [
+        "Surveillance reconstruction",
+        "Maternal/child health",
+        "Infectious disease control"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ]
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 15
+    },
+    "short_answer_questions": {
+      "count": 8
+    },
+    "case_study_exercises": {
+      "count": 4
+    },
+    "policy_analysis_exercises": {
+      "count": 2
+    },
+    "data_interpretation_exercises": {
+      "count": 3
+    }
+  }
+}

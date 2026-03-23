@@ -1,0 +1,101 @@
+{
+  "chapter_number": 24,
+  "title": "Urbanization and Health",
+  "part": {
+    "part_number": 5,
+    "part_title": "Environmental and Social Determinants"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "citation_style": "Vancouver",
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define key concepts in urban health including urbanization, slums, healthy cities, and urban health indicators"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the relationship between urbanization patterns and health outcomes across different global contexts"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply urban health frameworks to analyze health challenges in specific urban settings"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze urban health challenges using frameworks that integrate social, environmental, and health system factors"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate healthy cities initiatives and their effectiveness in improving population health outcomes"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design evidence-based urban health interventions that address both proximate and underlying health determinants"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Global urbanization trends and patterns"
+    },
+    {
+      "topic": "Urban health advantages and opportunities"
+    },
+    {
+      "topic": "Urban health challenges and risk factors"
+    },
+    {
+      "topic": "Slums and informal settlements health conditions"
+    },
+    {
+      "topic": "Urban planning and built environment approaches"
+    },
+    {
+      "topic": "Transportation systems and health impacts"
+    },
+    {
+      "topic": "Social determinants in urban settings"
+    },
+    {
+      "topic": "Healthy cities movement and governance"
+    },
+    {
+      "topic": "Urban health service delivery models"
+    },
+    {
+      "topic": "Sustainable Development Goal 11 integration"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Slum Networking Program in Ahmedabad, India",
+      "who_region": "South Asia",
+      "income_level": "Lower-middle income",
+      "focus": "Slum upgrading and infrastructure development"
+    },
+    {
+      "title": "Barcelona Superblocks Initiative, Spain",
+      "who_region": "European Region",
+      "income_level": "High income",
+      "focus": "Urban planning and active transportation"
+    },
+    {
+      "title": "Medellín Urban Acupuncture, Colombia",
+      "who_region": "Latin America",
+      "income_level": "Upper-middle income",
+      "focus": "Integrated urban development in informal settlements"
+    },
+    {
+      "title": "Nairobi Urban Community Health Strategy, Kenya",
+      "who_region": "African Region",
+      "income_level": "Lower-middle income",
+      "focus": "Urban health service delivery"
+    }
+  ]
+}

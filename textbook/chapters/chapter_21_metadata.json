@@ -1,0 +1,314 @@
+{
+  "chapter_number": 21,
+  "title": "Occupational Health and Safety",
+  "part": {
+    "part_number": 4,
+    "part_title": "Special Populations and Life Course Approach"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define key concepts in occupational health and safety including work-related diseases, injuries, and hazards"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Describe the global burden of occupational diseases and injuries across different regions and economic contexts"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Identify major categories of workplace hazards: chemical, physical, biological, ergonomic, and psychosocial"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Explain the hierarchy of controls for occupational risk management"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "List key international labor standards and conventions related to worker health and safety"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Compare occupational health challenges in formal versus informal economic sectors"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain how industrialization and economic development affect occupational health patterns"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Describe the relationship between occupational health and broader public health outcomes"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Summarize the role of occupational health services in health system strengthening"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply exposure assessment principles to evaluate workplace health risks"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Design workplace health and safety intervention programs for specific occupational settings"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Develop occupational health surveillance systems appropriate for different economic contexts"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Implement occupational disease prevention strategies using evidence-based approaches"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the effectiveness of different occupational health intervention models"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate occupational health surveillance data to identify trends and priorities"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Assess the impact of globalization and supply chains on worker health across countries"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Compare occupational health approaches between developed and developing countries"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Integrate occupational health considerations into broader health system planning"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop comprehensive occupational health policies that address formal and informal workers"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Create multi-stakeholder approaches to improving workplace health and safety"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design occupational health research studies addressing global health priorities"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critically assess the effectiveness of international labor standards implementation"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the cost-effectiveness of occupational health interventions"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Judge the quality and utility of occupational health surveillance systems"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Appraise occupational health policies for their potential to reduce health inequities"
+    }
+  ],
+  "case_studies": [
+    {
+      "case_study_id": "CS21.1",
+      "title": "Brazil's National Program for Silicosis Elimination",
+      "geographic_focus": {
+        "country": "Brazil",
+        "who_region": "PAHO/AMRO",
+        "income_classification": "Upper-middle income"
+      },
+      "key_themes": [
+        "Silicosis prevention in mining and construction",
+        "Multi-sectoral collaboration",
+        "Worker education and enforcement",
+        "Health surveillance integration"
+      ],
+      "learning_objectives": [
+        "Analyze the effectiveness of national silicosis prevention programs",
+        "Evaluate multi-sectoral approaches to occupational disease prevention"
+      ],
+      "type": "Occupational Disease Prevention"
+    },
+    {
+      "case_study_id": "CS21.2",
+      "title": "Singapore's Construction Safety Transformation",
+      "geographic_focus": {
+        "country": "Singapore",
+        "who_region": "WPRO",
+        "income_classification": "High income"
+      },
+      "key_themes": [
+        "Construction industry safety management",
+        "Technology integration in safety monitoring",
+        "Behavioral safety approaches",
+        "Economic incentives for safety performance"
+      ],
+      "learning_objectives": [
+        "Assess the role of technology in workplace injury prevention",
+        "Evaluate economic incentive mechanisms for occupational safety"
+      ],
+      "type": "Workplace Injury Reduction"
+    },
+    {
+      "case_study_id": "CS21.3",
+      "title": "Ethiopia's Integrated Occupational Health Services",
+      "geographic_focus": {
+        "country": "Ethiopia",
+        "who_region": "AFRO",
+        "income_classification": "Low income"
+      },
+      "key_themes": [
+        "Primary healthcare integration",
+        "Rural and agricultural worker health",
+        "Community health worker training",
+        "Resource-constrained service delivery"
+      ],
+      "learning_objectives": [
+        "Analyze integration models for occupational health in primary healthcare",
+        "Evaluate occupational health service delivery in low-resource settings"
+      ],
+      "type": "Occupational Health Service Model"
+    },
+    {
+      "case_study_id": "CS21.4",
+      "title": "India's Informal Sector Worker Health Initiative",
+      "geographic_focus": {
+        "country": "India",
+        "who_region": "SEARO",
+        "income_classification": "Lower-middle income"
+      },
+      "key_themes": [
+        "Street vendor and domestic worker health",
+        "Community-based interventions",
+        "Social protection integration",
+        "Gender-sensitive occupational health"
+      ],
+      "learning_objectives": [
+        "Design occupational health interventions for informal sector workers",
+        "Evaluate community-based approaches to worker health protection"
+      ],
+      "type": "Informal Sector Intervention"
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "high_income",
+      "upper_middle_income",
+      "lower_middle_income",
+      "low_income"
+    ],
+    "income_level_details": {
+      "high_income": [
+        "Singapore",
+        "United Kingdom"
+      ],
+      "upper_middle_income": [
+        "Brazil",
+        "South Africa",
+        "China"
+      ],
+      "lower_middle_income": [
+        "India",
+        "Egypt",
+        "Bangladesh"
+      ],
+      "low_income": [
+        "Ethiopia"
+      ]
+    }
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 3,
+      "items": [
+        {
+          "id": "MCQ21.1",
+          "question": "According to the hierarchy of controls in occupational health, which approach should be prioritized first?",
+          "options": [
+            "Personal protective equipment",
+            "Administrative controls",
+            "Elimination of hazards",
+            "Engineering controls"
+          ],
+          "correct_answer": "Elimination of hazards",
+          "explanation": "The hierarchy of controls prioritizes elimination as the most effective control method, followed by substitution, engineering controls, administrative controls, and personal protective equipment."
+        },
+        {
+          "id": "MCQ21.2",
+          "question": "Which international organization sets global labor standards including occupational health and safety?",
+          "options": [
+            "World Health Organization (WHO)",
+            "International Labour Organization (ILO)",
+            "World Bank",
+            "International Monetary Fund (IMF)"
+          ],
+          "correct_answer": "International Labour Organization (ILO)",
+          "explanation": "The ILO is the specialized UN agency responsible for setting international labor standards, including conventions on occupational health and safety."
+        },
+        {
+          "id": "MCQ21.3",
+          "question": "What proportion of the global workforce is estimated to be employed in the informal economy?",
+          "options": [
+            "About 25%",
+            "About 40%",
+            "About 60%",
+            "About 80%"
+          ],
+          "correct_answer": "About 60%",
+          "explanation": "The ILO estimates that approximately 60% of the global workforce is employed in the informal economy, presenting significant challenges for occupational health protection."
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 2,
+      "items": [
+        {
+          "id": "SAQ21.1",
+          "question": "Describe the key components of a workplace health surveillance system and explain how it differs from general health surveillance.",
+          "learning_objective": "Apply surveillance principles to occupational health contexts"
+        },
+        {
+          "id": "SAQ21.2",
+          "question": "Explain how globalization and international supply chains create both challenges and opportunities for protecting worker health globally.",
+          "learning_objective": "Analyze the impact of globalization on occupational health"
+        }
+      ]
+    },
+    "case_study_exercises": {
+      "count": 1,
+      "items": [
+        {
+          "id": "CSE21.1",
+          "title": "Developing an Occupational Health Program for a Textile Factory",
+          "scenario": "You are tasked with developing an occupational health program for a textile manufacturing facility in Bangladesh employing 2,000 workers, primarily young women. The facility produces garments for international brands.",
+          "tasks": [
+            "Identify key occupational health hazards in textile manufacturing",
+            "Design a health surveillance program appropriate for this setting",
+            "Develop strategies to address gender-specific occupational health risks",
+            "Create a plan for integrating occupational health with local healthcare services"
+          ],
+          "learning_objectives": [
+            "Apply occupational health assessment principles",
+            "Design gender-sensitive occupational health interventions",
+            "Integrate occupational health with health systems"
+          ]
+        }
+      ]
+    }
+  }
+}

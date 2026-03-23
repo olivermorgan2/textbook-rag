@@ -1,0 +1,270 @@
+{
+  "chapter_number": 30,
+  "title": "Health Economics and Financing",
+  "part": {
+    "part_number": 7,
+    "part_title": "Policy, Economics, and Governance"
+  },
+  "version": "1.0",
+  "last_updated": "2025-01-15",
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "cross_references": [
+    {
+      "chapter": 4,
+      "title": "Global Health Systems and Universal Health Coverage",
+      "relevance": "Foundation concepts for health system functions and UHC frameworks"
+    },
+    {
+      "chapter": 31,
+      "title": "Global Health Policy and Governance",
+      "relevance": "Policy frameworks and international health regulations"
+    },
+    {
+      "chapter": 33,
+      "title": "Health Equity and Human Rights",
+      "relevance": "Equity measurement and right to health framework"
+    },
+    {
+      "chapter": 27,
+      "title": "Global Health Partnerships and Initiatives",
+      "relevance": "External financing through global health initiatives"
+    },
+    {
+      "chapter": 29,
+      "title": "Global Health Research and Evidence",
+      "relevance": "Research methods for economic evaluation and implementation science"
+    }
+  ],
+  "learning_objectives": [
+    {
+      "bloom_level": "Understand",
+      "text": "Define fundamental health economics concepts including scarcity, opportunity cost, efficiency, and equity and explain their relevance to health resource allocation decisions",
+      "assessment_alignment": [
+        "MCQ_1",
+        "MCQ_2",
+        "MCQ_3",
+        "Short_Answer_1"
+      ]
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Compare and contrast different health financing mechanisms including taxation, social health insurance, community-based insurance, and out-of-pocket payments across diverse country contexts",
+      "assessment_alignment": [
+        "MCQ_4",
+        "MCQ_5",
+        "MCQ_6",
+        "Short_Answer_2",
+        "Case_Analysis_1"
+      ]
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply cost-effectiveness analysis methods to evaluate health interventions using appropriate metrics including cost per DALY averted and incremental cost-effectiveness ratios",
+      "assessment_alignment": [
+        "MCQ_7",
+        "MCQ_8",
+        "MCQ_9",
+        "Short_Answer_3",
+        "Exercise_1"
+      ]
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze health financing systems for their impact on financial protection, including measurement of catastrophic health expenditure and impoverishment",
+      "assessment_alignment": [
+        "MCQ_10",
+        "MCQ_11",
+        "Short_Answer_4",
+        "Case_Analysis_2"
+      ]
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate health care market failures and regulatory approaches in different country contexts including public-private partnerships",
+      "assessment_alignment": [
+        "MCQ_12",
+        "MCQ_13",
+        "Short_Answer_5",
+        "Case_Analysis_3"
+      ]
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design appropriate health financing reform strategies considering country-specific contexts, fiscal space, and equity objectives",
+      "assessment_alignment": [
+        "MCQ_14",
+        "MCQ_15",
+        "Exercise_2",
+        "Case_Analysis_4"
+      ]
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Opportunity cost",
+      "definition": "The value of the next best alternative foregone when making a resource allocation decision"
+    },
+    {
+      "term": "Allocative efficiency",
+      "definition": "The distribution of resources among different uses to maximize health outcomes or social welfare"
+    },
+    {
+      "term": "Technical efficiency",
+      "definition": "Producing maximum output from a given set of inputs, or producing a given output with minimum inputs"
+    },
+    {
+      "term": "Cost-effectiveness analysis",
+      "definition": "An economic evaluation method comparing the costs and health outcomes of alternative interventions"
+    },
+    {
+      "term": "Incremental cost-effectiveness ratio (ICER)",
+      "definition": "The ratio of the difference in costs to the difference in health outcomes between two interventions"
+    },
+    {
+      "term": "Cost-effectiveness threshold",
+      "definition": "A monetary value below which an intervention is considered cost-effective in a given context"
+    },
+    {
+      "term": "Social health insurance",
+      "definition": "A health financing mechanism where contributions are mandatory and usually linked to employment"
+    },
+    {
+      "term": "Risk pooling",
+      "definition": "Spreading financial risk across a population so that no individual faces the full cost of health care alone"
+    },
+    {
+      "term": "Catastrophic health expenditure",
+      "definition": "Out-of-pocket health spending exceeding a defined threshold of household income or consumption"
+    },
+    {
+      "term": "Financial protection",
+      "definition": "Ensuring that health care costs do not cause financial hardship or impoverishment"
+    },
+    {
+      "term": "Moral hazard",
+      "definition": "The tendency for insured individuals to use more health services than they would if paying out-of-pocket"
+    },
+    {
+      "term": "Adverse selection",
+      "definition": "The tendency for higher-risk individuals to be more likely to purchase health insurance"
+    },
+    {
+      "term": "General government health expenditure",
+      "definition": "Public spending on health from domestic government sources"
+    },
+    {
+      "term": "External health expenditure",
+      "definition": "Health spending from external sources including development assistance for health"
+    },
+    {
+      "term": "Fiscal space",
+      "definition": "The capacity of government to provide additional budgetary resources for health without jeopardizing fiscal sustainability"
+    },
+    {
+      "term": "Progressive financing",
+      "definition": "A financing system where contributions increase as a proportion of income for wealthier individuals"
+    },
+    {
+      "term": "Regressive financing",
+      "definition": "A financing system where contributions represent a higher proportion of income for poorer individuals"
+    },
+    {
+      "term": "Strategic purchasing",
+      "definition": "Active decisions about which services to purchase, from whom, and how to pay for them"
+    },
+    {
+      "term": "Results-based financing",
+      "definition": "Payment mechanisms that link financing to the achievement of predetermined health results"
+    },
+    {
+      "term": "Health technology assessment",
+      "definition": "Systematic evaluation of health technologies to inform coverage and reimbursement decisions"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Thailand's Universal Coverage Scheme: Achieving Financial Protection through Health Financing Reform",
+      "country": "Thailand",
+      "who_region": "South-East Asia Region",
+      "income_level": "Upper-middle income",
+      "focus": "Health financing reform for universal coverage",
+      "key_lessons": [
+        "Political commitment and sustained investment enable rapid coverage expansion",
+        "Tax-based financing can achieve broad population coverage in middle-income countries",
+        "Closed-end budgets with capitation payments can control costs while maintaining quality",
+        "Strong purchasing arrangements and provider payment reform are essential for sustainability"
+      ]
+    },
+    {
+      "title": "Cost-Effectiveness of Rotavirus Vaccine Introduction in Bangladesh",
+      "country": "Bangladesh",
+      "who_region": "South-East Asia Region",
+      "income_level": "Lower-middle income",
+      "focus": "Cost-effectiveness analysis for vaccine policy",
+      "key_lessons": [
+        "Economic evaluation informs evidence-based immunization policy decisions",
+        "Context-specific cost-effectiveness analysis is essential for local decision-making",
+        "Disability-adjusted life years provide a comprehensive measure of health impact",
+        "Vaccine introduction decisions require consideration of both health and economic outcomes"
+      ]
+    },
+    {
+      "title": "India's Ayushman Bharat PM-JAY: Large-Scale Financial Protection for the Poor",
+      "country": "India",
+      "who_region": "South-East Asia Region",
+      "income_level": "Lower-middle income",
+      "focus": "Financial protection and catastrophic expenditure",
+      "key_lessons": [
+        "Large-scale government insurance programs can rapidly expand financial protection coverage",
+        "Technology platforms enable efficient enrollment and claims processing at scale",
+        "Benefit package design affects both financial protection and program sustainability",
+        "Monitoring catastrophic expenditure outcomes is essential for program evaluation"
+      ]
+    },
+    {
+      "title": "Results-Based Financing in Rwanda: Linking Payments to Health Outcomes",
+      "country": "Rwanda",
+      "who_region": "African Region",
+      "income_level": "Low income",
+      "focus": "Innovative financing mechanisms",
+      "key_lessons": [
+        "Performance-based incentives can improve health service delivery quality and coverage",
+        "Verification systems are essential for results-based financing credibility",
+        "Community health insurance complements facility-based performance incentives",
+        "Sustained political commitment and donor support enable program scaling"
+      ]
+    }
+  ],
+  "sdg_alignment": [
+    {
+      "goal": "SDG 3",
+      "target": "3.8",
+      "description": "Achieve universal health coverage including financial risk protection"
+    },
+    {
+      "goal": "SDG 1",
+      "target": "1.3",
+      "description": "Implement social protection systems and measures for all"
+    },
+    {
+      "goal": "SDG 10",
+      "target": "10.4",
+      "description": "Adopt policies especially fiscal policies that progressively achieve greater equality"
+    }
+  ],
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 15
+    },
+    "short_answer_questions": {
+      "count": 5
+    }
+  }
+}

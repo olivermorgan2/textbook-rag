@@ -1,0 +1,140 @@
+{
+  "chapter_number": 5,
+  "title": "Infectious Disease Fundamentals",
+  "part": {
+    "part_number": 2,
+    "part_title": "Communicable Diseases"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "citation_style": "Vancouver",
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define key concepts in infectious disease transmission including agent, host, and environment components of the epidemiological triad"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the mechanisms of host-pathogen interactions and how immune responses influence disease outcomes"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Calculate and interpret basic reproduction numbers (R₀) and effective reproduction numbers (Rt) for infectious disease outbreaks"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Construct and interpret epidemic curves to identify transmission patterns and outbreak characteristics"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Assess the performance and effectiveness of surveillance systems for infectious disease detection and monitoring"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design outbreak investigation protocols incorporating contact tracing, laboratory confirmation, and control measures"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Epidemiological triad: agent, host, environment"
+    },
+    {
+      "topic": "Host-pathogen interactions and immune responses"
+    },
+    {
+      "topic": "Modes of transmission and chain of infection"
+    },
+    {
+      "topic": "Basic reproduction number (R₀) and effective reproduction number (Rt)"
+    },
+    {
+      "topic": "Outbreak investigation methodology"
+    },
+    {
+      "topic": "Epidemic curve construction and interpretation"
+    },
+    {
+      "topic": "Surveillance systems and early warning indicators"
+    },
+    {
+      "topic": "Contact tracing principles and implementation"
+    },
+    {
+      "topic": "Mathematical modeling in infectious disease control"
+    },
+    {
+      "topic": "Antimicrobial resistance as global health threat"
+    },
+    {
+      "topic": "Risk assessment frameworks"
+    },
+    {
+      "topic": "Prevention and control strategies"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "SARS-CoV-1 Outbreak Investigation and Global Response (2003)",
+      "who_region": "Asia-Pacific (China, Hong Kong, Singapore)",
+      "income_level": "Mixed (Upper-middle and High-income)",
+      "focus": "Rapid outbreak investigation, international coordination, and containment strategies"
+    },
+    {
+      "title": "Nipah Virus Outbreak Investigation in Malaysia (1998-1999)",
+      "who_region": "South-East Asia Region",
+      "income_level": "Upper-middle income",
+      "focus": "One Health approach, zoonotic disease investigation, and livestock-human transmission"
+    },
+    {
+      "title": "Global Influenza Surveillance Network Implementation",
+      "who_region": "Global (focus on WHO AFRO and SEARO regions)",
+      "income_level": "Mixed (Low, Middle, and High-income)",
+      "focus": "Sentinel surveillance system design, laboratory networks, and pandemic preparedness"
+    },
+    {
+      "title": "Community-Based Vector Control Program - Dengue Prevention in Brazil",
+      "who_region": "South America",
+      "income_level": "Upper-middle income",
+      "focus": "Community engagement, integrated vector management, and prevention effectiveness"
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low-income",
+      "Lower-middle income",
+      "Upper-middle income",
+      "High-income"
+    ]
+  },
+  "technical_skills": [
+    "Epidemic curve construction and interpretation",
+    "Contact tracing methodology design",
+    "Surveillance system evaluation metrics",
+    "Basic reproduction number calculation",
+    "Risk assessment framework application",
+    "Outbreak investigation protocol development"
+  ],
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 15
+    },
+    "short_answer_questions": {
+      "count": 8
+    },
+    "policy_analysis_exercises": {
+      "count": 1
+    }
+  }
+}

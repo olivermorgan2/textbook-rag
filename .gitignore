@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Obsidian
+.obsidian/
+
+# Scratch files
+Untitled
+
+# Node (frontend)
+node_modules/
+frontend/dist/
+
+# Vector store data
+*.qdrant/
+storage/

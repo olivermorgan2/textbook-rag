@@ -1,0 +1,6 @@
+# Ingestion & RAG pipeline
+sentence-transformers>=2.2.0
+qdrant-client>=1.7.0
+
+# Testing
+pytest>=7.0.0

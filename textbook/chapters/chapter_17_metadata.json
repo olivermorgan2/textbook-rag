@@ -1,0 +1,354 @@
+{
+  "chapter_number": 17,
+  "title": "Substance Use Disorders",
+  "part": {
+    "part_number": 3,
+    "part_title": "Non-Communicable Diseases"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define substance use disorders and distinguish between use, abuse, and dependence"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Describe global patterns of alcohol, tobacco, and illicit drug use across WHO regions"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Identify major health consequences of substance use disorders"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Recognize the epidemiology of prescription drug misuse globally"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the neurobiological basis of addiction and dependence"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Interpret WHO Framework Convention on Tobacco Control provisions"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Understand harm reduction principles and evidence base"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Describe the relationship between substance use and blood-borne virus transmission"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply evidence-based treatment approaches for different substance use disorders"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Design culturally appropriate prevention programs for specific populations"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Implement harm reduction interventions in diverse settings"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Develop tobacco control policies using WHO MPOWER strategies"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the effectiveness of different alcohol policy interventions"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Compare criminalization versus public health approaches to drug policy"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate the impact of tobacco taxation on consumption and health outcomes"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Assess barriers to substance use treatment access across different healthcare systems"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Integrate multiple prevention strategies into comprehensive substance use programs"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Synthesize evidence on opioid substitution therapy effectiveness across different settings"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop comprehensive tobacco control strategies combining policy, clinical, and community interventions"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Create multi-sectoral approaches addressing substance use and related health issues"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the population-level impact of plain packaging tobacco policies"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Judge the cost-effectiveness of different harm reduction interventions"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Assess the human rights implications of different drug policy approaches"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critique the evidence base for universal versus selective prevention strategies"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Substance use disorder"
+    },
+    {
+      "term": "Addiction"
+    },
+    {
+      "term": "Dependence"
+    },
+    {
+      "term": "Tolerance"
+    },
+    {
+      "term": "Withdrawal"
+    },
+    {
+      "term": "Harm reduction"
+    },
+    {
+      "term": "Opioid substitution therapy"
+    },
+    {
+      "term": "Needle and syringe exchange"
+    },
+    {
+      "term": "MPOWER strategies"
+    },
+    {
+      "term": "Framework Convention on Tobacco Control"
+    },
+    {
+      "term": "Minimum unit pricing"
+    },
+    {
+      "term": "Drug consumption rooms"
+    },
+    {
+      "term": "Universal prevention"
+    },
+    {
+      "term": "Selective prevention"
+    },
+    {
+      "term": "Indicated prevention"
+    },
+    {
+      "term": "Medication-assisted treatment"
+    },
+    {
+      "term": "Motivational interviewing"
+    },
+    {
+      "term": "Contingency management"
+    },
+    {
+      "term": "Drug policy reform"
+    },
+    {
+      "term": "Criminalization versus medicalization"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Australia's Plain Packaging Tobacco Control Policy",
+      "country": "Australia",
+      "who_region": "Western Pacific Region",
+      "income_level": "High-income",
+      "population_size": 25687041,
+      "intervention_type": [
+        "Plain packaging legislation with graphic health warnings"
+      ],
+      "key_lessons": [
+        "Policy development and implementation processes",
+        "Industry resistance and legal challenges",
+        "Evidence generation for policy impact assessment",
+        "International diffusion of tobacco control innovations"
+      ],
+      "discussion_points": [
+        "How did Australia overcome tobacco industry legal challenges?",
+        "What role did research evidence play in policy development?",
+        "How can plain packaging be adapted for different regulatory environments?",
+        "What lessons apply to other tobacco control measures?"
+      ]
+    },
+    {
+      "title": "Portugal's Drug Decriminalization and Treatment Expansion",
+      "country": "Portugal",
+      "who_region": "European Region",
+      "income_level": "High-income",
+      "population_size": 10295909,
+      "intervention_type": [
+        "Decriminalization of personal drug use with treatment expansion"
+      ],
+      "key_lessons": [
+        "Policy paradigm shifts from criminal to health approaches",
+        "Treatment system expansion and integration",
+        "Harm reduction implementation at scale",
+        "Long-term population health outcomes"
+      ],
+      "discussion_points": [
+        "What factors enabled Portugal's policy paradigm shift?",
+        "How did treatment system changes contribute to outcomes?",
+        "What role did political leadership play in sustaining reforms?",
+        "How applicable is this model to other country contexts?"
+      ]
+    },
+    {
+      "title": "Scotland's Minimum Unit Pricing for Alcohol",
+      "country": "Scotland (United Kingdom)",
+      "who_region": "European Region",
+      "income_level": "High-income",
+      "population_size": 5466000,
+      "intervention_type": [
+        "Minimum unit pricing of £0.50 per unit of alcohol"
+      ],
+      "key_lessons": [
+        "Price-based alcohol policy interventions",
+        "Health inequities and targeted policy impacts",
+        "Political economy of alcohol policy implementation",
+        "Evidence generation for population-level interventions"
+      ],
+      "discussion_points": [
+        "Why did minimum unit pricing succeed when other price measures failed?",
+        "How did the policy address health inequities?",
+        "What role did industry opposition play in shaping implementation?",
+        "How can similar policies be adapted for different alcohol markets?"
+      ]
+    },
+    {
+      "title": "Vietnam's Methadone Maintenance Therapy Scale-Up",
+      "country": "Vietnam",
+      "who_region": "Western Pacific Region",
+      "income_level": "Lower-middle-income",
+      "population_size": 97338583,
+      "intervention_type": [
+        "Methadone maintenance therapy expansion from pilot to national scale"
+      ],
+      "key_lessons": [
+        "Health system strengthening for addiction treatment",
+        "Integration of harm reduction into existing health systems",
+        "Overcoming stigma and regulatory barriers",
+        "Community engagement and peer support models"
+      ],
+      "discussion_points": [
+        "How did Vietnam overcome initial resistance to methadone programs?",
+        "What health system adaptations were required for scale-up?",
+        "How did community engagement contribute to program success?",
+        "What lessons apply to scaling treatment in other low-resource settings?"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "European Region",
+      "South-East Asia Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low-income countries",
+      "Lower-middle-income countries",
+      "Upper-middle-income countries",
+      "High-income countries"
+    ]
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 5,
+      "items": [
+        {
+          "question": "According to the WHO Framework Convention on Tobacco Control, which intervention has the strongest evidence for reducing tobacco use?",
+          "options": [
+            "a) Health education campaigns",
+            "b) Tobacco taxation and price increases",
+            "c) Smoke-free environment policies",
+            "d) Cessation support services"
+          ],
+          "correct_answer": "b",
+          "explanation": "Tobacco taxation and price increases have the strongest evidence base for reducing tobacco consumption, particularly among youth and low-income populations, as demonstrated in systematic reviews and country-level implementation studies."
+        },
+        {
+          "question": "Which harm reduction intervention has the strongest evidence for preventing HIV transmission among people who inject drugs?",
+          "options": [
+            "a) Needle and syringe exchange programs",
+            "b) Opioid substitution therapy",
+            "c) Drug consumption rooms",
+            "d) Both a and b have equally strong evidence"
+          ],
+          "correct_answer": "d",
+          "explanation": "Both needle and syringe exchange programs and opioid substitution therapy have strong evidence for HIV prevention, with meta-analyses showing significant reductions in HIV transmission when implemented individually or in combination."
+        },
+        {
+          "question": "Population-level alcohol policy interventions with the strongest evidence include:",
+          "options": [
+            "a) Education and awareness campaigns",
+            "b) Individual-level treatment programs",
+            "c) Alcohol taxation and availability restrictions",
+            "d) Workplace alcohol policies"
+          ],
+          "correct_answer": "c",
+          "explanation": "Alcohol taxation and availability restrictions (including outlet density restrictions and hours of sale) have the strongest evidence for population-level impact, as demonstrated in systematic reviews and natural experiment studies."
+        },
+        {
+          "question": "The most effective approach to substance use prevention programming is:",
+          "options": [
+            "a) Universal prevention for all populations",
+            "b) Selective prevention for high-risk groups",
+            "c) Indicated prevention for individuals showing early signs",
+            "d) A comprehensive approach combining all three strategies"
+          ],
+          "correct_answer": "d",
+          "explanation": "Evidence supports comprehensive prevention approaches that combine universal, selective, and indicated prevention strategies, with different components targeting different population segments and risk levels."
+        },
+        {
+          "question": "Which statement best describes the evidence on drug policy approaches?",
+          "options": [
+            "a) Criminalization approaches consistently reduce drug use and related harms",
+            "b) Public health approaches reduce drug-related harms but may increase use",
+            "c) Public health approaches reduce both drug use and drug-related harms",
+            "d) No approach has been shown to be effective"
+          ],
+          "correct_answer": "c",
+          "explanation": "Evidence from Portugal, Switzerland, and other countries shows that public health approaches to drug policy can reduce both drug use and drug-related harms, including overdose deaths, infectious disease transmission, and crime."
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 5,
+      "items": [
+        "Compare and contrast the evidence base for different tobacco control interventions using WHO MPOWER categories.",
+        "Analyze the key components of effective opioid substitution therapy programs in low-resource settings.",
+        "Evaluate the population-level impact of alcohol minimum unit pricing policies using Scotland's experience.",
+        "Describe the integration challenges for substance use treatment in primary healthcare systems.",
+        "Assess the role of community engagement in successful harm reduction program implementation."
+      ]
+    }
+  }
+}

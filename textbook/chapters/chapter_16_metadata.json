@@ -1,0 +1,488 @@
+{
+  "chapter_number": 16,
+  "title": "Mental Health and Neurological Disorders",
+  "part": {
+    "part_number": 3,
+    "part_title": "Non-Communicable Diseases"
+  },
+  "authors": [
+    {
+      "name": "Oliver Harrison",
+      "affiliation": "Global Health Program",
+      "role": "Primary Author"
+    }
+  ],
+  "keywords": [
+    "mental health",
+    "neurological disorders",
+    "community mental health",
+    "task-shifting",
+    "suicide prevention",
+    "epilepsy",
+    "dementia",
+    "depression",
+    "anxiety",
+    "mhGAP",
+    "human rights",
+    "treatment gap",
+    "primary healthcare integration",
+    "cultural adaptation",
+    "digital mental health"
+  ],
+  "word_count_target": {
+    "min": 8000,
+    "max": 8000
+  },
+  "learning_objectives": [
+    {
+      "objective_id": "LO-16.1",
+      "bloom_level": "Analyze",
+      "text": "Analyze the global burden of mental health conditions and neurological disorders across different populations and settings",
+      "assessment_method": "Case study analysis",
+      "topic_area": "Disease burden"
+    },
+    {
+      "objective_id": "LO-16.2",
+      "bloom_level": "Create",
+      "text": "Design culturally appropriate community-based mental health programs for diverse global contexts",
+      "assessment_method": "Program design exercise",
+      "topic_area": "Program planning"
+    },
+    {
+      "objective_id": "LO-16.3",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the effectiveness of task-shifting approaches and integration of mental health services into primary healthcare",
+      "assessment_method": "Literature review and critique",
+      "topic_area": "Service delivery"
+    },
+    {
+      "objective_id": "LO-16.4",
+      "bloom_level": "Apply",
+      "text": "Apply evidence-based suicide prevention strategies across different cultural and resource contexts",
+      "assessment_method": "Strategy development",
+      "topic_area": "Prevention"
+    },
+    {
+      "objective_id": "LO-16.5",
+      "bloom_level": "Evaluate",
+      "text": "Assess mental health policy frameworks and their alignment with human rights principles",
+      "assessment_method": "Policy analysis",
+      "topic_area": "Policy and governance"
+    },
+    {
+      "objective_id": "LO-16.6",
+      "bloom_level": "Analyze",
+      "text": "Compare different models of neurological care delivery in resource-constrained settings",
+      "assessment_method": "Comparative analysis",
+      "topic_area": "Healthcare delivery"
+    }
+  ],
+  "content_sections": [
+    {
+      "section_id": "introduction",
+      "title": "Introduction",
+      "word_count": 500,
+      "subsections": [
+        "Defining mental health and neurological disorders",
+        "Historical context and stigma reduction",
+        "Global health significance"
+      ],
+      "figures": [
+        {
+          "figure_id": "16.1",
+          "title": "Global Prevalence of Mental Health and Neurological Disorders by WHO Region",
+          "type": "bar chart",
+          "data_source": "GBD Study 2019"
+        }
+      ]
+    },
+    {
+      "section_id": "global-burden",
+      "title": "Global Burden of Mental Health and Neurological Disorders",
+      "word_count": 1200,
+      "subsections": [
+        "Epidemiological overview and trends",
+        "Disability-adjusted life years (DALYs)",
+        "Regional variations and demographic patterns",
+        "Economic burden and productivity losses"
+      ],
+      "tables": [
+        {
+          "table_id": "16.1",
+          "title": "Leading Mental Health and Neurological Disorders by Global Burden",
+          "data_source": "GBD Study 2019, Lancet Psychiatry 2022"
+        }
+      ],
+      "key_concepts": [
+        "treatment gap",
+        "disability burden",
+        "economic impact"
+      ]
+    },
+    {
+      "section_id": "common-conditions",
+      "title": "Major Mental Health Conditions",
+      "word_count": 1500,
+      "subsections": [
+        "Depressive disorders: epidemiology and impact",
+        "Anxiety disorders: prevalence and comorbidity",
+        "Bipolar disorder: global patterns and outcomes",
+        "Schizophrenia and psychotic disorders",
+        "Substance use disorders intersection"
+      ],
+      "figures": [
+        {
+          "figure_id": "16.2",
+          "title": "Age-Standardized Prevalence Rates of Common Mental Disorders by Income Level",
+          "type": "line graph",
+          "data_source": "Global Health Observatory, WHO"
+        }
+      ],
+      "key_concepts": [
+        "comorbidity",
+        "functional impairment",
+        "chronicity"
+      ]
+    },
+    {
+      "section_id": "neurological-disorders",
+      "title": "Major Neurological Disorders",
+      "word_count": 1200,
+      "subsections": [
+        "Epilepsy: global burden and treatment gaps",
+        "Dementia: rising prevalence and care challenges",
+        "Stroke: prevention and rehabilitation needs",
+        "Headache disorders: underestimated burden",
+        "Parkinson's disease and movement disorders"
+      ],
+      "tables": [
+        {
+          "table_id": "16.2",
+          "title": "Neurological Disorders: Prevalence, Mortality, and Disability Patterns",
+          "data_source": "Lancet Neurology 2020"
+        }
+      ],
+      "key_concepts": [
+        "neurological treatment gap",
+        "seizure control",
+        "cognitive impairment"
+      ]
+    },
+    {
+      "section_id": "suicide-prevention",
+      "title": "Suicide Prevention: Global Strategies and Evidence",
+      "word_count": 1100,
+      "subsections": [
+        "Epidemiology of suicide: global patterns and trends",
+        "Risk and protective factors across cultures",
+        "Evidence-based prevention interventions",
+        "Means restriction and environmental approaches",
+        "Postvention and survivor support"
+      ],
+      "figures": [
+        {
+          "figure_id": "16.3",
+          "title": "Global Suicide Rates by Age Group and Gender",
+          "type": "heatmap",
+          "data_source": "WHO Global Health Observatory 2019"
+        }
+      ],
+      "key_concepts": [
+        "means restriction",
+        "gatekeeper training",
+        "postvention"
+      ]
+    },
+    {
+      "section_id": "determinants",
+      "title": "Social, Economic, and Environmental Determinants",
+      "word_count": 1000,
+      "subsections": [
+        "Social determinants of mental health",
+        "Poverty, inequality, and mental health outcomes",
+        "Violence, trauma, and psychological wellbeing",
+        "Cultural factors and explanatory models",
+        "Gender, mental health, and human rights"
+      ],
+      "key_concepts": [
+        "social determinants",
+        "structural violence",
+        "cultural competence"
+      ]
+    },
+    {
+      "section_id": "community-approaches",
+      "title": "Community Mental Health and Recovery Models",
+      "word_count": 1000,
+      "subsections": [
+        "Community mental health principles",
+        "Task-shifting and non-specialist providers",
+        "Peer support and lived experience roles",
+        "Recovery-oriented approaches",
+        "Family and caregiver involvement"
+      ],
+      "tables": [
+        {
+          "table_id": "16.3",
+          "title": "Evidence for Task-Shifting Mental Health Interventions",
+          "data_source": "Cochrane Reviews 2019-2022"
+        }
+      ],
+      "key_concepts": [
+        "task-shifting",
+        "peer support",
+        "recovery model"
+      ]
+    },
+    {
+      "section_id": "primary-care-integration",
+      "title": "Integration into Primary Healthcare",
+      "word_count": 900,
+      "subsections": [
+        "WHO mhGAP intervention guide implementation",
+        "Training primary care providers",
+        "Screening and early detection strategies",
+        "Stepped care and referral pathways",
+        "Quality improvement and supervision"
+      ],
+      "figures": [
+        {
+          "figure_id": "16.4",
+          "title": "Integration Models for Mental Health in Primary Care",
+          "type": "flowchart",
+          "data_source": "WHO mhGAP 2016"
+        }
+      ],
+      "key_concepts": [
+        "mhGAP",
+        "stepped care",
+        "collaborative care"
+      ]
+    },
+    {
+      "section_id": "special-populations",
+      "title": "Mental Health in Special Populations",
+      "word_count": 900,
+      "subsections": [
+        "Child and adolescent mental health",
+        "Perinatal mental health",
+        "Elderly and dementia care",
+        "Displaced populations and humanitarian settings",
+        "Indigenous populations and cultural adaptation"
+      ],
+      "key_concepts": [
+        "developmental considerations",
+        "humanitarian mental health",
+        "cultural adaptation"
+      ]
+    },
+    {
+      "section_id": "policy-legislation",
+      "title": "Mental Health Policy, Legislation, and Human Rights",
+      "word_count": 800,
+      "subsections": [
+        "Mental health policy development frameworks",
+        "Human rights approaches to mental health",
+        "Deinstitutionalization and community care",
+        "Mental health legislation and legal capacity",
+        "Advocacy and user/survivor movements"
+      ],
+      "key_concepts": [
+        "human rights",
+        "legal capacity",
+        "deinstitutionalization"
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Ethiopia's Community-Based Mental Health Program: PRIME Project Implementation",
+      "country": "Ethiopia",
+      "who_region": "African Region",
+      "income_level": "Low-income",
+      "population_size": "115 million",
+      "time_period": "2012-2018",
+      "intervention_type": [
+        "Task-shifting",
+        "Community mental health",
+        "Primary care integration"
+      ],
+      "outcomes": [
+        "Service coverage and accessibility",
+        "Clinical outcomes for depression and psychosis",
+        "Cost-effectiveness",
+        "Healthcare provider competency"
+      ],
+      "primary_references": [
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Sri Lanka's National Suicide Prevention Strategy: Pesticide Regulation and Community Interventions",
+      "country": "Sri Lanka",
+      "who_region": "South-East Asia Region",
+      "income_level": "Upper-middle-income",
+      "population_size": "22 million",
+      "time_period": "1995-2015",
+      "intervention_type": [
+        "Means restriction",
+        "Policy reform",
+        "Community awareness"
+      ],
+      "outcomes": [
+        "Suicide mortality reduction",
+        "Method-specific suicide rates",
+        "Emergency department presentations",
+        "Healthcare system burden"
+      ],
+      "primary_references": [
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "title": "Ghana's Mental Health Act Implementation: Human Rights and Deinstitutionalization",
+      "country": "Ghana",
+      "who_region": "African Region",
+      "income_level": "Lower-middle-income",
+      "population_size": "31 million",
+      "time_period": "2012-2020",
+      "intervention_type": [
+        "Policy reform",
+        "Deinstitutionalization",
+        "Human rights protection"
+      ],
+      "outcomes": [
+        "Policy implementation progress",
+        "Mental health service restructuring",
+        "Human rights compliance",
+        "Community care development"
+      ],
+      "primary_references": [
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "title": "Rwanda's Epilepsy Care Program: Community Health Worker Model",
+      "country": "Rwanda",
+      "who_region": "African Region",
+      "income_level": "Low-income",
+      "population_size": "13 million",
+      "time_period": "2015-2021",
+      "intervention_type": [
+        "Task-shifting",
+        "Community health workers",
+        "Medication access"
+      ],
+      "outcomes": [
+        "Epilepsy treatment coverage",
+        "Seizure control rates",
+        "Quality of life improvements",
+        "Cost-effectiveness of CHW model"
+      ],
+      "primary_references": [
+        52,
+        53,
+        54,
+        55
+      ]
+    }
+  ],
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 2,
+      "items": [
+        {
+          "question_id": "MCQ-16.1",
+          "question": "According to the WHO mhGAP program, which approach is most effective for scaling mental health services in low-resource settings?",
+          "options": [
+            "A) Increasing the number of psychiatrists",
+            "B) Task-shifting to non-specialist healthcare workers",
+            "C) Building more specialized mental health facilities",
+            "D) Focusing only on severe mental disorders"
+          ],
+          "correct_answer": "B",
+          "explanation": "Task-shifting to trained non-specialist providers is the cornerstone of mhGAP, allowing for scalable mental health service delivery in resource-constrained settings.",
+          "learning_objective": "LO-16.3"
+        },
+        {
+          "question_id": "MCQ-16.2",
+          "question": "Which suicide prevention strategy has shown the strongest evidence for population-level impact?",
+          "options": [
+            "A) Individual counseling programs",
+            "B) Media reporting guidelines",
+            "C) Means restriction policies",
+            "D) School-based awareness programs"
+          ],
+          "correct_answer": "C",
+          "explanation": "Means restriction, such as limiting access to pesticides and firearms, has demonstrated the most robust evidence for reducing suicide rates at the population level.",
+          "learning_objective": "LO-16.4"
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 2,
+      "items": [
+        {
+          "question_id": "SA-16.1",
+          "question": "Explain the concept of the 'treatment gap' in global mental health and describe three evidence-based strategies to address it.",
+          "key_points": [
+            "Definition: gap between need for treatment and provision of care",
+            "Strategies: task-shifting, integration into primary care, community mental health",
+            "Evidence base and implementation considerations"
+          ],
+          "learning_objective": "LO-16.2"
+        },
+        {
+          "question_id": "SA-16.2",
+          "question": "Compare the burden of neurological disorders between high-income and low-income countries, highlighting key disparities and their underlying causes.",
+          "key_points": [
+            "Epidemiological differences by income level",
+            "Access to diagnostic and treatment services",
+            "Social and economic determinants",
+            "Implications for global health policy"
+          ],
+          "learning_objective": "LO-16.1"
+        }
+      ]
+    },
+    "case_study_exercises": {
+      "count": 1,
+      "items": [
+        {
+          "exercise_id": "CAE-16.1",
+          "title": "Designing a Community Mental Health Program",
+          "scenario": "You are asked to design a mental health program for a rural district in a low-income country with high rates of depression and limited healthcare infrastructure.",
+          "tasks": [
+            "Conduct a situational analysis",
+            "Develop culturally appropriate interventions",
+            "Design a task-shifting strategy",
+            "Create a monitoring and evaluation plan"
+          ],
+          "learning_objectives": [
+            "LO-16.2",
+            "LO-16.3"
+          ]
+        }
+      ]
+    }
+  },
+  "quality_metrics": {
+    "primary_source_percentage": 95,
+    "recent_reference_percentage": 78,
+    "geographic_coverage_score": 100,
+    "income_level_coverage": 100,
+    "evidence_quality_score": 92,
+    "readability_score": 65,
+    "fact_check_status": "Validated",
+    "expert_review_status": "Pending"
+  }
+}

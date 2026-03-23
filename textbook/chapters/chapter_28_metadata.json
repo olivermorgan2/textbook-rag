@@ -1,0 +1,1065 @@
+{
+  "chapter_number": 28,
+  "title": "Health Technology and Innovation",
+  "part": {
+    "part_number": 6,
+    "part_title": "Global Health Interventions and Programs"
+  },
+  "version": "1.0",
+  "last_updated": "2025-01-15",
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "citation_style": "Vancouver",
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "objective_id": "LO1",
+      "bloom_level": "Remember",
+      "text": "Define key concepts in digital health including telemedicine, mHealth, electronic health records, and health information systems",
+      "assessment_alignment": [
+        "MCQ_1",
+        "MCQ_2",
+        "MCQ_3"
+      ]
+    },
+    {
+      "objective_id": "LO2",
+      "bloom_level": "Remember",
+      "text": "Identify the core components of health technology assessment frameworks including safety, effectiveness, cost-effectiveness, and ethical dimensions",
+      "assessment_alignment": [
+        "MCQ_4",
+        "MCQ_5"
+      ]
+    },
+    {
+      "objective_id": "LO3",
+      "bloom_level": "Understand",
+      "text": "Explain the principles of appropriate technology and frugal innovation for low-resource settings",
+      "assessment_alignment": [
+        "SA_1",
+        "MCQ_6"
+      ]
+    },
+    {
+      "objective_id": "LO4",
+      "bloom_level": "Understand",
+      "text": "Describe the role of artificial intelligence and machine learning in diagnostic applications, predictive analytics, and clinical decision support",
+      "assessment_alignment": [
+        "SA_2",
+        "MCQ_7",
+        "MCQ_8"
+      ]
+    },
+    {
+      "objective_id": "LO5",
+      "bloom_level": "Apply",
+      "text": "Apply implementation science frameworks to design health technology scale-up strategies",
+      "assessment_alignment": [
+        "EX_1",
+        "SA_3"
+      ]
+    },
+    {
+      "objective_id": "LO6",
+      "bloom_level": "Apply",
+      "text": "Apply health technology assessment methodologies to evaluate digital health interventions",
+      "assessment_alignment": [
+        "EX_2",
+        "SA_4"
+      ]
+    },
+    {
+      "objective_id": "LO7",
+      "bloom_level": "Analyze",
+      "text": "Analyze the factors contributing to digital divides in health and strategies to promote equitable technology access",
+      "assessment_alignment": [
+        "EX_3",
+        "SA_5"
+      ]
+    },
+    {
+      "objective_id": "LO8",
+      "bloom_level": "Analyze",
+      "text": "Analyze the ethical implications of AI/ML applications in healthcare including algorithmic bias, data privacy, and clinical accountability",
+      "assessment_alignment": [
+        "EX_4",
+        "SA_6"
+      ]
+    },
+    {
+      "objective_id": "LO9",
+      "bloom_level": "Create",
+      "text": "Design a digital health intervention appropriate for a specific low-resource context incorporating user-centered design principles",
+      "assessment_alignment": [
+        "EX_5"
+      ]
+    },
+    {
+      "objective_id": "LO10",
+      "bloom_level": "Create",
+      "text": "Develop a comprehensive strategy for health information system strengthening in resource-limited settings",
+      "assessment_alignment": [
+        "EX_6"
+      ]
+    },
+    {
+      "objective_id": "LO11",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate health technologies using established assessment frameworks considering clinical effectiveness, cost-effectiveness, equity, and implementation feasibility",
+      "assessment_alignment": [
+        "EX_7",
+        "Policy_Analysis"
+      ]
+    },
+    {
+      "objective_id": "LO12",
+      "bloom_level": "Evaluate",
+      "text": "Critically appraise regulatory frameworks for digital health and AI in different jurisdictions",
+      "assessment_alignment": [
+        "EX_8"
+      ]
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Digital Health",
+      "definition": "The broad umbrella term encompassing eHealth, mHealth, and emerging technologies using computing platforms, connectivity, software, and sensors for healthcare purposes."
+    },
+    {
+      "term": "Telemedicine",
+      "definition": "The delivery of healthcare services using telecommunications technology when patients and providers are not in the same physical location."
+    },
+    {
+      "term": "Mobile Health (mHealth)",
+      "definition": "Medical and public health practice supported by mobile devices including mobile phones, patient monitoring devices, personal digital assistants, and wireless devices."
+    },
+    {
+      "term": "Electronic Health Records (EHR)",
+      "definition": "Digital versions of patients' paper charts containing medical history, diagnoses, medications, treatment plans, immunization dates, allergies, radiology images, and laboratory results."
+    },
+    {
+      "term": "Health Technology Assessment (HTA)",
+      "definition": "A multidisciplinary process that uses explicit methods to determine the value of a health technology at different points in its lifecycle, informing decision-making."
+    },
+    {
+      "term": "Appropriate Technology",
+      "definition": "Technology that is suitable to the social and economic conditions of the geographic area where it is used, meets needs of users, and can be sustained by local resources."
+    },
+    {
+      "term": "Frugal Innovation",
+      "definition": "Innovation that seeks to minimize the use of material and financial resources in the complete cycle of design, production, distribution, consumption, and disposal."
+    },
+    {
+      "term": "Point-of-Care Testing",
+      "definition": "Medical diagnostic testing performed at or near the site of patient care, enabling clinical decisions during the patient encounter."
+    },
+    {
+      "term": "Artificial Intelligence in Healthcare",
+      "definition": "The use of complex algorithms and software to emulate human cognition in analysis, interpretation, and comprehension of medical and healthcare data."
+    },
+    {
+      "term": "Machine Learning",
+      "definition": "A subset of AI where algorithms improve through experience without being explicitly programmed, learning patterns from data to make predictions or decisions."
+    },
+    {
+      "term": "Health Information System",
+      "definition": "An integrated system for collecting, processing, reporting, and using health information and knowledge to influence policy-making, program action, and research."
+    },
+    {
+      "term": "Interoperability",
+      "definition": "The ability of different information systems, devices, and applications to access, exchange, integrate, and use data in a coordinated manner."
+    },
+    {
+      "term": "Digital Divide",
+      "definition": "The gap between demographics and regions that have access to modern information and communications technology and those that have limited access."
+    },
+    {
+      "term": "Technology Leapfrogging",
+      "definition": "The adoption of advanced or state-of-the-art technology in an application area where immediate prior technology has not been adopted."
+    },
+    {
+      "term": "Open Source Software",
+      "definition": "Software with source code available for modification and redistribution, often developed collaboratively and shared freely."
+    }
+  ],
+  "theoretical_frameworks": [
+    {
+      "framework": "Technology Acceptance Model (TAM)",
+      "application": "Understanding user adoption of health technologies through perceived usefulness and perceived ease of use"
+    },
+    {
+      "framework": "Diffusion of Innovations Theory",
+      "application": "Analyzing the spread of health technologies across populations and health systems"
+    },
+    {
+      "framework": "Consolidated Framework for Implementation Research (CFIR)",
+      "application": "Guiding implementation of health technology interventions in complex health systems"
+    },
+    {
+      "framework": "RE-AIM Framework",
+      "application": "Evaluating health technology programs across Reach, Effectiveness, Adoption, Implementation, and Maintenance"
+    },
+    {
+      "framework": "WHO Building Blocks Framework",
+      "application": "Situating health technology within health system strengthening efforts"
+    },
+    {
+      "framework": "Human-Centered Design",
+      "application": "Developing health technologies that meet user needs and contextual requirements"
+    },
+    {
+      "framework": "Equity-Focused Health Technology Assessment",
+      "application": "Incorporating equity considerations into evaluation of health technologies"
+    }
+  ],
+  "content_sections": [
+    {
+      "section_id": "28.1",
+      "title": "Introduction to Health Technology and Innovation",
+      "word_count": 600,
+      "key_topics": [
+        "Defining health technology in global context",
+        "Evolution of health technology from traditional to digital",
+        "The innovation ecosystem in global health",
+        "Technology's role in achieving Universal Health Coverage"
+      ]
+    },
+    {
+      "section_id": "28.2",
+      "title": "Digital Health: Foundations and Applications",
+      "word_count": 1200,
+      "key_topics": [
+        "Telemedicine and telehealth platforms",
+        "Mobile health (mHealth) applications",
+        "Electronic health records and interoperability",
+        "Remote patient monitoring and wearable technologies",
+        "Digital therapeutics and health apps"
+      ]
+    },
+    {
+      "section_id": "28.3",
+      "title": "Health Information Systems",
+      "word_count": 1000,
+      "key_topics": [
+        "Health management information systems (HMIS)",
+        "District Health Information Software (DHIS2)",
+        "Disease surveillance and early warning systems",
+        "Clinical decision support systems",
+        "Data quality and governance"
+      ]
+    },
+    {
+      "section_id": "28.4",
+      "title": "Medical Devices for Low-Resource Settings",
+      "word_count": 1000,
+      "key_topics": [
+        "Appropriate technology principles",
+        "Frugal innovation and reverse innovation",
+        "Point-of-care diagnostics",
+        "Design considerations for resource-limited contexts",
+        "Maintenance and supply chain challenges"
+      ]
+    },
+    {
+      "section_id": "28.5",
+      "title": "Artificial Intelligence and Machine Learning in Health",
+      "word_count": 1100,
+      "key_topics": [
+        "Machine learning fundamentals in healthcare",
+        "Diagnostic AI applications",
+        "Predictive analytics and risk stratification",
+        "Natural language processing in clinical settings",
+        "Algorithm validation and performance metrics"
+      ]
+    },
+    {
+      "section_id": "28.6",
+      "title": "Health Technology Assessment",
+      "word_count": 900,
+      "key_topics": [
+        "HTA frameworks and methodologies",
+        "Safety and efficacy evaluation",
+        "Cost-effectiveness analysis",
+        "Ethical and social considerations",
+        "HTA institutions and processes globally"
+      ]
+    },
+    {
+      "section_id": "28.7",
+      "title": "Innovation Ecosystems and Technology Transfer",
+      "word_count": 800,
+      "key_topics": [
+        "Research and development pipelines",
+        "Technology transfer mechanisms",
+        "Intellectual property considerations",
+        "Open source approaches to health technology",
+        "Public-private partnerships in innovation"
+      ]
+    },
+    {
+      "section_id": "28.8",
+      "title": "Digital Divides and Equity in Health Technology",
+      "word_count": 900,
+      "key_topics": [
+        "Infrastructure requirements and connectivity gaps",
+        "Digital literacy and user acceptance",
+        "Gender and geographic disparities",
+        "Strategies for equitable technology access",
+        "Technology leapfrogging opportunities"
+      ]
+    },
+    {
+      "section_id": "28.9",
+      "title": "Regulatory Frameworks and Governance",
+      "word_count": 800,
+      "key_topics": [
+        "Medical device regulation globally",
+        "Digital health regulatory approaches",
+        "AI/ML regulatory considerations",
+        "Data protection and privacy regulations",
+        "International harmonization efforts"
+      ]
+    },
+    {
+      "section_id": "28.10",
+      "title": "Implementation and Scale-Up",
+      "word_count": 800,
+      "key_topics": [
+        "Implementation science frameworks",
+        "Technology adoption models",
+        "Sustainability and institutionalization",
+        "Integration with existing health systems",
+        "Monitoring and evaluation of technology programs"
+      ]
+    },
+    {
+      "section_id": "28.11",
+      "title": "Ethics in Health Technology",
+      "word_count": 700,
+      "key_topics": [
+        "Algorithmic bias and fairness",
+        "Data privacy and security",
+        "Informed consent in digital health",
+        "Clinical accountability and liability",
+        "Technology and health equity"
+      ]
+    },
+    {
+      "section_id": "28.12",
+      "title": "Future Directions",
+      "word_count": 500,
+      "key_topics": [
+        "Emerging technologies in global health",
+        "Precision public health",
+        "Health system resilience through technology",
+        "Climate-smart health technologies",
+        "Preparing health systems for technological change"
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "case_study_id": "CS1",
+      "title": "Rwanda's National Digital Health Transformation: OpenMRS and RapidSMS",
+      "geographic_focus": {
+        "country": "Rwanda",
+        "who_region": "African Region (AFRO)",
+        "income_classification": "Low-income"
+      },
+      "time_period": "2009-present",
+      "key_themes": [
+        "National health information system implementation",
+        "Integration of mHealth with community health workers",
+        "Political commitment and health system strengthening",
+        "Open source technology adoption"
+      ],
+      "key_lessons": [
+        "Strong political commitment enables rapid scale-up",
+        "Open source solutions reduce costs and increase adaptability",
+        "Integration with community health programs extends reach",
+        "Continuous iteration based on user feedback improves adoption"
+      ],
+      "primary_references": [
+        "Condo et al., 2014",
+        "Ngabo et al., 2012",
+        "Binagwaho et al., 2014"
+      ],
+      "type": "digital_health_program",
+      "outcomes": [
+        "National electronic medical records deployment",
+        "Community health worker digital empowerment",
+        "Improved maternal and child health outcomes",
+        "Health system data quality improvements"
+      ]
+    },
+    {
+      "case_study_id": "CS2",
+      "title": "GeneXpert MTB/RIF: Transforming Tuberculosis Diagnosis in Low-Resource Settings",
+      "geographic_focus": {
+        "country": "South Africa (primary), Global scale-up",
+        "who_region": "Multiple WHO regions",
+        "income_classification": "Low- and middle-income countries"
+      },
+      "time_period": "2010-present",
+      "key_themes": [
+        "Point-of-care molecular diagnostics",
+        "Same-day diagnosis paradigm shift",
+        "Drug resistance detection",
+        "Technology access negotiations and pricing"
+      ],
+      "key_lessons": [
+        "Negotiated pricing expands access in LMICs",
+        "Integration into national programs requires infrastructure investment",
+        "Point-of-care testing transforms care pathways",
+        "Ongoing innovation (Xpert Ultra) continues to improve performance"
+      ],
+      "primary_references": [
+        "Steingart et al., 2014",
+        "Albert et al., 2016",
+        "Boehme et al., 2010"
+      ],
+      "type": "appropriate_technology_innovation",
+      "outcomes": [
+        "Reduced time to TB diagnosis from weeks to hours",
+        "Improved rifampicin resistance detection",
+        "Decentralized diagnostic capacity",
+        "Global scale-up to over 130 countries"
+      ]
+    },
+    {
+      "case_study_id": "CS3",
+      "title": "AI-Powered Diabetic Retinopathy Screening: From Algorithm Development to Population-Scale Implementation",
+      "geographic_focus": {
+        "country": "India, Thailand, United States",
+        "who_region": "South-East Asia Region (SEARO), Western Pacific Region (WPRO), Americas (AMRO)",
+        "income_classification": "Low-, middle-, and high-income"
+      },
+      "time_period": "2016-present",
+      "key_themes": [
+        "Deep learning algorithm development and validation",
+        "Regulatory approval pathways (FDA, CE marking)",
+        "Implementation in diverse healthcare settings",
+        "Task-shifting and workforce implications"
+      ],
+      "key_lessons": [
+        "Rigorous clinical validation essential for regulatory approval",
+        "Algorithm performance varies across populations",
+        "Integration into existing workflows critical for adoption",
+        "Ethical frameworks needed for AI-assisted diagnosis"
+      ],
+      "primary_references": [
+        "Gulshan et al., 2016",
+        "Abràmoff et al., 2018",
+        "Natarajan et al., 2019"
+      ],
+      "type": "ai_ml_health_application",
+      "outcomes": [
+        "Algorithm performance comparable to ophthalmologists",
+        "First FDA-authorized autonomous AI diagnostic device",
+        "Expanded screening access in primary care settings",
+        "Integration with national diabetes programs"
+      ]
+    },
+    {
+      "case_study_id": "CS4",
+      "title": "DHIS2: Building Health Information Infrastructure Across 100+ Countries",
+      "geographic_focus": {
+        "country": "Global (originated in South Africa, scaled globally)",
+        "who_region": "All WHO regions",
+        "income_classification": "Primarily low- and middle-income countries"
+      },
+      "time_period": "2006-present",
+      "key_themes": [
+        "Open source health information platform",
+        "Capacity building and South-South cooperation",
+        "COVID-19 pandemic response adaptation",
+        "Data use for decision-making"
+      ],
+      "key_lessons": [
+        "Open source reduces dependency and increases ownership",
+        "Community of practice supports sustainability",
+        "Flexibility enables adaptation to diverse contexts",
+        "Data use culture essential alongside technology"
+      ],
+      "primary_references": [
+        "Braa et al., 2012",
+        "Dehnavieh et al., 2019",
+        "HISP Centre, 2023"
+      ],
+      "type": "health_information_system",
+      "outcomes": [
+        "Adoption as national HMIS in 100+ countries",
+        "2.4 billion people covered globally",
+        "Rapid COVID-19 vaccine tracker deployment",
+        "Global network of implementing partners"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "low_income",
+      "lower_middle_income",
+      "upper_middle_income",
+      "high_income"
+    ],
+    "regional_details": [
+      {
+        "region": "African Region",
+        "examples": [
+          "Rwanda digital health transformation",
+          "Tanzania mHealth programs",
+          "South Africa TB diagnostics",
+          "Kenya M-Pesa health financing",
+          "Nigeria DHIS2 implementation"
+        ]
+      },
+      {
+        "region": "Region of the Americas",
+        "examples": [
+          "Brazil telehealth expansion",
+          "United States FDA AI regulation",
+          "Mexico telemedicine networks",
+          "Chile health information systems"
+        ]
+      },
+      {
+        "region": "South-East Asia Region",
+        "examples": [
+          "India telemedicine policy",
+          "Thailand AI diabetic retinopathy",
+          "Bangladesh community health digital tools",
+          "Indonesia digital health platform"
+        ]
+      },
+      {
+        "region": "European Region",
+        "examples": [
+          "Estonia e-health system",
+          "UK NHS digital transformation",
+          "Denmark telemedicine integration",
+          "GDPR and health data regulation"
+        ]
+      },
+      {
+        "region": "Eastern Mediterranean Region",
+        "examples": [
+          "Pakistan Lady Health Worker digital programs",
+          "Jordan refugee health information systems",
+          "UAE health technology innovation"
+        ]
+      },
+      {
+        "region": "Western Pacific Region",
+        "examples": [
+          "Australia telehealth expansion",
+          "Philippines mHealth initiatives",
+          "Vietnam HIS strengthening",
+          "China health technology innovation"
+        ]
+      }
+    ],
+    "income_level_details": {
+      "low_income": [
+        "Rwanda",
+        "Ethiopia",
+        "Malawi",
+        "Uganda"
+      ],
+      "lower_middle_income": [
+        "India",
+        "Bangladesh",
+        "Kenya",
+        "Nigeria",
+        "Pakistan"
+      ],
+      "upper_middle_income": [
+        "Brazil",
+        "South Africa",
+        "Thailand",
+        "Mexico",
+        "China"
+      ],
+      "high_income": [
+        "United States",
+        "United Kingdom",
+        "Estonia",
+        "Denmark",
+        "Australia"
+      ]
+    }
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 10,
+      "items": [
+        {
+          "id": "MCQ_1",
+          "question": "Which of the following best defines mHealth?",
+          "options": [
+            "A. Electronic health records stored in cloud systems",
+            "B. Medical and public health practice supported by mobile devices",
+            "C. Telemedicine consultations via video conferencing",
+            "D. Artificial intelligence applications in diagnosis"
+          ],
+          "correct_answer": "B",
+          "bloom_level": "Knowledge",
+          "learning_objective": "LO1"
+        },
+        {
+          "id": "MCQ_2",
+          "question": "Interoperability in health information systems refers to:",
+          "options": [
+            "A. The ability of health workers to operate multiple devices",
+            "B. The ability of systems to exchange and use data coordinately",
+            "C. The operation of health facilities across international borders",
+            "D. The capacity of AI systems to perform multiple diagnostic tasks"
+          ],
+          "correct_answer": "B",
+          "bloom_level": "Knowledge",
+          "learning_objective": "LO1"
+        },
+        {
+          "id": "MCQ_3",
+          "question": "Point-of-care testing is characterized by:",
+          "options": [
+            "A. Testing performed in centralized reference laboratories",
+            "B. Testing requiring specialized laboratory technicians",
+            "C. Testing performed at or near the site of patient care",
+            "D. Testing that requires several days for results"
+          ],
+          "correct_answer": "C",
+          "bloom_level": "Knowledge",
+          "learning_objective": "LO1"
+        },
+        {
+          "id": "MCQ_4",
+          "question": "The four main domains of health technology assessment include all EXCEPT:",
+          "options": [
+            "A. Clinical effectiveness",
+            "B. Cost-effectiveness",
+            "C. Manufacturer profitability",
+            "D. Ethical considerations"
+          ],
+          "correct_answer": "C",
+          "bloom_level": "Knowledge",
+          "learning_objective": "LO2"
+        },
+        {
+          "id": "MCQ_5",
+          "question": "Which organization provides guidance on health technology assessment methodologies globally?",
+          "options": [
+            "A. World Trade Organization",
+            "B. International Network of Agencies for Health Technology Assessment",
+            "C. International Monetary Fund",
+            "D. World Bank Infrastructure Division"
+          ],
+          "correct_answer": "B",
+          "bloom_level": "Knowledge",
+          "learning_objective": "LO2"
+        },
+        {
+          "id": "MCQ_6",
+          "question": "Frugal innovation in healthcare is best characterized by:",
+          "options": [
+            "A. Developing technologies regardless of cost",
+            "B. Importing technologies from high-income countries",
+            "C. Minimizing resource use while meeting essential needs",
+            "D. Focusing exclusively on high-tech solutions"
+          ],
+          "correct_answer": "C",
+          "bloom_level": "Comprehension",
+          "learning_objective": "LO3"
+        },
+        {
+          "id": "MCQ_7",
+          "question": "Deep learning, as applied in medical imaging AI, is best described as:",
+          "options": [
+            "A. Rule-based programming for image analysis",
+            "B. Neural networks with multiple processing layers learning from data",
+            "C. Manual feature extraction by radiologists",
+            "D. Statistical analysis of imaging metadata"
+          ],
+          "correct_answer": "B",
+          "bloom_level": "Comprehension",
+          "learning_objective": "LO4"
+        },
+        {
+          "id": "MCQ_8",
+          "question": "A major concern regarding AI algorithms trained predominantly on data from high-income country populations is:",
+          "options": [
+            "A. The algorithms will be too accurate",
+            "B. Potential performance degradation in underrepresented populations",
+            "C. Increased computational efficiency",
+            "D. Reduced need for local validation studies"
+          ],
+          "correct_answer": "B",
+          "bloom_level": "Comprehension",
+          "learning_objective": "LO4"
+        },
+        {
+          "id": "MCQ_9",
+          "question": "The Technology Acceptance Model identifies which factors as primary determinants of technology adoption?",
+          "options": [
+            "A. Cost and availability",
+            "B. Perceived usefulness and perceived ease of use",
+            "C. Government mandate and regulatory approval",
+            "D. Manufacturer reputation and marketing"
+          ],
+          "correct_answer": "B",
+          "bloom_level": "Comprehension",
+          "learning_objective": "LO5"
+        },
+        {
+          "id": "MCQ_10",
+          "question": "DHIS2 has become widely adopted as a national health information system because:",
+          "options": [
+            "A. It is a proprietary system with extensive vendor support",
+            "B. It is open source, flexible, and supported by a global community",
+            "C. It is mandated by WHO for all member states",
+            "D. It requires minimal internet connectivity to function"
+          ],
+          "correct_answer": "B",
+          "bloom_level": "Application",
+          "learning_objective": "LO5"
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 6,
+      "items": [
+        {
+          "id": "SA_1",
+          "question": "Explain the concept of 'appropriate technology' in global health and provide two examples of how this principle has been applied in medical device design for low-resource settings.",
+          "model_answer_points": [
+            "Definition: Technology suitable to social, economic, environmental conditions where used",
+            "Characteristics: affordable, maintainable, durable, meets local needs",
+            "Example 1: Portable ultrasound devices designed for rural settings without electricity",
+            "Example 2: Paper-based rapid diagnostic tests for infectious diseases",
+            "Importance of local context in design decisions"
+          ],
+          "bloom_level": "Comprehension",
+          "learning_objective": "LO3"
+        },
+        {
+          "id": "SA_2",
+          "question": "Describe three clinical applications of artificial intelligence in healthcare and discuss one key challenge associated with implementing AI diagnostics in low- and middle-income countries.",
+          "model_answer_points": [
+            "Application 1: Medical imaging analysis (radiology, pathology, dermatology)",
+            "Application 2: Clinical decision support systems",
+            "Application 3: Predictive analytics for patient outcomes",
+            "Challenge: Algorithm bias from training data predominantly from HICs",
+            "Challenge: Infrastructure requirements (computing, connectivity)",
+            "Challenge: Regulatory frameworks and accountability"
+          ],
+          "bloom_level": "Comprehension",
+          "learning_objective": "LO4"
+        },
+        {
+          "id": "SA_3",
+          "question": "Using the RE-AIM framework, outline how you would evaluate a telemedicine program implemented in a rural district of a low-income country.",
+          "model_answer_points": [
+            "Reach: Proportion of target population accessing telemedicine services",
+            "Effectiveness: Clinical outcomes, patient satisfaction, diagnostic accuracy",
+            "Adoption: Proportion of health facilities and providers using the system",
+            "Implementation: Fidelity to program design, adaptations made",
+            "Maintenance: Sustainability, institutionalization, long-term outcomes"
+          ],
+          "bloom_level": "Application",
+          "learning_objective": "LO5"
+        },
+        {
+          "id": "SA_4",
+          "question": "Outline the key steps in conducting a health technology assessment for a new point-of-care diagnostic device intended for use in primary care settings in sub-Saharan Africa.",
+          "model_answer_points": [
+            "Define scope and policy question",
+            "Assess clinical effectiveness through systematic review",
+            "Evaluate diagnostic accuracy in target population",
+            "Conduct cost-effectiveness analysis with local costs",
+            "Consider implementation feasibility and health system capacity",
+            "Address ethical issues including equity implications",
+            "Engage stakeholders including end users"
+          ],
+          "bloom_level": "Application",
+          "learning_objective": "LO6"
+        },
+        {
+          "id": "SA_5",
+          "question": "Analyze three factors contributing to the digital divide in global health and propose strategies to address each factor.",
+          "model_answer_points": [
+            "Factor 1: Infrastructure gaps - Strategy: investment in connectivity, offline solutions",
+            "Factor 2: Digital literacy - Strategy: training programs, user-centered design",
+            "Factor 3: Affordability - Strategy: subsidies, open source solutions",
+            "Additional: Gender disparities in technology access",
+            "Additional: Urban-rural divides"
+          ],
+          "bloom_level": "Analysis",
+          "learning_objective": "LO7"
+        },
+        {
+          "id": "SA_6",
+          "question": "Discuss the ethical implications of using AI-powered diagnostic tools in healthcare settings, addressing issues of algorithmic bias, accountability, and patient autonomy.",
+          "model_answer_points": [
+            "Algorithmic bias: Training data representation, performance disparities",
+            "Accountability: Liability when AI makes diagnostic errors",
+            "Patient autonomy: Informed consent for AI-assisted diagnosis",
+            "Transparency: Explainability of AI decision-making",
+            "Data privacy: Protection of sensitive health information",
+            "Equity: Ensuring AI benefits reach all populations"
+          ],
+          "bloom_level": "Analysis",
+          "learning_objective": "LO8"
+        }
+      ]
+    },
+    "practical_exercises": {
+      "count": 8,
+      "items": [
+        {
+          "id": "EX_1",
+          "title": "Implementation Planning Exercise",
+          "description": "Using the Consolidated Framework for Implementation Research (CFIR), develop an implementation plan for introducing a mobile health application for community health workers in a district of your chosen country. Address intervention characteristics, outer setting, inner setting, individual characteristics, and implementation process.",
+          "expected_deliverables": [
+            "Context analysis of selected district",
+            "Stakeholder mapping",
+            "Implementation strategy addressing each CFIR domain",
+            "Timeline and milestones",
+            "Monitoring and evaluation plan"
+          ],
+          "bloom_level": "Application",
+          "learning_objective": "LO5"
+        },
+        {
+          "id": "EX_2",
+          "title": "Health Technology Assessment Exercise",
+          "description": "Conduct a mini-HTA for a low-cost pulse oximeter intended for use in neonatal care units in low-resource settings. Include assessment of clinical need, effectiveness evidence, cost analysis, and implementation considerations.",
+          "expected_deliverables": [
+            "Background on clinical need and target population",
+            "Summary of effectiveness evidence",
+            "Cost analysis including acquisition and operational costs",
+            "Implementation feasibility assessment",
+            "Recommendation with justification"
+          ],
+          "bloom_level": "Application",
+          "learning_objective": "LO6"
+        },
+        {
+          "id": "EX_3",
+          "title": "Digital Divide Analysis",
+          "description": "Select a low- or middle-income country and analyze the digital divide in health. Identify key barriers to equitable access to digital health technologies and propose a multi-sectoral strategy to address these barriers.",
+          "expected_deliverables": [
+            "Country context analysis",
+            "Quantitative indicators of digital divide",
+            "Barrier analysis using appropriate framework",
+            "Multi-sectoral strategy with specific interventions",
+            "Equity-focused monitoring indicators"
+          ],
+          "bloom_level": "Analysis",
+          "learning_objective": "LO7"
+        },
+        {
+          "id": "EX_4",
+          "title": "AI Ethics Case Analysis",
+          "description": "Analyze a real-world case where an AI/ML algorithm used in healthcare demonstrated bias or produced disparate outcomes across population groups. Discuss the causes, consequences, and propose mitigation strategies.",
+          "expected_deliverables": [
+            "Case description and context",
+            "Analysis of how bias manifested",
+            "Discussion of root causes",
+            "Impact on affected populations",
+            "Mitigation strategies and lessons learned"
+          ],
+          "bloom_level": "Analysis",
+          "learning_objective": "LO8"
+        },
+        {
+          "id": "EX_5",
+          "title": "Digital Health Intervention Design",
+          "description": "Using human-centered design principles, design a digital health intervention to address a specific health challenge in a low-resource setting of your choice. The design should incorporate appropriate technology principles and address sustainability.",
+          "expected_deliverables": [
+            "Problem definition and target population",
+            "User research findings (hypothetical or based on literature)",
+            "Intervention concept and key features",
+            "Technology specifications considering local context",
+            "Implementation and sustainability plan"
+          ],
+          "bloom_level": "Synthesis",
+          "learning_objective": "LO9"
+        },
+        {
+          "id": "EX_6",
+          "title": "Health Information System Strengthening Plan",
+          "description": "Develop a comprehensive strategy for strengthening the health information system in a resource-limited country of your choice. Address data collection, management, analysis, and use for decision-making.",
+          "expected_deliverables": [
+            "Situation analysis of current HIS",
+            "Gap analysis using WHO HIS framework",
+            "Strengthening strategy with prioritized interventions",
+            "Capacity building plan",
+            "Data governance framework",
+            "Monitoring and evaluation approach"
+          ],
+          "bloom_level": "Synthesis",
+          "learning_objective": "LO10"
+        },
+        {
+          "id": "EX_7",
+          "title": "Technology Evaluation Exercise",
+          "description": "Select an emerging health technology (e.g., AI diagnostic tool, digital therapeutic, wearable device) and conduct a comprehensive evaluation using an established HTA framework. Consider clinical effectiveness, cost-effectiveness, equity implications, and implementation feasibility.",
+          "expected_deliverables": [
+            "Technology description and intended use",
+            "Evidence synthesis on effectiveness",
+            "Economic evaluation",
+            "Equity impact assessment",
+            "Implementation considerations",
+            "Policy recommendation"
+          ],
+          "bloom_level": "Evaluation",
+          "learning_objective": "LO11"
+        },
+        {
+          "id": "EX_8",
+          "title": "Regulatory Framework Comparison",
+          "description": "Compare and critically appraise the regulatory frameworks for AI-based medical devices in three different jurisdictions (e.g., US FDA, EU CE marking, and one LMIC regulatory authority). Analyze strengths, weaknesses, and implications for global health.",
+          "expected_deliverables": [
+            "Overview of each regulatory framework",
+            "Comparative analysis table",
+            "Critical appraisal of strengths and limitations",
+            "Discussion of implications for LMICs",
+            "Recommendations for harmonization"
+          ],
+          "bloom_level": "Evaluation",
+          "learning_objective": "LO12"
+        }
+      ]
+    },
+    "policy_analysis_exercises": {
+      "count": 1,
+      "items": [
+        {
+          "title": "National Digital Health Strategy Development",
+          "scenario": "You have been appointed as a consultant to advise the Ministry of Health in a lower-middle-income country on developing a national digital health strategy. The country has made progress in primary healthcare but faces challenges with fragmented health information systems, limited telemedicine capacity, and growing interest in AI-based diagnostics.",
+          "tasks": [
+            "Conduct a situational analysis of the country's digital health landscape",
+            "Identify priority areas for digital health investment",
+            "Develop strategic objectives aligned with national health priorities",
+            "Propose governance structures for digital health",
+            "Address regulatory requirements for digital health and AI",
+            "Plan for digital health workforce development",
+            "Design monitoring and evaluation framework",
+            "Address equity considerations throughout the strategy"
+          ],
+          "expected_deliverables": [
+            "Situational analysis report",
+            "Strategic framework with vision, goals, and objectives",
+            "Priority intervention areas with justification",
+            "Implementation roadmap",
+            "Budget framework",
+            "Risk analysis and mitigation strategies"
+          ],
+          "bloom_level": "Evaluation/Synthesis",
+          "learning_objectives": [
+            "LO9",
+            "LO10",
+            "LO11",
+            "LO12"
+          ]
+        }
+      ]
+    }
+  },
+  "references_framework": {
+    "total_target": "50-55 primary sources",
+    "source_categories": [
+      {
+        "category": "Systematic Reviews and Meta-Analyses",
+        "target_count": "8-10",
+        "example_topics": [
+          "Digital health intervention effectiveness",
+          "mHealth for chronic disease management",
+          "Telemedicine outcomes",
+          "AI diagnostic accuracy"
+        ]
+      },
+      {
+        "category": "Original Research Studies",
+        "target_count": "18-22",
+        "example_topics": [
+          "Implementation studies",
+          "Clinical validation studies",
+          "User acceptance research",
+          "Cost-effectiveness analyses"
+        ]
+      },
+      {
+        "category": "WHO and International Organization Documents",
+        "target_count": "8-10",
+        "example_topics": [
+          "WHO Digital Health Guidelines",
+          "Global Strategy on Digital Health",
+          "WHO HIS Assessment Framework",
+          "ITU health technology reports"
+        ]
+      },
+      {
+        "category": "Health Technology Assessment Reports",
+        "target_count": "5-7",
+        "example_topics": [
+          "NICE digital health assessments",
+          "INAHTA reports",
+          "Country-specific HTA reports"
+        ]
+      },
+      {
+        "category": "Policy and Regulatory Documents",
+        "target_count": "5-6",
+        "example_topics": [
+          "FDA guidance on AI/ML",
+          "EU MDR and digital health",
+          "National digital health strategies"
+        ]
+      },
+      {
+        "category": "Foundational Texts",
+        "target_count": "4-5",
+        "example_topics": [
+          "Technology acceptance models",
+          "Implementation science frameworks",
+          "Digital health ethics"
+        ]
+      }
+    ]
+  },
+  "quality_metrics": {
+    "content_requirements": {
+      "word_count_range": "7,000-8,000",
+      "citation_count_range": "50-55",
+      "case_studies_minimum": 4,
+      "who_regions_covered": 6,
+      "income_levels_covered": 4
+    },
+    "structural_requirements": {
+      "learning_objectives_minimum": 12,
+      "mcq_count_minimum": 10,
+      "short_answer_count_minimum": 6,
+      "exercise_count_minimum": 8,
+      "key_terms_defined_minimum": 15
+    },
+    "quality_indicators": {
+      "primary_source_percentage": "≥90%",
+      "geographic_diversity_index": "All WHO regions represented",
+      "bloom_taxonomy_coverage": "All six levels",
+      "evidence_level_distribution": "Emphasis on systematic reviews and RCTs"
+    }
+  }
+}

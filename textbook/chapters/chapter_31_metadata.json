@@ -1,0 +1,1119 @@
+{
+  "chapter_number": 31,
+  "title": "Global Health Policy and Governance",
+  "part": {
+    "part_number": 7,
+    "part_title": "Policy, Economics, and Governance"
+  },
+  "version": "1.0",
+  "last_updated": "2025-12-07",
+  "keywords": [
+    "global health governance",
+    "World Health Organization",
+    "International Health Regulations",
+    "health diplomacy",
+    "Sustainable Development Goals",
+    "global health security",
+    "health policy process",
+    "international health law",
+    "trade and health",
+    "Framework Convention on Tobacco Control",
+    "pandemic preparedness",
+    "multilateral cooperation",
+    "health in all policies"
+  ],
+  "word_count_target": {
+    "min": 8150,
+    "max": 8150
+  },
+  "cross_references": {
+    "prerequisite_chapters": [
+      4,
+      27,
+      30
+    ],
+    "related_chapters": [
+      32,
+      33,
+      11
+    ],
+    "follow_up_chapters": [
+      34,
+      35
+    ]
+  },
+  "learning_objectives": [
+    {
+      "objective_id": "LO-31.1",
+      "bloom_level": "Analyze",
+      "text": "Analyze the structure and functions of global health governance institutions, including their strengths, limitations, and reform challenges",
+      "assessment_method": "Case study"
+    },
+    {
+      "objective_id": "LO-31.2",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the effectiveness of international health regulations and binding agreements in achieving global health objectives",
+      "assessment_method": "Essay"
+    },
+    {
+      "objective_id": "LO-31.3",
+      "bloom_level": "Apply",
+      "text": "Apply policy process frameworks to understand how global health policies are developed, adopted, and implemented across diverse settings",
+      "assessment_method": "Short answer"
+    },
+    {
+      "objective_id": "LO-31.4",
+      "bloom_level": "Create",
+      "text": "Design strategies for advancing health priorities through diplomatic channels and foreign policy mechanisms",
+      "assessment_method": "Practical exercise"
+    },
+    {
+      "objective_id": "LO-31.5",
+      "bloom_level": "Evaluate",
+      "text": "Critically assess the relationship between international trade agreements and health outcomes, including mechanisms for protecting public health",
+      "assessment_method": "Case study"
+    },
+    {
+      "objective_id": "LO-31.6",
+      "bloom_level": "Create",
+      "text": "Synthesize approaches for translating global health commitments into national policy and action",
+      "assessment_method": "Practical exercise"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Global health governance",
+      "definition": "The use of formal and informal institutions, rules, and processes by states, intergovernmental organizations, and non-state actors to address health issues that transcend national boundaries"
+    },
+    {
+      "term": "Public health emergency of international concern (PHEIC)",
+      "definition": "An extraordinary event determined by the WHO Director-General to constitute a public health risk to other States through international spread and potentially requiring a coordinated international response"
+    },
+    {
+      "term": "Health diplomacy",
+      "definition": "Political change activity that meets the dual goals of improving health while maintaining and improving international relations, particularly through negotiations"
+    },
+    {
+      "term": "Soft law",
+      "definition": "Non-binding international instruments that establish norms and expectations without creating enforceable legal obligations"
+    },
+    {
+      "term": "TRIPS flexibilities",
+      "definition": "Provisions within the WTO TRIPS Agreement that allow countries to take measures to protect public health, including compulsory licensing and parallel importation"
+    },
+    {
+      "term": "Policy window",
+      "definition": "An opportunity for policy advocates to push their preferred solutions or draw attention to problems when problem, policy, and political streams converge"
+    },
+    {
+      "term": "Regulatory chill",
+      "definition": "The phenomenon where governments avoid adopting legitimate regulatory measures due to fear of investor-state disputes or trade challenges"
+    },
+    {
+      "term": "International Health Regulations",
+      "definition": "A legally binding agreement among WHO Member States to prevent, protect against, control, and provide public health response to international disease spread"
+    },
+    {
+      "term": "Framework Convention on Tobacco Control",
+      "definition": "The first international public health treaty negotiated under WHO auspices, establishing evidence-based measures to reduce tobacco demand and supply"
+    },
+    {
+      "term": "Joint External Evaluation",
+      "definition": "A voluntary, collaborative assessment of country capacities to prevent, detect, and respond to public health threats as required under the IHR"
+    },
+    {
+      "term": "Health in All Policies",
+      "definition": "An approach that systematically considers health implications of policies across all sectors, seeking synergies and avoiding harmful health impacts"
+    },
+    {
+      "term": "Compulsory license",
+      "definition": "Authorization by a government permitting a third party to produce, use, or sell a patented product without the patent holder's consent, subject to conditions"
+    }
+  ],
+  "content_sections": [
+    {
+      "section_id": "section-31.1",
+      "title": "Introduction to Global Health Governance",
+      "word_count": 650,
+      "subsections": [
+        {
+          "subsection_id": "subsection-31.1.1",
+          "title": "Defining Global Health Governance",
+          "key_concepts": [
+            "global health governance definition",
+            "multilateral cooperation",
+            "collective action problems",
+            "governance versus government"
+          ],
+          "primary_references": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.1.2",
+          "title": "Historical Evolution of Global Health Governance",
+          "key_concepts": [
+            "International Sanitary Conferences",
+            "League of Nations Health Organization",
+            "WHO establishment",
+            "governance transitions"
+          ],
+          "primary_references": [
+            "4",
+            "5",
+            "6"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "section-31.2",
+      "title": "Global Health Governance Architecture",
+      "word_count": 1400,
+      "subsections": [
+        {
+          "subsection_id": "subsection-31.2.1",
+          "title": "The World Health Organization",
+          "key_concepts": [
+            "WHO Constitution",
+            "World Health Assembly",
+            "Executive Board",
+            "regional offices",
+            "WHO reform"
+          ],
+          "primary_references": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.2.2",
+          "title": "Other UN System Actors",
+          "key_concepts": [
+            "UNICEF",
+            "UNAIDS",
+            "UNFPA",
+            "World Bank health programs"
+          ],
+          "primary_references": [
+            "11",
+            "12",
+            "13"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.2.3",
+          "title": "Non-State Actors in Global Health Governance",
+          "key_concepts": [
+            "civil society organizations",
+            "private sector engagement",
+            "philanthropic foundations",
+            "public-private partnerships"
+          ],
+          "primary_references": [
+            "14",
+            "15",
+            "16"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.2.4",
+          "title": "Regional Health Governance",
+          "key_concepts": [
+            "regional health organizations",
+            "Africa CDC",
+            "European Centre for Disease Prevention and Control",
+            "regional policy coordination"
+          ],
+          "primary_references": [
+            "17",
+            "18",
+            "19"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "figure-31.1",
+          "title": "Global Health Governance Architecture",
+          "caption": "Organizational structure showing relationships between WHO, UN agencies, regional bodies, and non-state actors in global health governance",
+          "type": "Diagram"
+        }
+      ]
+    },
+    {
+      "section_id": "section-31.3",
+      "title": "International Health Law",
+      "word_count": 1350,
+      "subsections": [
+        {
+          "subsection_id": "subsection-31.3.1",
+          "title": "Types of International Health Instruments",
+          "key_concepts": [
+            "binding treaties",
+            "soft law",
+            "conventions",
+            "regulations",
+            "recommendations"
+          ],
+          "primary_references": [
+            "20",
+            "21",
+            "22"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.3.2",
+          "title": "International Health Regulations (2005)",
+          "key_concepts": [
+            "IHR core capacities",
+            "public health emergency of international concern",
+            "notification requirements",
+            "IHR implementation",
+            "IHR reform"
+          ],
+          "primary_references": [
+            "23",
+            "24",
+            "25",
+            "26"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.3.3",
+          "title": "WHO Framework Convention on Tobacco Control",
+          "key_concepts": [
+            "FCTC articles",
+            "demand reduction measures",
+            "supply reduction measures",
+            "treaty implementation",
+            "compliance mechanisms"
+          ],
+          "primary_references": [
+            "27",
+            "28",
+            "29",
+            "30"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.3.4",
+          "title": "Emerging Legal Frameworks",
+          "key_concepts": [
+            "pandemic treaty negotiations",
+            "antimicrobial resistance agreements",
+            "pathogen access and benefit sharing"
+          ],
+          "primary_references": [
+            "31",
+            "32",
+            "33"
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "table-31.1",
+          "title": "Comparison of International Health Law Instruments",
+          "caption": "Comparing binding and non-binding instruments in global health governance"
+        }
+      ]
+    },
+    {
+      "section_id": "section-31.4",
+      "title": "Health Diplomacy",
+      "word_count": 1100,
+      "subsections": [
+        {
+          "subsection_id": "subsection-31.4.1",
+          "title": "Conceptualizing Health Diplomacy",
+          "key_concepts": [
+            "health diplomacy definition",
+            "soft power",
+            "health security diplomacy",
+            "global health diplomacy negotiations"
+          ],
+          "primary_references": [
+            "34",
+            "35",
+            "36"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.4.2",
+          "title": "Health in Foreign Policy",
+          "key_concepts": [
+            "health as foreign policy tool",
+            "Oslo Declaration",
+            "health attachés",
+            "diplomatic capacity for health"
+          ],
+          "primary_references": [
+            "37",
+            "38",
+            "39"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.4.3",
+          "title": "Multilateral Health Negotiations",
+          "key_concepts": [
+            "World Health Assembly negotiations",
+            "consensus building",
+            "coalition formation",
+            "North-South dynamics"
+          ],
+          "primary_references": [
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "section-31.5",
+      "title": "Global Health Policy Processes",
+      "word_count": 1150,
+      "subsections": [
+        {
+          "subsection_id": "subsection-31.5.1",
+          "title": "Agenda Setting in Global Health",
+          "key_concepts": [
+            "problem definition",
+            "policy windows",
+            "Kingdon's streams",
+            "issue framing"
+          ],
+          "primary_references": [
+            "43",
+            "44",
+            "45"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.5.2",
+          "title": "Policy Formulation and Adoption",
+          "key_concepts": [
+            "evidence-informed policy",
+            "stakeholder engagement",
+            "policy networks",
+            "epistemic communities"
+          ],
+          "primary_references": [
+            "46",
+            "47",
+            "48"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.5.3",
+          "title": "Implementation and Evaluation",
+          "key_concepts": [
+            "policy implementation frameworks",
+            "monitoring and evaluation",
+            "policy transfer",
+            "lesson learning"
+          ],
+          "primary_references": [
+            "49",
+            "50",
+            "51"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "figure-31.2",
+          "title": "Global Health Policy Cycle",
+          "caption": "Stages of the global health policy process from agenda setting through evaluation",
+          "type": "Flowchart"
+        }
+      ]
+    },
+    {
+      "section_id": "section-31.6",
+      "title": "Sustainable Development Goals and Health",
+      "word_count": 1000,
+      "subsections": [
+        {
+          "subsection_id": "subsection-31.6.1",
+          "title": "Health in the SDG Framework",
+          "key_concepts": [
+            "SDG 3 health targets",
+            "health-related SDGs",
+            "universal health coverage",
+            "intersectoral collaboration"
+          ],
+          "primary_references": [
+            "52",
+            "53",
+            "54"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.6.2",
+          "title": "SDG Accountability and Monitoring",
+          "key_concepts": [
+            "indicator frameworks",
+            "High-Level Political Forum",
+            "voluntary national reviews",
+            "leave no one behind"
+          ],
+          "primary_references": [
+            "55",
+            "56",
+            "57"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.6.3",
+          "title": "National SDG Adaptation",
+          "key_concepts": [
+            "SDG localization",
+            "national health strategies",
+            "SDG integration",
+            "financing mechanisms"
+          ],
+          "primary_references": [
+            "58",
+            "59",
+            "60"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "section-31.7",
+      "title": "Global Health Security",
+      "word_count": 1050,
+      "subsections": [
+        {
+          "subsection_id": "subsection-31.7.1",
+          "title": "Health Security Frameworks",
+          "key_concepts": [
+            "health security definition",
+            "human security",
+            "national security",
+            "securitization of health"
+          ],
+          "primary_references": [
+            "61",
+            "62",
+            "63"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.7.2",
+          "title": "Pandemic Preparedness and Response",
+          "key_concepts": [
+            "pandemic preparedness plans",
+            "joint external evaluation",
+            "core capacity building",
+            "emergency response mechanisms"
+          ],
+          "primary_references": [
+            "64",
+            "65",
+            "66"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.7.3",
+          "title": "Global Health Security Agenda",
+          "key_concepts": [
+            "GHSA action packages",
+            "detect-prevent-respond framework",
+            "One Health approach",
+            "international coordination"
+          ],
+          "primary_references": [
+            "67",
+            "68",
+            "69"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "section-31.8",
+      "title": "Trade and Health",
+      "word_count": 1100,
+      "subsections": [
+        {
+          "subsection_id": "subsection-31.8.1",
+          "title": "Trade Agreements and Public Health",
+          "key_concepts": [
+            "WTO agreements",
+            "bilateral trade agreements",
+            "health impact assessment",
+            "policy space"
+          ],
+          "primary_references": [
+            "70",
+            "71",
+            "72"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.8.2",
+          "title": "Intellectual Property and Access to Medicines",
+          "key_concepts": [
+            "TRIPS Agreement",
+            "Doha Declaration",
+            "TRIPS flexibilities",
+            "compulsory licensing",
+            "parallel importation"
+          ],
+          "primary_references": [
+            "73",
+            "74",
+            "75",
+            "76"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.8.3",
+          "title": "Investment Treaties and Health Policy",
+          "key_concepts": [
+            "investor-state dispute settlement",
+            "regulatory chill",
+            "public health exceptions",
+            "policy coherence"
+          ],
+          "primary_references": [
+            "77",
+            "78",
+            "79"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "section-31.9",
+      "title": "Governance Challenges and Reform",
+      "word_count": 800,
+      "subsections": [
+        {
+          "subsection_id": "subsection-31.9.1",
+          "title": "Power Dynamics in Global Health Governance",
+          "key_concepts": [
+            "donor influence",
+            "fragmentation",
+            "accountability gaps",
+            "democratic deficit"
+          ],
+          "primary_references": [
+            "80",
+            "81",
+            "82"
+          ]
+        },
+        {
+          "subsection_id": "subsection-31.9.2",
+          "title": "Reform Proposals and Future Directions",
+          "key_concepts": [
+            "WHO reform",
+            "pandemic treaty",
+            "governance innovation",
+            "strengthening multilateralism"
+          ],
+          "primary_references": [
+            "83",
+            "84",
+            "85"
+          ]
+        }
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "The WHO Framework Convention on Tobacco Control: A Model for Global Health Law",
+      "country": "Global/Multiple Countries",
+      "who_region": [
+        "African Region",
+        "Region of the Americas",
+        "South-East Asia Region",
+        "European Region",
+        "Eastern Mediterranean Region",
+        "Western Pacific Region"
+      ],
+      "income_level": [
+        "Low-income",
+        "Lower-middle-income",
+        "Upper-middle-income",
+        "High-income"
+      ],
+      "time_period": "2003-2024",
+      "key_themes": [
+        "International health law",
+        "Treaty negotiation",
+        "Policy implementation",
+        "Tobacco control"
+      ],
+      "discussion_points": [
+        "What factors contributed to the successful adoption of the FCTC as the first WHO treaty?",
+        "How have different countries adapted FCTC requirements to their national contexts?",
+        "What lessons from the FCTC can be applied to other global health challenges?"
+      ],
+      "primary_references": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "86",
+        "87"
+      ]
+    },
+    {
+      "title": "The Global Health Security Agenda: Building International Cooperation for Pandemic Preparedness",
+      "country": "Global/Multiple Countries",
+      "who_region": [
+        "African Region",
+        "Region of the Americas",
+        "South-East Asia Region",
+        "European Region",
+        "Eastern Mediterranean Region",
+        "Western Pacific Region"
+      ],
+      "income_level": [
+        "Low-income",
+        "Lower-middle-income",
+        "Upper-middle-income",
+        "High-income"
+      ],
+      "time_period": "2014-2024",
+      "key_themes": [
+        "Health security",
+        "International cooperation",
+        "Capacity building",
+        "One Health approach"
+      ],
+      "discussion_points": [
+        "How does the GHSA complement the International Health Regulations?",
+        "What are the strengths and limitations of voluntary commitments versus binding obligations?",
+        "How did COVID-19 test the effectiveness of GHSA investments?"
+      ],
+      "primary_references": [
+        "67",
+        "68",
+        "69",
+        "88",
+        "89"
+      ]
+    },
+    {
+      "title": "Thailand's Use of TRIPS Flexibilities: Compulsory Licensing for Access to Medicines",
+      "country": "Thailand",
+      "who_region": [
+        "South-East Asia Region"
+      ],
+      "income_level": [
+        "Upper-middle-income"
+      ],
+      "time_period": "2006-2008",
+      "key_themes": [
+        "Trade and health",
+        "Access to medicines",
+        "Intellectual property",
+        "Policy space"
+      ],
+      "discussion_points": [
+        "How did Thailand balance trade obligations with public health priorities?",
+        "What were the international responses to Thailand's compulsory licensing decisions?",
+        "What lessons does the Thai experience offer for other middle-income countries?"
+      ],
+      "primary_references": [
+        "73",
+        "74",
+        "90",
+        "91",
+        "92"
+      ]
+    },
+    {
+      "title": "Rwanda's SDG Integration: Health Sector Contributions to National Development",
+      "country": "Rwanda",
+      "who_region": [
+        "African Region"
+      ],
+      "income_level": [
+        "Low-income"
+      ],
+      "time_period": "2015-2024",
+      "key_themes": [
+        "SDG implementation",
+        "National adaptation",
+        "Health sector contribution",
+        "Multisectoral collaboration"
+      ],
+      "discussion_points": [
+        "How has Rwanda integrated SDG health targets into national planning?",
+        "What governance mechanisms support intersectoral collaboration for health?",
+        "What challenges remain in achieving universal health coverage within SDG frameworks?"
+      ],
+      "primary_references": [
+        "58",
+        "59",
+        "93",
+        "94",
+        "95"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ]
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 15,
+      "items": [
+        {
+          "question_id": "MCQ-31.1",
+          "question": "Which body serves as the supreme decision-making authority for the World Health Organization?",
+          "options": {
+            "A": "WHO Executive Board",
+            "B": "World Health Assembly",
+            "C": "WHO Secretariat",
+            "D": "UN Security Council"
+          },
+          "correct_answer": "B",
+          "explanation": "The World Health Assembly, composed of representatives from all WHO Member States, is the supreme decision-making body of WHO, meeting annually to determine policies and approve the budget.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-31.1"
+        },
+        {
+          "question_id": "MCQ-31.2",
+          "question": "The International Health Regulations (2005) require Member States to notify WHO of events that may constitute a:",
+          "options": {
+            "A": "National health emergency",
+            "B": "Public health emergency of international concern",
+            "C": "Pandemic disease outbreak",
+            "D": "Endemic disease increase"
+          },
+          "correct_answer": "B",
+          "explanation": "The IHR (2005) establishes notification requirements for events that may constitute a public health emergency of international concern (PHEIC), which is determined by the WHO Director-General based on specific criteria.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-31.2"
+        },
+        {
+          "question_id": "MCQ-31.3",
+          "question": "The Doha Declaration on the TRIPS Agreement and Public Health affirmed that:",
+          "options": {
+            "A": "TRIPS obligations take precedence over public health concerns",
+            "B": "Countries cannot issue compulsory licenses for pharmaceuticals",
+            "C": "TRIPS should be interpreted to support access to medicines for all",
+            "D": "Only least-developed countries can use TRIPS flexibilities"
+          },
+          "correct_answer": "C",
+          "explanation": "The 2001 Doha Declaration affirmed that TRIPS should be interpreted and implemented in a manner supportive of WTO Members' right to protect public health and promote access to medicines for all.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-31.5"
+        },
+        {
+          "question_id": "MCQ-31.4",
+          "question": "Which of the following is a characteristic of 'soft law' in international health?",
+          "options": {
+            "A": "Legally binding on all WHO Member States",
+            "B": "Enforceable through international courts",
+            "C": "Provides guidance without creating legal obligations",
+            "D": "Requires ratification by national parliaments"
+          },
+          "correct_answer": "C",
+          "explanation": "Soft law instruments, such as WHO recommendations and guidelines, provide guidance and establish norms without creating legally binding obligations that can be enforced through legal mechanisms.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-31.2"
+        },
+        {
+          "question_id": "MCQ-31.5",
+          "question": "The Global Health Security Agenda primarily focuses on:",
+          "options": {
+            "A": "Providing humanitarian assistance during conflicts",
+            "B": "Strengthening country capacity to prevent, detect, and respond to infectious disease threats",
+            "C": "Regulating international pharmaceutical trade",
+            "D": "Coordinating non-communicable disease prevention"
+          },
+          "correct_answer": "B",
+          "explanation": "The GHSA, launched in 2014, is a multilateral initiative focused on strengthening global capacity to prevent, detect, and respond to infectious disease threats through measurable targets and action packages.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-31.1"
+        },
+        {
+          "question_id": "MCQ-31.6",
+          "question": "In Kingdon's multiple streams framework for policy analysis, a 'policy window' opens when:",
+          "options": {
+            "A": "A new government takes office",
+            "B": "Problem, policy, and political streams converge",
+            "C": "International donors provide funding",
+            "D": "Scientific evidence reaches consensus"
+          },
+          "correct_answer": "B",
+          "explanation": "According to Kingdon's framework, policy windows open when problem streams (recognition of issues), policy streams (available solutions), and political streams (political will) converge, creating opportunities for policy change.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-31.3"
+        },
+        {
+          "question_id": "MCQ-31.7",
+          "question": "The WHO Framework Convention on Tobacco Control was adopted in:",
+          "options": {
+            "A": "1998",
+            "B": "2003",
+            "C": "2008",
+            "D": "2015"
+          },
+          "correct_answer": "B",
+          "explanation": "The WHO FCTC was adopted by the World Health Assembly in May 2003 and entered into force in February 2005, becoming the first international treaty negotiated under the auspices of WHO.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-31.2"
+        },
+        {
+          "question_id": "MCQ-31.8",
+          "question": "Health diplomacy differs from traditional diplomacy primarily in its:",
+          "options": {
+            "A": "Exclusive focus on domestic health policies",
+            "B": "Use of health issues to advance broader foreign policy goals and global health outcomes",
+            "C": "Rejection of multilateral negotiation processes",
+            "D": "Focus on military health services"
+          },
+          "correct_answer": "B",
+          "explanation": "Health diplomacy encompasses negotiations and interactions that shape the global policy environment for health, using health issues to advance foreign policy objectives while also improving global health outcomes.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-31.4"
+        },
+        {
+          "question_id": "MCQ-31.9",
+          "question": "SDG 3 specifically addresses:",
+          "options": {
+            "A": "Quality education",
+            "B": "Good health and well-being",
+            "C": "Reduced inequalities",
+            "D": "Climate action"
+          },
+          "correct_answer": "B",
+          "explanation": "SDG 3 is dedicated to ensuring healthy lives and promoting well-being for all at all ages, with specific targets covering maternal and child health, communicable and non-communicable diseases, and universal health coverage.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-31.6"
+        },
+        {
+          "question_id": "MCQ-31.10",
+          "question": "Investor-state dispute settlement mechanisms have raised concerns in global health because they may:",
+          "options": {
+            "A": "Always rule in favor of governments",
+            "B": "Create 'regulatory chill' that inhibits adoption of health policies",
+            "C": "Only apply to low-income countries",
+            "D": "Strengthen public health protections"
+          },
+          "correct_answer": "B",
+          "explanation": "ISDS mechanisms in trade and investment agreements have raised concerns that they may create 'regulatory chill,' discouraging governments from adopting health-protective policies due to fear of investor challenges and associated costs.",
+          "bloom_level": "Analyze",
+          "learning_objective": "LO-31.5"
+        },
+        {
+          "question_id": "MCQ-31.11",
+          "question": "The Joint External Evaluation (JEE) is a tool used to assess country capacity under:",
+          "options": {
+            "A": "The WHO Framework Convention on Tobacco Control",
+            "B": "The International Health Regulations",
+            "C": "The Sustainable Development Goals",
+            "D": "The TRIPS Agreement"
+          },
+          "correct_answer": "B",
+          "explanation": "The JEE is a voluntary, collaborative process to assess country capacities to prevent, detect, and respond to public health threats, as required under the IHR (2005).",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-31.2"
+        },
+        {
+          "question_id": "MCQ-31.12",
+          "question": "Which statement best describes the relationship between WHO and the World Bank in global health governance?",
+          "options": {
+            "A": "They have identical mandates and compete for the same funding",
+            "B": "The World Bank has no role in health governance",
+            "C": "They have complementary roles, with WHO providing technical leadership and the World Bank focusing on financing",
+            "D": "WHO reports directly to the World Bank"
+          },
+          "correct_answer": "C",
+          "explanation": "WHO and the World Bank have complementary roles in global health: WHO provides technical leadership, norms, and standards, while the World Bank focuses on health financing, health systems strengthening, and development assistance.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-31.1"
+        },
+        {
+          "question_id": "MCQ-31.13",
+          "question": "The concept of 'Health in All Policies' emphasizes:",
+          "options": {
+            "A": "That health ministries should control all government policies",
+            "B": "Systematic consideration of health implications across all sectors",
+            "C": "Prioritizing health spending over all other sectors",
+            "D": "Limiting trade agreements to protect health"
+          },
+          "correct_answer": "B",
+          "explanation": "Health in All Policies (HiAP) is an approach that systematically takes into account the health implications of decisions across all sectors, addressing the social determinants of health through intersectoral collaboration.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-31.3"
+        },
+        {
+          "question_id": "MCQ-31.14",
+          "question": "A compulsory license allows:",
+          "options": {
+            "A": "Unlimited importing of patented medicines without restriction",
+            "B": "Government-authorized production or importation of a patented product without consent of the patent holder",
+            "C": "Permanent removal of patent protection",
+            "D": "Free distribution of all medicines"
+          },
+          "correct_answer": "B",
+          "explanation": "A compulsory license is an authorization by the government to produce or import a patented product without the consent of the patent holder, subject to conditions including adequate remuneration, as permitted under TRIPS flexibilities.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-31.5"
+        },
+        {
+          "question_id": "MCQ-31.15",
+          "question": "The 2007 Oslo Declaration was significant because it:",
+          "options": {
+            "A": "Established the World Health Organization",
+            "B": "Recognized health as a key foreign policy issue requiring ministerial coordination",
+            "C": "Created the International Health Regulations",
+            "D": "Launched the Sustainable Development Goals"
+          },
+          "correct_answer": "B",
+          "explanation": "The 2007 Oslo Declaration, signed by foreign ministers of seven countries, recognized health as a critical foreign policy issue and called for health considerations to be integrated into foreign policy discussions.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-31.4"
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 5,
+      "items": [
+        {
+          "question_id": "SA-31.1",
+          "question": "Compare and contrast binding international health law (such as the IHR and FCTC) with soft law instruments (such as WHO recommendations). What are the advantages and disadvantages of each approach?",
+          "guidance": "Address enforceability, flexibility, adoption speed, state sovereignty concerns, and compliance mechanisms",
+          "bloom_level": "Analyze",
+          "learning_objective": "LO-31.2"
+        },
+        {
+          "question_id": "SA-31.2",
+          "question": "Explain how 'policy windows' in global health are created and identify strategies that advocates can use to advance health issues onto the global policy agenda.",
+          "guidance": "Apply Kingdon's multiple streams framework, provide examples of successful agenda-setting in global health",
+          "bloom_level": "Apply",
+          "learning_objective": "LO-31.3"
+        },
+        {
+          "question_id": "SA-31.3",
+          "question": "Describe the governance structure of the World Health Organization and discuss three major challenges to its effectiveness in leading global health.",
+          "guidance": "Address WHA, Executive Board, Secretariat functions, and challenges such as funding, political pressures, and competing mandates",
+          "bloom_level": "Analyze",
+          "learning_objective": "LO-31.1"
+        },
+        {
+          "question_id": "SA-31.4",
+          "question": "How can countries use TRIPS flexibilities to improve access to essential medicines? What factors influence whether countries successfully implement these flexibilities?",
+          "guidance": "Discuss compulsory licensing, parallel importation, Doha Declaration; address political, economic, and capacity factors",
+          "bloom_level": "Evaluate",
+          "learning_objective": "LO-31.5"
+        },
+        {
+          "question_id": "SA-31.5",
+          "question": "What mechanisms exist to monitor and promote accountability for SDG health targets? Critically assess their effectiveness.",
+          "guidance": "Address indicator frameworks, High-Level Political Forum, voluntary national reviews; evaluate strengths and limitations",
+          "bloom_level": "Evaluate",
+          "learning_objective": "LO-31.6"
+        }
+      ]
+    },
+    "case_study_exercises": {
+      "count": 3,
+      "items": [
+        {
+          "exercise_id": "CSE-31.1",
+          "title": "Negotiating a Pandemic Treaty",
+          "scenario": "You are a health diplomat representing your country in ongoing negotiations for a new WHO pandemic agreement. Your country is a middle-income nation with a growing pharmaceutical manufacturing capacity but limited experience with previous pandemic responses.",
+          "tasks": [
+            "Identify your country's key interests and priorities in the negotiations",
+            "Analyze potential areas of conflict with high-income countries and with low-income countries",
+            "Propose three specific treaty provisions that would address your country's concerns while being acceptable to other parties",
+            "Develop a coalition-building strategy to advance your priorities"
+          ],
+          "learning_objectives": [
+            "LO-31.2",
+            "LO-31.4"
+          ],
+          "assessment_criteria": "Demonstrates understanding of international health law principles, negotiation dynamics, and ability to balance national interests with global health goals"
+        },
+        {
+          "exercise_id": "CSE-31.2",
+          "title": "SDG Health Target Implementation",
+          "scenario": "A low-income African country is revising its national health sector strategic plan to better align with SDG 3 targets. Current maternal mortality ratio is 450 per 100,000 live births, and out-of-pocket health expenditure exceeds 50% of total health spending.",
+          "tasks": [
+            "Prioritize three SDG 3 targets for immediate focus and justify your selection",
+            "Identify intersectoral collaborations needed to address selected targets",
+            "Propose a monitoring framework with realistic milestones for 2026 and 2030",
+            "Address potential barriers to implementation and strategies to overcome them"
+          ],
+          "learning_objectives": [
+            "LO-31.6",
+            "LO-31.3"
+          ],
+          "assessment_criteria": "Shows ability to translate global commitments into national action, considering country context, resource constraints, and governance requirements"
+        },
+        {
+          "exercise_id": "CSE-31.3",
+          "title": "Responding to Tobacco Industry Trade Challenge",
+          "scenario": "Your country recently passed legislation requiring plain packaging for tobacco products. A tobacco company has initiated an investor-state dispute, claiming the law violates investment treaty protections and seeking substantial compensation.",
+          "tasks": [
+            "Analyze the legal arguments available to defend the public health measure",
+            "Identify evidence needed to demonstrate the health rationale for the policy",
+            "Develop a communications strategy to maintain political support for the measure",
+            "Propose policy reforms to protect future health policies from similar challenges"
+          ],
+          "learning_objectives": [
+            "LO-31.5",
+            "LO-31.2"
+          ],
+          "assessment_criteria": "Demonstrates understanding of trade-health intersections, ability to construct legal and policy arguments, and strategic thinking about governance reforms"
+        }
+      ]
+    },
+    "policy_analysis_exercises": {
+      "count": 2,
+      "items": [
+        {
+          "exercise_id": "PAE-31.1",
+          "title": "WHO Governance Reform Analysis",
+          "description": "Analyze proposals for WHO governance reform in light of lessons from the COVID-19 pandemic response. Evaluate specific reform options including sustainable financing mechanisms, enhanced emergency powers, and improved accountability mechanisms.",
+          "deliverable": "Policy brief (2000 words) with recommendations for strengthening WHO governance",
+          "learning_objectives": [
+            "LO-31.1",
+            "LO-31.4"
+          ]
+        },
+        {
+          "exercise_id": "PAE-31.2",
+          "title": "Health Diplomacy Strategy Development",
+          "description": "Develop a health diplomacy strategy for a medium-sized country seeking to advance a specific global health priority (e.g., antimicrobial resistance, pandemic preparedness, or access to medicines) through multilateral negotiations.",
+          "deliverable": "Strategic plan including stakeholder analysis, coalition-building approach, and key messaging",
+          "learning_objectives": [
+            "LO-31.4",
+            "LO-31.2"
+          ]
+        }
+      ]
+    }
+  },
+  "references": {
+    "total_count": 95,
+    "primary_sources": 89,
+    "citation_style": "Vancouver"
+  }
+}

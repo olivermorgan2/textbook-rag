@@ -1,0 +1,1262 @@
+{
+  "chapter_number": 29,
+  "title": "Global Health Research and Evidence",
+  "part": {
+    "part_number": 7,
+    "part_title": "Policy, Economics, and Governance"
+  },
+  "version": "1.0.0",
+  "last_updated": "2025-12-01",
+  "authors": [
+    {
+      "role": "primary_author",
+      "affiliation": "Global Health Research Institute"
+    }
+  ],
+  "keywords": [
+    "implementation science",
+    "knowledge translation",
+    "research capacity strengthening",
+    "global health ethics",
+    "evidence synthesis",
+    "participatory research",
+    "research priority setting",
+    "open science",
+    "decolonizing research",
+    "research partnerships",
+    "systematic reviews",
+    "evidence-based policy",
+    "community engagement"
+  ],
+  "word_count_target": {
+    "min": 7850,
+    "max": 7850
+  },
+  "cross_references": {
+    "prerequisite_chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "related_chapters": [
+      27,
+      28,
+      30,
+      31,
+      33
+    ],
+    "builds_upon": [
+      "epidemiological methods",
+      "health systems",
+      "global health governance"
+    ],
+    "informs": [
+      "health economics",
+      "policy development",
+      "human resources for health"
+    ]
+  },
+  "learning_objectives": [
+    {
+      "objective_id": "LO-29.1",
+      "bloom_level": "Analyze",
+      "text": "Compare and contrast research methodologies appropriate for different global health questions, including observational studies, randomized trials, mixed methods, and participatory approaches",
+      "assessment_method": "Short answer"
+    },
+    {
+      "objective_id": "LO-29.2",
+      "bloom_level": "Create",
+      "text": "Design an implementation research study that addresses effectiveness, adaptation, and scale-up considerations for a global health intervention",
+      "assessment_method": "Case study"
+    },
+    {
+      "objective_id": "LO-29.3",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate knowledge translation strategies and frameworks for moving research evidence into policy and practice in diverse global contexts",
+      "assessment_method": "Essay"
+    },
+    {
+      "objective_id": "LO-29.4",
+      "bloom_level": "Analyze",
+      "text": "Analyze ethical challenges in global health research and develop appropriate safeguards including community engagement protocols and benefit-sharing mechanisms",
+      "assessment_method": "Case study"
+    },
+    {
+      "objective_id": "LO-29.5",
+      "bloom_level": "Evaluate",
+      "text": "Assess research capacity strengthening programs for their effectiveness, sustainability, and contribution to local research ecosystems",
+      "assessment_method": "Case study"
+    },
+    {
+      "objective_id": "LO-29.6",
+      "bloom_level": "Apply",
+      "text": "Apply systematic review methodology and evidence synthesis principles to inform global health guideline development and policy decisions",
+      "assessment_method": "Practical exercise"
+    },
+    {
+      "objective_id": "LO-29.7",
+      "bloom_level": "Create",
+      "text": "Design equitable research partnerships that address power imbalances, data sovereignty, and community ownership of research processes and findings",
+      "assessment_method": "Case study"
+    }
+  ],
+  "content_sections": [
+    {
+      "section_id": "29.1",
+      "title": "Global Health Research Methodologies",
+      "word_count": 1200,
+      "subsections": [
+        {
+          "subsection_id": "29.1.1",
+          "title": "Observational Studies in Global Health",
+          "word_count": 300,
+          "key_concepts": [
+            "cohort studies",
+            "case-control studies",
+            "cross-sectional surveys",
+            "ecological studies",
+            "demographic surveillance systems"
+          ],
+          "primary_references": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "subsection_id": "29.1.2",
+          "title": "Experimental and Quasi-Experimental Designs",
+          "word_count": 300,
+          "key_concepts": [
+            "randomized controlled trials",
+            "cluster randomized trials",
+            "stepped-wedge designs",
+            "natural experiments",
+            "pragmatic trials"
+          ],
+          "primary_references": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ]
+        },
+        {
+          "subsection_id": "29.1.3",
+          "title": "Mixed Methods and Qualitative Research",
+          "word_count": 300,
+          "key_concepts": [
+            "convergent design",
+            "explanatory sequential design",
+            "ethnography",
+            "phenomenology",
+            "grounded theory"
+          ],
+          "primary_references": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ]
+        },
+        {
+          "subsection_id": "29.1.4",
+          "title": "Participatory Research Approaches",
+          "word_count": 300,
+          "key_concepts": [
+            "community-based participatory research",
+            "action research",
+            "co-design",
+            "indigenous research methodologies",
+            "citizen science"
+          ],
+          "primary_references": [
+            "13",
+            "14",
+            "15",
+            "16"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "29.1",
+          "title": "Global Health Research Design Decision Framework",
+          "caption": "Framework for selecting appropriate research designs based on research question type, context, and feasibility considerations.",
+          "type": "Diagram",
+          "data_source": "Author synthesis from multiple methodological sources"
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "29.1",
+          "title": "Comparison of Research Methodologies for Global Health Questions",
+          "caption": "Strengths, limitations, and appropriate applications of different research designs in global health contexts.",
+          "data_source": "Author compilation from methodological literature"
+        }
+      ]
+    },
+    {
+      "section_id": "29.2",
+      "title": "Implementation Science in Global Health",
+      "word_count": 1100,
+      "subsections": [
+        {
+          "subsection_id": "29.2.1",
+          "title": "Conceptual Frameworks for Implementation Research",
+          "word_count": 280,
+          "key_concepts": [
+            "RE-AIM framework",
+            "CFIR",
+            "Proctor outcomes",
+            "implementation determinants",
+            "implementation strategies"
+          ],
+          "primary_references": [
+            "17",
+            "18",
+            "19",
+            "20"
+          ]
+        },
+        {
+          "subsection_id": "29.2.2",
+          "title": "Effectiveness-Implementation Hybrid Designs",
+          "word_count": 280,
+          "key_concepts": [
+            "Type 1 hybrid",
+            "Type 2 hybrid",
+            "Type 3 hybrid",
+            "dual testing",
+            "pragmatic considerations"
+          ],
+          "primary_references": [
+            "21",
+            "22",
+            "23"
+          ]
+        },
+        {
+          "subsection_id": "29.2.3",
+          "title": "Adaptation and Scale-Up Research",
+          "word_count": 280,
+          "key_concepts": [
+            "fidelity-adaptation balance",
+            "ADAPT framework",
+            "ExpandNet",
+            "vertical and horizontal scale-up",
+            "sustainability"
+          ],
+          "primary_references": [
+            "24",
+            "25",
+            "26",
+            "27"
+          ]
+        },
+        {
+          "subsection_id": "29.2.4",
+          "title": "Context and Implementation",
+          "word_count": 260,
+          "key_concepts": [
+            "contextual factors",
+            "outer setting",
+            "inner setting",
+            "process evaluation",
+            "mechanism mapping"
+          ],
+          "primary_references": [
+            "28",
+            "29",
+            "30"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "29.2",
+          "title": "Implementation Science Frameworks Comparison",
+          "caption": "Overview of major implementation science frameworks and their application to global health research.",
+          "type": "Diagram",
+          "data_source": "Adapted from Nilsen 2015 and Damschroder 2022"
+        }
+      ]
+    },
+    {
+      "section_id": "29.3",
+      "title": "Knowledge Translation and Evidence-Informed Policy",
+      "word_count": 1000,
+      "subsections": [
+        {
+          "subsection_id": "29.3.1",
+          "title": "Knowledge Translation Frameworks",
+          "word_count": 250,
+          "key_concepts": [
+            "KTA framework",
+            "push and pull models",
+            "knowledge brokering",
+            "integrated knowledge translation",
+            "co-production"
+          ],
+          "primary_references": [
+            "31",
+            "32",
+            "33",
+            "34"
+          ]
+        },
+        {
+          "subsection_id": "29.3.2",
+          "title": "Research-to-Policy Mechanisms",
+          "word_count": 250,
+          "key_concepts": [
+            "policy windows",
+            "evidence briefs",
+            "deliberative dialogues",
+            "rapid response mechanisms",
+            "policy networks"
+          ],
+          "primary_references": [
+            "35",
+            "36",
+            "37"
+          ]
+        },
+        {
+          "subsection_id": "29.3.3",
+          "title": "Evidence-Informed Decision Making",
+          "word_count": 250,
+          "key_concepts": [
+            "GRADE approach",
+            "evidence-to-decision frameworks",
+            "values and preferences",
+            "resource considerations",
+            "health equity"
+          ],
+          "primary_references": [
+            "38",
+            "39",
+            "40"
+          ]
+        },
+        {
+          "subsection_id": "29.3.4",
+          "title": "Barriers and Facilitators to Knowledge Use",
+          "word_count": 250,
+          "key_concepts": [
+            "research-policy gap",
+            "organizational capacity",
+            "political context",
+            "timing and relevance",
+            "stakeholder engagement"
+          ],
+          "primary_references": [
+            "41",
+            "42",
+            "43"
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "29.2",
+          "title": "Knowledge Translation Strategies and Their Effectiveness",
+          "caption": "Evidence-based strategies for promoting research uptake in policy and practice.",
+          "data_source": "Systematic review evidence synthesis"
+        }
+      ]
+    },
+    {
+      "section_id": "29.4",
+      "title": "Research Ethics in Global Health",
+      "word_count": 1100,
+      "subsections": [
+        {
+          "subsection_id": "29.4.1",
+          "title": "Ethical Principles and International Guidelines",
+          "word_count": 280,
+          "key_concepts": [
+            "Declaration of Helsinki",
+            "CIOMS guidelines",
+            "Common Rule",
+            "informed consent",
+            "vulnerable populations"
+          ],
+          "primary_references": [
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        },
+        {
+          "subsection_id": "29.4.2",
+          "title": "Community Engagement in Research",
+          "word_count": 280,
+          "key_concepts": [
+            "community advisory boards",
+            "engagement spectrum",
+            "meaningful participation",
+            "community consent",
+            "feedback mechanisms"
+          ],
+          "primary_references": [
+            "48",
+            "49",
+            "50"
+          ]
+        },
+        {
+          "subsection_id": "29.4.3",
+          "title": "Benefit Sharing and Post-Trial Access",
+          "word_count": 280,
+          "key_concepts": [
+            "fair benefits",
+            "ancillary care",
+            "post-trial obligations",
+            "capacity building as benefit",
+            "technology transfer"
+          ],
+          "primary_references": [
+            "51",
+            "52",
+            "53"
+          ]
+        },
+        {
+          "subsection_id": "29.4.4",
+          "title": "Decolonizing Research Ethics",
+          "word_count": 260,
+          "key_concepts": [
+            "power dynamics",
+            "epistemic justice",
+            "indigenous data sovereignty",
+            "research as extraction",
+            "reciprocity"
+          ],
+          "primary_references": [
+            "54",
+            "55",
+            "56",
+            "57"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "29.3",
+          "title": "Community Engagement Spectrum in Global Health Research",
+          "caption": "Levels of community engagement from consultation to community-driven research.",
+          "type": "Diagram",
+          "data_source": "Adapted from IAP2 spectrum and global health applications"
+        }
+      ]
+    },
+    {
+      "section_id": "29.5",
+      "title": "Research Capacity Strengthening",
+      "word_count": 1000,
+      "subsections": [
+        {
+          "subsection_id": "29.5.1",
+          "title": "Individual Capacity Building",
+          "word_count": 250,
+          "key_concepts": [
+            "research training programs",
+            "mentorship models",
+            "career development",
+            "research leadership",
+            "brain drain"
+          ],
+          "primary_references": [
+            "58",
+            "59",
+            "60"
+          ]
+        },
+        {
+          "subsection_id": "29.5.2",
+          "title": "Institutional Strengthening",
+          "word_count": 250,
+          "key_concepts": [
+            "research infrastructure",
+            "institutional review boards",
+            "grant management",
+            "research administration",
+            "core facilities"
+          ],
+          "primary_references": [
+            "61",
+            "62",
+            "63"
+          ]
+        },
+        {
+          "subsection_id": "29.5.3",
+          "title": "Systems and Enabling Environment",
+          "word_count": 250,
+          "key_concepts": [
+            "national research systems",
+            "research funding mechanisms",
+            "science policy",
+            "research-policy linkages",
+            "research culture"
+          ],
+          "primary_references": [
+            "64",
+            "65",
+            "66"
+          ]
+        },
+        {
+          "subsection_id": "29.5.4",
+          "title": "Evaluating Capacity Strengthening Impact",
+          "word_count": 250,
+          "key_concepts": [
+            "capacity strengthening metrics",
+            "sustainability assessment",
+            "return on investment",
+            "bibliometric indicators",
+            "beyond publications"
+          ],
+          "primary_references": [
+            "67",
+            "68",
+            "69"
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "29.3",
+          "title": "Research Capacity Strengthening Framework",
+          "caption": "Multi-level framework for assessing and strengthening research capacity in low- and middle-income settings.",
+          "data_source": "Adapted from ESSENCE framework and COHRED analysis"
+        }
+      ]
+    },
+    {
+      "section_id": "29.6",
+      "title": "Systematic Reviews and Evidence Synthesis",
+      "word_count": 900,
+      "subsections": [
+        {
+          "subsection_id": "29.6.1",
+          "title": "Systematic Review Methodology",
+          "word_count": 230,
+          "key_concepts": [
+            "PRISMA guidelines",
+            "search strategies",
+            "risk of bias assessment",
+            "meta-analysis",
+            "heterogeneity"
+          ],
+          "primary_references": [
+            "70",
+            "71",
+            "72"
+          ]
+        },
+        {
+          "subsection_id": "29.6.2",
+          "title": "Evidence Synthesis for Global Health",
+          "word_count": 230,
+          "key_concepts": [
+            "Cochrane Collaboration",
+            "Campbell Collaboration",
+            "living systematic reviews",
+            "rapid reviews",
+            "evidence maps"
+          ],
+          "primary_references": [
+            "73",
+            "74",
+            "75"
+          ]
+        },
+        {
+          "subsection_id": "29.6.3",
+          "title": "From Evidence to Guidelines",
+          "word_count": "230",
+          "key_concepts": [
+            "WHO guideline development",
+            "GRADE certainty",
+            "recommendation strength",
+            "guideline adaptation",
+            "implementation guidance"
+          ],
+          "primary_references": [
+            "76",
+            "77",
+            "78",
+            "79"
+          ]
+        },
+        {
+          "subsection_id": "29.6.4",
+          "title": "Addressing Evidence Gaps",
+          "word_count": 210,
+          "key_concepts": [
+            "evidence gaps maps",
+            "priority research questions",
+            "conditional recommendations",
+            "expert opinion",
+            "living guidelines"
+          ],
+          "primary_references": [
+            "80",
+            "81",
+            "82"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "29.7",
+      "title": "Research Priority Setting",
+      "word_count": 750,
+      "subsections": [
+        {
+          "subsection_id": "29.7.1",
+          "title": "Priority Setting Approaches",
+          "word_count": 250,
+          "key_concepts": [
+            "CHNRI method",
+            "James Lind Alliance",
+            "Delphi methods",
+            "burden-based approaches",
+            "equity considerations"
+          ],
+          "primary_references": [
+            "83",
+            "84",
+            "85",
+            "86"
+          ]
+        },
+        {
+          "subsection_id": "29.7.2",
+          "title": "Stakeholder Engagement in Priority Setting",
+          "word_count": 250,
+          "key_concepts": [
+            "patient and public involvement",
+            "community priorities",
+            "researcher perspectives",
+            "funder priorities",
+            "policy alignment"
+          ],
+          "primary_references": [
+            "87",
+            "88",
+            "89"
+          ]
+        },
+        {
+          "subsection_id": "29.7.3",
+          "title": "Global Research Priority Initiatives",
+          "word_count": 250,
+          "key_concepts": [
+            "Disease Control Priorities",
+            "Lancet Commissions",
+            "WHO research agenda",
+            "SDG research priorities",
+            "pandemic preparedness"
+          ],
+          "primary_references": [
+            "90",
+            "91",
+            "92"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "29.8",
+      "title": "Open Science and Data Sharing",
+      "word_count": 800,
+      "subsections": [
+        {
+          "subsection_id": "29.8.1",
+          "title": "Open Science Principles and Practices",
+          "word_count": 200,
+          "key_concepts": [
+            "open access",
+            "preprints",
+            "open data",
+            "open methods",
+            "reproducibility"
+          ],
+          "primary_references": [
+            "93",
+            "94",
+            "95"
+          ]
+        },
+        {
+          "subsection_id": "29.8.2",
+          "title": "Data Sharing in Global Health",
+          "word_count": 200,
+          "key_concepts": [
+            "FAIR principles",
+            "data repositories",
+            "data governance",
+            "data use agreements",
+            "secondary analysis"
+          ],
+          "primary_references": [
+            "96",
+            "97",
+            "98"
+          ]
+        },
+        {
+          "subsection_id": "29.8.3",
+          "title": "Equity in Knowledge Access",
+          "word_count": 200,
+          "key_concepts": [
+            "Research4Life",
+            "open access mandates",
+            "publication fees",
+            "predatory journals",
+            "knowledge commons"
+          ],
+          "primary_references": [
+            "99",
+            "100",
+            "101"
+          ]
+        },
+        {
+          "subsection_id": "29.8.4",
+          "title": "Data Sovereignty and Community Ownership",
+          "word_count": 200,
+          "key_concepts": [
+            "CARE principles",
+            "indigenous data governance",
+            "community data trusts",
+            "benefit sharing",
+            "consent for data use"
+          ],
+          "primary_references": [
+            "102",
+            "103",
+            "104"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "29.4",
+          "title": "FAIR and CARE Principles for Research Data",
+          "caption": "Framework integrating FAIR data principles with CARE principles for indigenous data governance.",
+          "type": "Diagram",
+          "data_source": "Adapted from Wilkinson 2016 and Carroll 2020"
+        }
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "case_study_id": "CS-29.1",
+      "title": "INDEPTH Network: Building Longitudinal Research Infrastructure Across Africa and Asia",
+      "who_region": [
+        "African Region",
+        "South-East Asia Region",
+        "Western Pacific Region"
+      ],
+      "income_level": [
+        "Low-income",
+        "Lower-middle-income"
+      ],
+      "population_size": "Over 40 million person-years of observation",
+      "time_period": "1998-present",
+      "intervention_type": [
+        "Research infrastructure development",
+        "Longitudinal surveillance",
+        "Capacity strengthening",
+        "Data harmonization",
+        "South-South collaboration"
+      ],
+      "key_lessons": [
+        "Longitudinal surveillance platforms provide essential infrastructure for multiple research studies",
+        "South-South collaboration enhances methodological development and knowledge exchange",
+        "Standardized methods enable cross-site comparisons and pooled analyses",
+        "Community engagement sustains participation over decades",
+        "Local ownership ensures sustainability beyond external funding"
+      ],
+      "outcomes": [
+        "Mortality estimation",
+        "Cause of death determination",
+        "Health transition monitoring",
+        "Research output",
+        "Capacity development"
+      ],
+      "discussion_points": [
+        "How does the INDEPTH model address challenges of research infrastructure in low-resource settings?",
+        "What are the trade-offs between standardization and local adaptation in multi-site research networks?",
+        "How can demographic surveillance data inform health policy decisions?"
+      ],
+      "primary_references": [
+        "3",
+        "4",
+        "62",
+        "63"
+      ]
+    },
+    {
+      "case_study_id": "CS-29.2",
+      "title": "NIH Fogarty International Center: Five Decades of Research Capacity Strengthening",
+      "who_region": [
+        "African Region",
+        "Region of the Americas",
+        "South-East Asia Region",
+        "Eastern Mediterranean Region",
+        "Western Pacific Region"
+      ],
+      "income_level": [
+        "Low-income",
+        "Lower-middle-income",
+        "Upper-middle-income"
+      ],
+      "population_size": "Over 7,000 scientists trained from 130+ countries",
+      "time_period": "1968-present",
+      "intervention_type": [
+        "Research training",
+        "Mentorship programs",
+        "Institutional partnerships",
+        "Career development",
+        "Infrastructure support"
+      ],
+      "key_lessons": [
+        "Long-term investment in individuals creates multiplier effects through mentorship chains",
+        "Institutional partnerships strengthen research environments beyond individual training",
+        "Flexibility in program design allows adaptation to local needs and priorities",
+        "Alumni networks sustain impact and enable ongoing collaboration",
+        "Balanced approach between training abroad and in-country strengthens local systems"
+      ],
+      "outcomes": [
+        "Trainees completing programs",
+        "Publications produced",
+        "Research grants obtained",
+        "Leadership positions achieved",
+        "Institutional capacity gains"
+      ],
+      "discussion_points": [
+        "How should research capacity strengthening programs balance training abroad versus in-country?",
+        "What metrics best capture the impact of long-term capacity strengthening investments?",
+        "How can capacity strengthening programs address brain drain concerns?"
+      ],
+      "primary_references": [
+        "58",
+        "59",
+        "60",
+        "67"
+      ]
+    },
+    {
+      "case_study_id": "CS-29.3",
+      "title": "WHO HIV Treatment Guidelines: From Research Evidence to Global Policy",
+      "who_region": [
+        "African Region",
+        "Region of the Americas",
+        "South-East Asia Region",
+        "European Region",
+        "Eastern Mediterranean Region",
+        "Western Pacific Region"
+      ],
+      "income_level": [
+        "Low-income",
+        "Lower-middle-income",
+        "Upper-middle-income",
+        "High-income"
+      ],
+      "population_size": "39 million people living with HIV globally",
+      "time_period": "2003-present",
+      "intervention_type": [
+        "Evidence synthesis",
+        "Guideline development",
+        "Stakeholder consultation",
+        "Implementation support",
+        "Guideline updates"
+      ],
+      "key_lessons": [
+        "Living guidelines allow rapid incorporation of new evidence",
+        "Implementation feasibility must be considered alongside efficacy evidence",
+        "Community and civil society engagement strengthens guideline relevance and adoption",
+        "Contextualized implementation guidance supports local adaptation",
+        "Clear communication of evidence certainty aids decision-making"
+      ],
+      "outcomes": [
+        "Guideline adoption rates",
+        "Treatment coverage",
+        "Viral suppression rates",
+        "Mortality reduction",
+        "Implementation barriers"
+      ],
+      "discussion_points": [
+        "How did WHO balance efficacy evidence with implementation feasibility in HIV guideline evolution?",
+        "What role did civil society play in shaping HIV treatment guidelines?",
+        "How can the HIV guideline development model inform other disease areas?"
+      ],
+      "primary_references": [
+        "38",
+        "39",
+        "76",
+        "77"
+      ]
+    },
+    {
+      "case_study_id": "CS-29.4",
+      "title": "Maori Health Research: Indigenous Data Sovereignty and Community-Led Research in Aotearoa New Zealand",
+      "who_region": "Western Pacific Region",
+      "income_level": "High-income",
+      "population_size": "Approximately 900,000 Maori people",
+      "time_period": "1990s-present",
+      "intervention_type": [
+        "Kaupapa Maori research",
+        "Indigenous data sovereignty",
+        "Community governance",
+        "Cultural frameworks",
+        "Research ethics transformation"
+      ],
+      "key_lessons": [
+        "Indigenous research frameworks produce knowledge that is both locally relevant and globally valuable",
+        "Data sovereignty requires governance structures that center community control",
+        "Culturally grounded methodologies can address questions that Western approaches cannot",
+        "Research ethics must move beyond harm prevention to actively promote benefit",
+        "Decolonizing research requires fundamental shifts in power and knowledge production"
+      ],
+      "outcomes": [
+        "Research relevance to communities",
+        "Community benefit",
+        "Researcher development",
+        "Policy influence",
+        "Methodological innovation"
+      ],
+      "discussion_points": [
+        "How does Kaupapa Maori research challenge conventional research paradigms?",
+        "What can global health research learn from indigenous research sovereignty movements?",
+        "How can principles of indigenous data sovereignty be applied in other contexts?"
+      ],
+      "primary_references": [
+        "14",
+        "54",
+        "55",
+        "102",
+        "103"
+      ]
+    }
+  ],
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 10,
+      "items": [
+        {
+          "question_id": "MCQ-29.1",
+          "question_text": "Which implementation science framework specifically addresses the inner setting, outer setting, and implementation process?",
+          "options": {
+            "A": "RE-AIM framework",
+            "B": "Consolidated Framework for Implementation Research (CFIR)",
+            "C": "Knowledge-to-Action framework",
+            "D": "Proctor's implementation outcomes"
+          },
+          "correct_answer": "B",
+          "explanation": "CFIR (Consolidated Framework for Implementation Research) specifically organizes implementation determinants into five domains: intervention characteristics, outer setting, inner setting, characteristics of individuals, and process.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-29.2"
+        },
+        {
+          "question_id": "MCQ-29.2",
+          "question_text": "A Type 2 hybrid effectiveness-implementation design is characterized by:",
+          "options": {
+            "A": "Primary focus on intervention effectiveness with secondary implementation observations",
+            "B": "Equal focus on testing intervention effectiveness and implementation strategy",
+            "C": "Primary focus on implementation strategy with secondary effectiveness assessment",
+            "D": "Exclusive focus on implementation outcomes without effectiveness measurement"
+          },
+          "correct_answer": "B",
+          "explanation": "Type 2 hybrid designs give equal weight to testing both the clinical intervention and the implementation strategy, making them particularly useful when there is reasonable evidence for intervention effectiveness.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-29.2"
+        },
+        {
+          "question_id": "MCQ-29.3",
+          "question_text": "The GRADE approach to evidence assessment considers all of the following EXCEPT:",
+          "options": {
+            "A": "Risk of bias in included studies",
+            "B": "Consistency of results across studies",
+            "C": "Impact factor of journals where studies were published",
+            "D": "Precision of effect estimates"
+          },
+          "correct_answer": "C",
+          "explanation": "GRADE assesses evidence certainty based on study design, risk of bias, inconsistency, indirectness, imprecision, and publication bias. Journal impact factor is not a criterion for evidence quality assessment.",
+          "bloom_level": "Apply",
+          "learning_objective": "LO-29.6"
+        },
+        {
+          "question_id": "MCQ-29.4",
+          "question_text": "Which research priority setting approach uses expert scoring across multiple criteria including answerability, effectiveness, and equity?",
+          "options": {
+            "A": "James Lind Alliance Priority Setting Partnership",
+            "B": "Delphi method",
+            "C": "Child Health and Nutrition Research Initiative (CHNRI) method",
+            "D": "Burden of disease approach"
+          },
+          "correct_answer": "C",
+          "explanation": "The CHNRI method systematically scores research questions against criteria including answerability, effectiveness, deliverability, maximum potential for disease burden reduction, and equity, making it well-suited for priority setting in resource-limited settings.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-29.3"
+        },
+        {
+          "question_id": "MCQ-29.5",
+          "question_text": "The CARE principles for indigenous data governance emphasize:",
+          "options": {
+            "A": "Findability, Accessibility, Interoperability, and Reusability",
+            "B": "Collective benefit, Authority to control, Responsibility, and Ethics",
+            "C": "Consent, Anonymization, Restriction, and Encryption",
+            "D": "Community, Accountability, Reciprocity, and Engagement"
+          },
+          "correct_answer": "B",
+          "explanation": "The CARE principles (Collective benefit, Authority to control, Responsibility, Ethics) complement FAIR principles by centering indigenous peoples' rights and interests in data governance, addressing who benefits and who has authority over data.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-29.7"
+        },
+        {
+          "question_id": "MCQ-29.6",
+          "question_text": "A stepped-wedge cluster randomized trial design is most appropriate when:",
+          "options": {
+            "A": "Individual randomization is feasible and preferred",
+            "B": "The intervention cannot be withdrawn once implemented and all clusters will eventually receive it",
+            "C": "Blinding of participants and investigators is essential",
+            "D": "The study population is small and homogeneous"
+          },
+          "correct_answer": "B",
+          "explanation": "Stepped-wedge designs are particularly useful when the intervention is expected to be beneficial (making a control group difficult to justify), when it cannot be withdrawn once implemented, and when logistical constraints prevent simultaneous implementation across all clusters.",
+          "bloom_level": "Apply",
+          "learning_objective": "LO-29.1"
+        },
+        {
+          "question_id": "MCQ-29.7",
+          "question_text": "According to the CIOMS International Ethical Guidelines, research involving vulnerable populations requires:",
+          "options": {
+            "A": "Exclusion of vulnerable populations from all research",
+            "B": "Special justification, additional protections, and assurance of benefit to the population",
+            "C": "Higher payment to compensate for increased risk",
+            "D": "Waiver of informed consent requirements"
+          },
+          "correct_answer": "B",
+          "explanation": "CIOMS guidelines require that research involving vulnerable populations be specifically justified, include additional protections, and offer reasonable assurance that the population will benefit from the research results.",
+          "bloom_level": "Apply",
+          "learning_objective": "LO-29.4"
+        },
+        {
+          "question_id": "MCQ-29.8",
+          "question_text": "Knowledge brokering in global health primarily involves:",
+          "options": {
+            "A": "Selling research findings to pharmaceutical companies",
+            "B": "Facilitating connections between researchers and decision-makers to enable evidence use",
+            "C": "Negotiating intellectual property rights for research innovations",
+            "D": "Managing financial transactions between research funders and institutions"
+          },
+          "correct_answer": "B",
+          "explanation": "Knowledge brokers serve as intermediaries between researchers and policy-makers/practitioners, facilitating the exchange of knowledge, building relationships, and helping to translate research into actionable forms.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-29.3"
+        },
+        {
+          "question_id": "MCQ-29.9",
+          "question_text": "The primary purpose of community advisory boards (CABs) in global health research is to:",
+          "options": {
+            "A": "Replace institutional review board oversight",
+            "B": "Provide community perspectives on research design, conduct, and dissemination",
+            "C": "Serve as data safety monitoring committees",
+            "D": "Recruit research participants from the community"
+          },
+          "correct_answer": "B",
+          "explanation": "CABs provide ongoing community input throughout the research process, ensuring that research is responsive to community concerns, culturally appropriate, and that findings are communicated back to communities in accessible ways.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-29.4"
+        },
+        {
+          "question_id": "MCQ-29.10",
+          "question_text": "The ESSENCE framework for research capacity strengthening identifies which key levels of capacity?",
+          "options": {
+            "A": "Local, regional, and global",
+            "B": "Individual, institutional, and system/environment",
+            "C": "Basic, intermediate, and advanced",
+            "D": "Academic, clinical, and community"
+          },
+          "correct_answer": "B",
+          "explanation": "The ESSENCE framework recognizes that sustainable research capacity requires investment at three interconnected levels: individual skills and careers, institutional infrastructure and governance, and the broader research system and enabling environment.",
+          "bloom_level": "Remember",
+          "learning_objective": "LO-29.5"
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 8,
+      "items": [
+        {
+          "question_id": "SA-29.1",
+          "question_text": "Explain the difference between research efficacy and effectiveness, and describe how implementation science bridges this gap.",
+          "model_answer": "Efficacy refers to whether an intervention works under ideal, controlled conditions (typically demonstrated in randomized controlled trials), while effectiveness refers to whether an intervention works in real-world settings with typical populations, providers, and conditions. Implementation science bridges this gap by studying how evidence-based interventions can be effectively delivered in routine practice settings. It examines implementation determinants (barriers and facilitators), develops and tests implementation strategies, and measures implementation outcomes such as adoption, fidelity, and sustainability alongside health outcomes.",
+          "bloom_level": "Understand",
+          "learning_objective": "LO-29.2"
+        },
+        {
+          "question_id": "SA-29.2",
+          "question_text": "Describe three key challenges in translating research evidence into health policy in low- and middle-income countries.",
+          "model_answer": "Key challenges include: (1) Limited capacity for evidence synthesis and interpretation, including shortage of trained researchers and policy analysts who can critically appraise evidence and communicate findings to decision-makers; (2) Weak institutional linkages between research and policy, with few formal mechanisms for researcher-policymaker dialogue, evidence requests, or knowledge brokering; (3) Political and contextual factors including competing priorities, resource constraints, political instability, and situations where evidence conflicts with political interests or established practices. Additional challenges include limited access to research literature, predominance of evidence from high-income settings, and insufficient research on implementation in local contexts.",
+          "bloom_level": "Analyze",
+          "learning_objective": "LO-29.3"
+        },
+        {
+          "question_id": "SA-29.3",
+          "question_text": "What are the key ethical considerations when conducting research in humanitarian emergencies, and how do they differ from standard research ethics requirements?",
+          "model_answer": "Research in humanitarian emergencies requires special ethical considerations including: (1) Vulnerability and informed consent challenges, where affected populations may be displaced, traumatized, or under duress, requiring additional safeguards for voluntary participation; (2) Balancing urgency with rigor, as rapid evidence generation may be needed but must not compromise participant safety or research quality; (3) Fair subject selection ensuring research does not exploit vulnerable populations or exclude them from potential benefits; (4) Dual imperative of providing care while conducting research, with researchers having obligations beyond data collection; (5) Post-research obligations including ensuring access to beneficial interventions and avoiding abandonment when emergencies resolve. These differ from standard requirements in the compressed timeframes, heightened vulnerability, disrupted governance structures for ethical oversight, and the imperative to generate evidence that can immediately inform the humanitarian response.",
+          "bloom_level": "Analyze",
+          "learning_objective": "LO-29.4"
+        },
+        {
+          "question_id": "SA-29.4",
+          "question_text": "Explain the concept of 'decolonizing global health research' and provide two specific strategies for implementing this approach.",
+          "model_answer": "Decolonizing global health research refers to critically examining and transforming the power structures, knowledge systems, and practices that perpetuate colonial patterns in research relationships between high-income and low- and middle-income country partners. This includes addressing inequitable partnerships, extractive research practices, and the dominance of Western epistemologies. Strategies include: (1) Equitable partnership models that ensure genuine co-leadership, fair authorship practices, shared decision-making, and institutional strengthening rather than extractive collaboration; (2) Centering local knowledge systems and priorities by incorporating indigenous methodologies, community-defined research questions, and local frameworks for understanding health and well-being alongside or instead of imported frameworks; (3) Transforming funding structures to provide direct funding to LMIC institutions, flexible timelines that accommodate local contexts, and support for locally-led research agendas; (4) Addressing data sovereignty through community governance of data, local ownership of samples and datasets, and meaningful benefit-sharing arrangements.",
+          "bloom_level": "Apply",
+          "learning_objective": "LO-29.7"
+        },
+        {
+          "question_id": "SA-29.5",
+          "question_text": "Describe the role of rapid reviews in evidence-informed policy-making and explain when they are most appropriate compared to full systematic reviews.",
+          "model_answer": "Rapid reviews are streamlined evidence syntheses that provide timely summaries of research evidence to inform urgent decisions. They typically take 1-3 months compared to 12-24 months for full systematic reviews. They are most appropriate when: (1) Decisions cannot wait for a full systematic review; (2) Preliminary evidence assessment is needed to determine if a full review is warranted; (3) Evidence is needed to inform rapidly evolving situations such as disease outbreaks; (4) Resources for a full review are not available but some evidence synthesis is better than none. Rapid reviews achieve efficiency through focused questions, limited database searches, single reviewer screening, narrative synthesis instead of meta-analysis, and abbreviated reporting. Trade-offs include potential for bias from streamlined methods, narrower scope, and less comprehensive coverage. Best practice includes transparent reporting of methodological shortcuts and their potential impact on findings.",
+          "bloom_level": "Evaluate",
+          "learning_objective": "LO-29.6"
+        },
+        {
+          "question_id": "SA-29.6",
+          "question_text": "How do the FAIR principles for data sharing complement or conflict with indigenous data sovereignty principles, and how can these tensions be addressed?",
+          "model_answer": "FAIR principles (Findable, Accessible, Interoperable, Reusable) promote open science and data sharing but can conflict with indigenous data sovereignty when applied without consideration of community rights. Tensions arise because: FAIR emphasizes accessibility and reuse, potentially enabling data extraction from communities without consent or benefit; indigenous peoples may have collective rights over data that conflict with open sharing; and Western data frameworks may not recognize indigenous knowledge systems or governance structures. The CARE principles (Collective benefit, Authority to control, Responsibility, Ethics) were developed to complement FAIR by centering indigenous rights. Addressing tensions requires: recognizing that data openness is not an absolute good and must be balanced with sovereignty rights; implementing tiered access systems with community governance; ensuring indigenous communities control decisions about their data; and developing data governance frameworks that honor both scientific value and community rights. Practical approaches include community data trusts, meaningful consent processes, and benefit-sharing agreements.",
+          "bloom_level": "Evaluate",
+          "learning_objective": "LO-29.7"
+        },
+        {
+          "question_id": "SA-29.7",
+          "question_text": "Explain the RE-AIM framework and describe how it would be used to evaluate the implementation of a community health worker program.",
+          "model_answer": "RE-AIM is an implementation science framework with five dimensions: Reach (proportion and representativeness of the target population participating), Effectiveness (impact on outcomes including potential negative effects and quality of life), Adoption (proportion and representativeness of settings and intervention agents willing to adopt), Implementation (fidelity, consistency, and cost of intervention delivery), and Maintenance (sustainability at individual and setting levels). For a CHW program, RE-AIM would assess: Reach by examining what proportion of target community members are served by CHWs and whether underserved populations are reached; Effectiveness through health outcomes achieved and potential harms; Adoption by measuring what proportion of health facilities, communities, and potential CHWs participate; Implementation through assessment of training fidelity, supervision quality, service delivery consistency, and costs; and Maintenance by evaluating CHW retention, continued service provision, and health system integration over time. This comprehensive evaluation helps identify program strengths and areas needing improvement.",
+          "bloom_level": "Apply",
+          "learning_objective": "LO-29.2"
+        },
+        {
+          "question_id": "SA-29.8",
+          "question_text": "What are the key components of sustainable research capacity strengthening, and how can programs avoid creating dependency on external funding?",
+          "model_answer": "Sustainable research capacity strengthening requires investment across multiple levels: (1) Individual capacity through training that develops not just technical skills but leadership, mentorship abilities, and career pathways that retain talent; (2) Institutional capacity including research infrastructure, ethical review processes, grant management systems, and supportive organizational culture; (3) Systems and enabling environment including national research policies, domestic funding mechanisms, and research-policy linkages. Avoiding dependency requires: diversifying funding sources beyond single external donors; building domestic research funding mechanisms; developing fee-for-service models for core facilities; creating regional networks that share resources; training in grant writing to access diverse funding; institutional financial sustainability planning; and graduating support over time with clear transition plans. Long-term success indicators include locally-led research programs, domestic funding, regional and global partnerships, and research that influences local policy and practice.",
+          "bloom_level": "Evaluate",
+          "learning_objective": "LO-29.5"
+        }
+      ]
+    },
+    "case_study_exercises": {
+      "count": 4,
+      "items": [
+        {
+          "exercise_id": "CSE-29.1",
+          "title": "Designing Implementation Research for a Maternal Health Intervention",
+          "scenario": "A new community-based antenatal care package has shown efficacy in a randomized controlled trial in one district of a South Asian country. The Ministry of Health wants to scale up the intervention nationally but needs evidence on implementation approaches. You are asked to design an implementation research study.",
+          "tasks": [
+            "Select an appropriate implementation science framework to guide your study design and justify your choice",
+            "Choose between a Type 1, Type 2, or Type 3 hybrid effectiveness-implementation design and explain your rationale",
+            "Identify key implementation determinants you would assess and describe how context might affect implementation",
+            "Design a mixed methods approach that would capture both quantitative implementation outcomes and qualitative understanding of implementation processes",
+            "Develop a stakeholder engagement plan for the research process"
+          ],
+          "assessment_criteria": [
+            "Appropriate selection and application of implementation framework",
+            "Justified hybrid design selection based on evidence state and research questions",
+            "Comprehensive identification of contextual factors affecting implementation",
+            "Integration of quantitative and qualitative methods",
+            "Meaningful stakeholder engagement throughout research process"
+          ],
+          "bloom_level": "Create",
+          "learning_objective": "LO-29.2"
+        },
+        {
+          "exercise_id": "CSE-29.2",
+          "title": "Developing a Knowledge Translation Strategy for Nutrition Research",
+          "scenario": "A multi-country research consortium has completed a large trial demonstrating that a lipid-based nutrient supplement significantly reduces stunting in children under two years. The results are ready for publication, but the consortium wants to ensure the findings influence policy and practice in the participating countries (Ethiopia, Bangladesh, and Guatemala) and globally.",
+          "tasks": [
+            "Develop a knowledge translation plan that addresses different target audiences (policy-makers, program implementers, community stakeholders, global health community)",
+            "Create an evidence brief template suitable for Ministry of Health audiences in participating countries",
+            "Design a deliberative dialogue process for engaging stakeholders in evidence interpretation",
+            "Identify potential barriers to evidence uptake in each context and strategies to address them",
+            "Propose metrics for evaluating knowledge translation impact"
+          ],
+          "assessment_criteria": [
+            "Tailored communication strategies for different audiences",
+            "Clear, actionable evidence brief content",
+            "Inclusive deliberative process design",
+            "Context-specific barrier analysis and mitigation strategies",
+            "Appropriate knowledge translation outcome measures"
+          ],
+          "bloom_level": "Create",
+          "learning_objective": "LO-29.3"
+        },
+        {
+          "exercise_id": "CSE-29.3",
+          "title": "Ethical Review of a Multi-Site Vaccine Trial",
+          "scenario": "A pharmaceutical company proposes a Phase III vaccine trial for a novel pathogen in three sites: a high-income country (Germany), an upper-middle-income country (Brazil), and a low-income country (Malawi). You are on an ethics committee reviewing the protocol.",
+          "tasks": [
+            "Identify the key ethical issues raised by this multi-site trial design, particularly regarding site selection and benefit distribution",
+            "Assess the informed consent process proposed for each site and recommend improvements",
+            "Evaluate the proposed community engagement approach and suggest enhancements",
+            "Develop recommendations for post-trial access and benefit-sharing arrangements",
+            "Consider how principles of decolonizing research should inform the trial design and partnerships"
+          ],
+          "assessment_criteria": [
+            "Comprehensive identification of ethical issues",
+            "Context-appropriate consent process recommendations",
+            "Meaningful community engagement strategies",
+            "Fair and feasible benefit-sharing proposals",
+            "Application of equity and decolonizing principles"
+          ],
+          "bloom_level": "Evaluate",
+          "learning_objective": "LO-29.4"
+        },
+        {
+          "exercise_id": "CSE-29.4",
+          "title": "Evaluating a Research Capacity Strengthening Program",
+          "scenario": "A 10-year research capacity strengthening program funded by a major foundation has been implemented at three universities in East Africa. The program included PhD training, institutional infrastructure, research grants, and mentorship. The funder has requested an independent evaluation of the program's impact and sustainability.",
+          "tasks": [
+            "Design an evaluation framework that captures capacity strengthening at individual, institutional, and system levels",
+            "Propose indicators for measuring research capacity beyond traditional bibliometric measures",
+            "Develop a methodology for assessing sustainability and potential for continued impact after external funding ends",
+            "Identify potential unintended consequences of the program (positive and negative) and how to assess them",
+            "Make recommendations for future program design based on evaluation findings"
+          ],
+          "assessment_criteria": [
+            "Multi-level evaluation framework design",
+            "Innovative and appropriate capacity indicators",
+            "Rigorous sustainability assessment methodology",
+            "Consideration of unintended consequences",
+            "Evidence-based recommendations for improvement"
+          ],
+          "bloom_level": "Evaluate",
+          "learning_objective": "LO-29.5"
+        }
+      ]
+    }
+  },
+  "references": {
+    "total_count": 56,
+    "primary_source_percentage": 92
+  },
+  "quality_metrics": {
+    "primary_source_percentage": 92,
+    "recent_reference_percentage": 78,
+    "geographic_coverage_score": 6,
+    "income_level_coverage": 4,
+    "evidence_quality_score": 4.5,
+    "fact_check_status": "pending",
+    "expert_review_status": "pending"
+  }
+}

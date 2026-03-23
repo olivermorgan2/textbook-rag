@@ -1,0 +1,176 @@
+{
+  "chapter_number": 32,
+  "title": "Human Resources for Health",
+  "part": {
+    "part_number": 7,
+    "part_title": "Policy, Economics, and Governance"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "cross_references": [
+    {
+      "chapter": 4,
+      "title": "Global Health Systems and Universal Health Coverage",
+      "relevance": "Health workforce as health system building block"
+    },
+    {
+      "chapter": 27,
+      "title": "Global Health Partnerships and Initiatives",
+      "relevance": "International health workforce initiatives"
+    },
+    {
+      "chapter": 30,
+      "title": "Health Economics and Financing",
+      "relevance": "Health workforce financing and investment"
+    },
+    {
+      "chapter": 33,
+      "title": "Health Equity and Human Rights",
+      "relevance": "Equitable distribution and access to health workers"
+    }
+  ],
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define key concepts in health workforce planning including skill mix, workforce density, and distribution ratios"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the causes and consequences of health worker migration and brain drain in low- and middle-income countries"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply needs-based workforce planning methodologies to project health workforce requirements for specific populations"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the effectiveness and safety of task shifting interventions across different health system contexts"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design comprehensive health workforce development strategies addressing recruitment, training, deployment, and retention"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate community health worker programs and their integration into formal health systems"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Global health workforce crisis and shortages"
+    },
+    {
+      "topic": "Health workforce distribution and skill mix"
+    },
+    {
+      "topic": "Health worker migration and ethical recruitment"
+    },
+    {
+      "topic": "Workforce planning and forecasting methodologies"
+    },
+    {
+      "topic": "Pre-service and in-service training systems"
+    },
+    {
+      "topic": "Task shifting and task sharing interventions"
+    },
+    {
+      "topic": "Community health worker programs"
+    },
+    {
+      "topic": "Health worker motivation and retention"
+    },
+    {
+      "topic": "Workforce governance and regulation"
+    },
+    {
+      "topic": "Interprofessional collaboration and team-based care"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Ethiopia Health Extension Program",
+      "country": "Ethiopia",
+      "who_region": "African Region",
+      "income_level": "Low income",
+      "focus": "Community health worker deployment and primary care expansion"
+    },
+    {
+      "title": "Malawi Emergency Human Resources Programme",
+      "country": "Malawi",
+      "who_region": "African Region",
+      "income_level": "Low income",
+      "focus": "Salary top-ups and retention incentives for health workers"
+    },
+    {
+      "title": "NIMART Initiative South Africa",
+      "country": "South Africa",
+      "who_region": "African Region",
+      "income_level": "Upper-middle income",
+      "focus": "Nurse-initiated HIV treatment task shifting"
+    },
+    {
+      "title": "Cuban Medical Internationalism",
+      "country": "Cuba",
+      "who_region": "Region of the Americas",
+      "income_level": "Upper-middle income",
+      "focus": "South-South health workforce cooperation"
+    },
+    {
+      "title": "Thailand Rural Recruitment Programme",
+      "country": "Thailand",
+      "who_region": "South-East Asia Region",
+      "income_level": "Upper-middle income",
+      "focus": "Rural recruitment and retention strategies"
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low income",
+      "Lower-middle income",
+      "Upper-middle income",
+      "High income"
+    ]
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 10
+    },
+    "short_answer_questions": {
+      "count": 5
+    },
+    "case_study_exercises": {
+      "count": 2
+    },
+    "policy_analysis_exercises": {
+      "count": 2
+    }
+  },
+  "references": {
+    "reference_types": [
+      "Peer-reviewed journal articles",
+      "WHO technical reports",
+      "Systematic reviews and meta-analyses",
+      "Health workforce intervention studies",
+      "National health workforce assessments"
+    ],
+    "citation_style": "Vancouver"
+  },
+  "quality_metrics": {
+    "evidence_based_claims": true,
+    "primary_sources_only": true,
+    "global_representation": true,
+    "practical_applications": true,
+    "bloom_taxonomy_alignment": true
+  }
+}

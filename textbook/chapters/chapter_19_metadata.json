@@ -1,0 +1,243 @@
+{
+  "chapter_number": 19,
+  "title": "Adolescent and Youth Health",
+  "part": {
+    "part_number": 4,
+    "part_title": "Special Populations and Life Course Approach"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "citation_style": "Vancouver",
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define the adolescent period and describe key developmental changes (physical, cognitive, social, emotional)"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Identify major health risks and protective factors affecting adolescents globally"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Explain the epidemiology of key adolescent health issues across different populations"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Describe youth-friendly service delivery principles and their rationale"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Compare adolescent health patterns across WHO regions and income levels"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Summarize evidence-based interventions for adolescent health promotion"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply developmental frameworks to design age-appropriate health interventions"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Use epidemiological data to prioritize adolescent health interventions in different settings"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Implement participatory approaches in adolescent health program planning"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze barriers to adolescent healthcare access and utilization"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate the effectiveness of different school-based health intervention models"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Assess the role of technology in improving adolescent health outcomes"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design comprehensive youth-friendly health services for diverse populations"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop integrated approaches addressing multiple adolescent health risks"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Create strategies for engaging families and communities in adolescent health"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critique existing adolescent health policies and programs using evidence-based criteria"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Assess the cost-effectiveness of different adolescent health interventions"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate ethical considerations in adolescent health research and service delivery"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Developmental Aspects"
+    },
+    {
+      "topic": "Health Issues"
+    },
+    {
+      "topic": "Service Delivery"
+    },
+    {
+      "topic": "Interventions"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Brazil's National Policy for Comprehensive Care of Adolescents",
+      "who_region": "Region of the Americas",
+      "income_level": "Upper-middle income",
+      "geographic_focus": "Americas (Upper-Middle Income)",
+      "population_size": "10-19 year olds",
+      "intervention_type": [
+        "Policy and health system strengthening"
+      ],
+      "key_lessons": [
+        "Comprehensive policy development and implementation"
+      ]
+    },
+    {
+      "title": "Good2Talk: Mental Health Technology Platform for Youth in Canada",
+      "who_region": "Region of the Americas",
+      "income_level": "High income",
+      "geographic_focus": "Americas (High Income)",
+      "population_size": "18-24 year olds",
+      "intervention_type": [
+        "Digital health technology"
+      ],
+      "key_lessons": [
+        "Technology-enabled youth mental health services"
+      ]
+    },
+    {
+      "title": "DREAMS Initiative: HIV Prevention for Adolescent Girls in Sub-Saharan Africa",
+      "who_region": "African Region",
+      "income_level": "Mixed (low and lower-middle income)",
+      "geographic_focus": "Sub-Saharan Africa (Mixed Income Levels)",
+      "population_size": "10-24 year old females",
+      "intervention_type": [
+        "Comprehensive HIV prevention"
+      ],
+      "key_lessons": [
+        "Multi-sectoral approaches to adolescent health"
+      ]
+    },
+    {
+      "title": "Health Promoting Schools in Thailand",
+      "who_region": "South-East Asia Region",
+      "income_level": "Upper-middle income",
+      "geographic_focus": "Southeast Asia (Upper-Middle Income)",
+      "population_size": "6-18 year olds",
+      "intervention_type": [
+        "School-based health promotion"
+      ],
+      "key_lessons": [
+        "Comprehensive school health implementation"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low income",
+      "Lower-middle income",
+      "Upper-middle income",
+      "High income"
+    ],
+    "urban_rural_contexts": [
+      "Urban",
+      "Rural",
+      "Mixed"
+    ]
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 3,
+      "items": [
+        {
+          "question": "Which of the following best describes the adolescent brain development pattern?",
+          "options": [
+            "Linear development from childhood to adulthood",
+            "Prefrontal cortex develops before limbic system",
+            "Limbic system develops before prefrontal cortex",
+            "No significant brain changes during adolescence"
+          ],
+          "correct_answer": "C",
+          "rationale": "The limbic system, responsible for emotion and reward processing, develops earlier than the prefrontal cortex, which controls executive functions and decision-making. This explains increased risk-taking and emotional intensity during adolescence."
+        },
+        {
+          "question": "According to WHO, youth-friendly health services should be characterized by all EXCEPT:",
+          "options": [
+            "Accessible location and convenient hours",
+            "Mandatory parental consent for all services",
+            "Non-judgmental and respectful staff attitudes",
+            "Affordable and appropriate services"
+          ],
+          "correct_answer": "B",
+          "rationale": "While some services may require parental consent, youth-friendly services should provide confidential care when appropriate and legally permissible, particularly for sexual and reproductive health services."
+        },
+        {
+          "question": "The DREAMS initiative primarily targets which population and health outcome?",
+          "options": [
+            "Adolescent boys for substance use prevention",
+            "Young women for maternal health",
+            "Adolescent girls and young women for HIV prevention",
+            "All adolescents for mental health promotion"
+          ],
+          "correct_answer": "C",
+          "rationale": "DREAMS (Determined, Resilient, Empowered, AIDS-free, Mentored, and Safe) specifically targets adolescent girls and young women aged 10-24 years for comprehensive HIV prevention in high-burden settings."
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 2,
+      "items": [
+        {
+          "question": "Describe three key principles of youth-friendly health services and explain why each is important for adolescent health outcomes.",
+          "key_points": [
+            "Accessibility: Convenient location, hours, and no/low cost barriers",
+            "Acceptability: Respectful, non-judgmental, confidential care",
+            "Appropriateness: Age-appropriate information and services",
+            "Effectiveness: Evidence-based interventions with good outcomes"
+          ]
+        },
+        {
+          "question": "Compare and contrast the health risks and protective factors for adolescents in high-income versus low-income countries.",
+          "key_points": [
+            "Shared risks: Mental health, substance use, injuries",
+            "Low-income specific: Infectious diseases, malnutrition, child marriage",
+            "High-income specific: Obesity, excessive screen time, academic pressure",
+            "Protective factors: Family support, education, community resources"
+          ]
+        }
+      ]
+    }
+  }
+}

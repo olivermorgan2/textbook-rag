@@ -1,0 +1,85 @@
+{
+  "chapter_number": 2,
+  "title": "Health Determinants and Health Equity",
+  "part": {
+    "part_number": 1,
+    "part_title": "Foundations of Global Public Health"
+  },
+  "word_count_target": {
+    "min": 7850,
+    "max": 7850
+  },
+  "estimated_reading_time": "35-40 minutes",
+  "difficulty_level": "intermediate",
+  "prerequisites": [
+    "Chapter 1: Introduction to Global Public Health"
+  ],
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define key concepts including social determinants of health, health equity, and structural determinants"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the WHO Commission on Social Determinants of Health conceptual framework and its components"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply determinants of health frameworks to analyze health disparities in different global contexts"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze complex causal pathways between social, environmental, and economic determinants and health outcomes"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate evidence for interventions addressing upstream social determinants of health"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design comprehensive strategies to address health inequities using multi-sectoral approaches"
+    }
+  ],
+  "key_concepts": [
+    "Social determinants of health",
+    "Health equity vs. health equality",
+    "Structural determinants",
+    "Intermediary determinants",
+    "Intersectionality",
+    "Social gradient",
+    "Life course approach",
+    "Proportionate universalism",
+    "Health in all policies",
+    "Environmental justice"
+  ],
+  "case_studies": [
+    {
+      "title": "United Kingdom's Health Inequalities Strategy: Addressing the Social Gradient",
+      "focus": "Comprehensive national approach to health inequalities",
+      "key_lessons": [
+        "Importance of political commitment, cross-government action, local implementation"
+      ]
+    },
+    {
+      "title": "Brazil's Bolsa Família: Conditional Cash Transfers and Health Equity",
+      "focus": "Social protection program addressing multiple determinants",
+      "key_lessons": [
+        "Intersectoral coordination, targeting vulnerable populations, measurable outcomes"
+      ]
+    },
+    {
+      "title": "Urban-Rural Health Disparities in Sub-Saharan Africa",
+      "focus": "Geographic inequities in health access and outcomes",
+      "key_lessons": [
+        "Infrastructure, service delivery models, equity measurement"
+      ]
+    },
+    {
+      "title": "Indigenous Health Determinants in High-Income Countries",
+      "focus": "Structural racism, cultural determinants, self-determination",
+      "key_lessons": [
+        "Historical trauma, cultural safety, community-led approaches"
+      ]
+    }
+  ]
+}

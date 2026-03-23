@@ -1,0 +1,454 @@
+{
+  "chapter_number": 25,
+  "title": "Conflict, Displacement, and Humanitarian Health",
+  "part": {
+    "part_number": 5,
+    "part_title": "Environmental and Social Determinants"
+  },
+  "authors": [
+    {
+      "name": "Global Public Health Collective",
+      "affiliation": "International Health Systems",
+      "credentials": "MD, MPH, PhD"
+    }
+  ],
+  "keywords": [
+    "humanitarian health",
+    "conflict health impacts",
+    "forced displacement",
+    "refugees",
+    "internally displaced persons",
+    "emergency preparedness",
+    "health system resilience",
+    "mental health emergencies",
+    "nutrition emergencies",
+    "protection approaches",
+    "health security",
+    "humanitarian coordination",
+    "post-conflict recovery",
+    "health system reconstruction"
+  ],
+  "word_count_target": {
+    "min": 7850,
+    "max": 7850
+  },
+  "estimated_reading_time": "35-40 minutes",
+  "learning_objectives": [
+    {
+      "objective_id": "LO-25.1",
+      "bloom_level": "Analyze",
+      "text": "Analyze the direct and indirect health impacts of armed conflict and complex humanitarian emergencies across different populations and contexts",
+      "assessment_method": "Case study analysis",
+      "sdg_target": "3.8"
+    },
+    {
+      "objective_id": "LO-25.2",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the health needs and vulnerabilities of refugees, internally displaced persons, and conflict-affected populations",
+      "assessment_method": "Needs assessment exercise",
+      "sdg_target": "3.8"
+    },
+    {
+      "objective_id": "LO-25.3",
+      "bloom_level": "Create",
+      "text": "Design comprehensive humanitarian health responses incorporating emergency preparedness, rapid response, and coordination mechanisms",
+      "assessment_method": "Response plan development",
+      "sdg_target": "3.d"
+    },
+    {
+      "objective_id": "LO-25.4",
+      "bloom_level": "Apply",
+      "text": "Apply international humanitarian standards including Sphere standards and the Minimum Initial Service Package for reproductive health",
+      "assessment_method": "Standards implementation exercise",
+      "sdg_target": "3.8"
+    },
+    {
+      "objective_id": "LO-25.5",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate mental health and psychosocial support interventions in humanitarian settings, considering trauma-informed and culturally appropriate approaches",
+      "assessment_method": "Program evaluation critique",
+      "sdg_target": "3.4"
+    },
+    {
+      "objective_id": "LO-25.6",
+      "bloom_level": "Create",
+      "text": "Synthesize evidence on nutrition interventions in emergency settings including acute malnutrition management and micronutrient supplementation programs",
+      "assessment_method": "Literature review",
+      "sdg_target": "2.2"
+    },
+    {
+      "objective_id": "LO-25.7",
+      "bloom_level": "Create",
+      "text": "Create epidemic prevention and response strategies for disease outbreaks in humanitarian emergencies",
+      "assessment_method": "Outbreak response protocol",
+      "sdg_target": "3.d"
+    },
+    {
+      "objective_id": "LO-25.8",
+      "bloom_level": "Analyze",
+      "text": "Analyze approaches to health system recovery and reconstruction in post-conflict settings, incorporating resilience frameworks and protection principles",
+      "assessment_method": "Recovery strategy analysis",
+      "sdg_target": "16.a"
+    }
+  ],
+  "content_sections": [
+    {
+      "section_id": "introduction",
+      "title": "Introduction",
+      "word_count": 450,
+      "subsections": [
+        "Context and Scope",
+        "Conceptual Framework",
+        "Chapter Overview"
+      ],
+      "key_concepts": [
+        "humanitarian emergencies",
+        "complex emergency",
+        "humanitarian-development nexus"
+      ]
+    },
+    {
+      "section_id": "health-impacts-conflict",
+      "title": "Health Impacts of Armed Conflict and Complex Emergencies",
+      "word_count": 1200,
+      "subsections": [
+        "Direct Health Effects of Violence",
+        "Indirect Health Consequences",
+        "Long-term Health Impacts",
+        "Differential Population Impacts"
+      ],
+      "figures": [
+        {
+          "figure_id": "25.1",
+          "title": "Conceptual Framework: Health Impacts of Armed Conflict",
+          "description": "Framework showing direct and indirect pathways from conflict to health outcomes"
+        }
+      ],
+      "key_concepts": [
+        "war trauma",
+        "excess mortality",
+        "health system collapse",
+        "vulnerable populations"
+      ]
+    },
+    {
+      "section_id": "forced-displacement",
+      "title": "Forced Displacement and Population Health",
+      "word_count": 1100,
+      "subsections": [
+        "Refugee Health Needs and Vulnerabilities",
+        "Internally Displaced Persons",
+        "Urban Displacement Challenges",
+        "Protracted Displacement Situations"
+      ],
+      "tables": [
+        {
+          "table_id": "25.1",
+          "title": "Health Vulnerabilities by Displacement Status",
+          "description": "Comparison of health risks across different displaced populations"
+        }
+      ],
+      "key_concepts": [
+        "refugee health",
+        "IDP vulnerabilities",
+        "urban displacement",
+        "protracted crises"
+      ]
+    },
+    {
+      "section_id": "humanitarian-response",
+      "title": "Humanitarian Health Response Systems",
+      "word_count": 950,
+      "subsections": [
+        "Emergency Preparedness Frameworks",
+        "Rapid Response Mechanisms",
+        "Humanitarian Coordination Systems",
+        "Resource Mobilization and Funding"
+      ],
+      "figures": [
+        {
+          "figure_id": "25.2",
+          "title": "Humanitarian Response Architecture",
+          "description": "Organizational structure of international humanitarian response systems"
+        }
+      ],
+      "key_concepts": [
+        "emergency preparedness",
+        "rapid response",
+        "humanitarian coordination",
+        "cluster approach"
+      ]
+    },
+    {
+      "section_id": "health-service-delivery",
+      "title": "Health Service Delivery in Humanitarian Emergencies",
+      "word_count": 800,
+      "subsections": [
+        "Sphere Standards and Humanitarian Charter",
+        "Minimum Initial Service Package",
+        "Essential Health Services Delivery",
+        "Health Facility Protection"
+      ],
+      "tables": [
+        {
+          "table_id": "25.2",
+          "title": "Sphere Health Standards: Key Indicators",
+          "description": "Overview of minimum standards for health services in humanitarian response"
+        }
+      ],
+      "key_concepts": [
+        "Sphere standards",
+        "MISP",
+        "essential health services",
+        "health facility protection"
+      ]
+    },
+    {
+      "section_id": "mental-health-psychosocial",
+      "title": "Mental Health and Psychosocial Support in Emergencies",
+      "word_count": 1000,
+      "subsections": [
+        "Trauma and Mental Health in Conflict",
+        "MHPSS Intervention Framework",
+        "Community-Based Approaches",
+        "Cultural Considerations and Local Capacity"
+      ],
+      "figures": [
+        {
+          "figure_id": "25.3",
+          "title": "IASC MHPSS Intervention Pyramid",
+          "description": "Multi-layered approach to mental health and psychosocial support in emergencies"
+        }
+      ],
+      "key_concepts": [
+        "trauma-informed care",
+        "MHPSS",
+        "community resilience",
+        "cultural adaptation"
+      ]
+    },
+    {
+      "section_id": "nutrition-emergencies",
+      "title": "Nutrition in Humanitarian Emergencies",
+      "word_count": 900,
+      "subsections": [
+        "Acute Malnutrition in Emergencies",
+        "Feeding Programs and Management",
+        "Micronutrient Supplementation",
+        "Infant and Young Child Feeding"
+      ],
+      "tables": [
+        {
+          "table_id": "25.3",
+          "title": "Classification of Acute Malnutrition: WHO Standards",
+          "description": "WHO standards for identifying and classifying acute malnutrition in emergencies"
+        }
+      ],
+      "key_concepts": [
+        "acute malnutrition",
+        "therapeutic feeding",
+        "micronutrient deficiency",
+        "IYCF-E"
+      ]
+    },
+    {
+      "section_id": "epidemic-prevention",
+      "title": "Epidemic Prevention and Response in Humanitarian Settings",
+      "word_count": 850,
+      "subsections": [
+        "Disease Outbreak Risks in Emergencies",
+        "Surveillance and Early Warning Systems",
+        "Vaccination Campaigns in Emergencies",
+        "Outbreak Investigation and Response"
+      ],
+      "figures": [
+        {
+          "figure_id": "25.4",
+          "title": "Emergency Epidemic Response Timeline",
+          "description": "Timeline showing key activities in epidemic prevention and response during emergencies"
+        }
+      ],
+      "key_concepts": [
+        "epidemic risk",
+        "surveillance systems",
+        "emergency vaccination",
+        "outbreak response"
+      ]
+    },
+    {
+      "section_id": "health-system-recovery",
+      "title": "Health System Recovery and Reconstruction",
+      "word_count": 800,
+      "subsections": [
+        "Post-Conflict Health System Assessment",
+        "Rebuilding Health Infrastructure",
+        "Health Workforce Development",
+        "Transition to Development Programming"
+      ],
+      "figures": [
+        {
+          "figure_id": "25.5",
+          "title": "Health System Resilience Framework",
+          "description": "Framework for building resilient health systems in post-conflict settings"
+        }
+      ],
+      "key_concepts": [
+        "health system resilience",
+        "post-conflict reconstruction",
+        "capacity building",
+        "development transition"
+      ]
+    },
+    {
+      "section_id": "protection-approaches",
+      "title": "Rights-Based and Protection Approaches",
+      "word_count": 750,
+      "subsections": [
+        "Right to Health in Humanitarian Settings",
+        "Protection of Healthcare Facilities",
+        "Gender-Based Violence Prevention",
+        "Child Protection and Health"
+      ],
+      "tables": [
+        {
+          "table_id": "25.4",
+          "title": "Protection Principles in Humanitarian Health Programming",
+          "description": "Core protection principles and their application in health service delivery"
+        }
+      ],
+      "key_concepts": [
+        "right to health",
+        "healthcare protection",
+        "GBV prevention",
+        "child protection"
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "case_study_id": "CS-25.1",
+      "title": "Syrian Refugee Health Response in Jordan: Multi-Sectoral Coordination",
+      "country": "Jordan",
+      "who_region": "Eastern Mediterranean Region",
+      "income_level": "Upper-middle income",
+      "population_size": "1.3 million Syrian refugees",
+      "time_period": "2011-2023",
+      "intervention_type": [
+        "health system strengthening",
+        "refugee health services",
+        "coordination mechanisms"
+      ],
+      "outcomes": [
+        "health service coverage",
+        "maternal mortality",
+        "vaccination coverage",
+        "mental health services"
+      ],
+      "primary_references": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "case_study_id": "CS-25.2",
+      "title": "Post-Ebola Health System Recovery in Sierra Leone: Building Back Better",
+      "country": "Sierra Leone",
+      "who_region": "African Region",
+      "income_level": "Low income",
+      "population_size": "7.8 million",
+      "time_period": "2015-2020",
+      "intervention_type": [
+        "health system reconstruction",
+        "epidemic preparedness",
+        "workforce development"
+      ],
+      "outcomes": [
+        "health service delivery",
+        "epidemic preparedness capacity",
+        "maternal mortality",
+        "health worker density"
+      ],
+      "primary_references": [
+        51,
+        52
+      ]
+    },
+    {
+      "case_study_id": "CS-25.3",
+      "title": "Mental Health Response for Rohingya Refugees in Bangladesh: Community-Based MHPSS",
+      "country": "Bangladesh",
+      "who_region": "South-East Asia Region",
+      "income_level": "Lower-middle income",
+      "population_size": "1 million Rohingya refugees",
+      "time_period": "2017-2023",
+      "intervention_type": [
+        "mental health services",
+        "psychosocial support",
+        "community-based interventions"
+      ],
+      "outcomes": [
+        "mental health service coverage",
+        "psychological distress",
+        "community functioning"
+      ],
+      "primary_references": [
+        53,
+        54
+      ]
+    },
+    {
+      "case_study_id": "CS-25.4",
+      "title": "Health System Resilience During Afghanistan Crisis: Maintaining Services Amid Collapse",
+      "country": "Afghanistan",
+      "who_region": "Eastern Mediterranean Region",
+      "income_level": "Low income",
+      "population_size": "39 million",
+      "time_period": "2021-2023",
+      "intervention_type": [
+        "emergency health services",
+        "humanitarian funding",
+        "protection measures"
+      ],
+      "outcomes": [
+        "essential health service continuity",
+        "maternal mortality",
+        "malnutrition rates",
+        "health worker retention"
+      ],
+      "primary_references": [
+        55,
+        56
+      ]
+    }
+  ],
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 10
+    },
+    "short_answer_questions": {
+      "count": 6
+    }
+  },
+  "references": {
+    "total_count": 56,
+    "primary_sources": 52,
+    "secondary_sources": 4
+  },
+  "quality_metrics": {
+    "primary_source_percentage": 93,
+    "recent_reference_percentage": 45,
+    "geographic_coverage_score": 6,
+    "income_level_coverage": 4,
+    "evidence_quality_score": 8.5,
+    "word_count_target_met": true,
+    "learning_objectives_bloom_distribution": {
+      "remember": 0,
+      "understand": 0,
+      "apply": 1,
+      "analyze": 3,
+      "evaluate": 2,
+      "create": 2
+    }
+  }
+}

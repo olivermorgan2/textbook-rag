@@ -1,0 +1,219 @@
+{
+  "chapter_number": 7,
+  "title": "Respiratory Infections",
+  "part": {
+    "part_number": 2,
+    "part_title": "Communicable Diseases"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "cross_references": {
+    "previous_chapters": [
+      "Chapter 5: Infectious Disease Fundamentals",
+      "Chapter 6: Vaccine-Preventable Diseases"
+    ],
+    "related_chapters": [
+      "Chapter 11: Emerging and Re-emerging Infectious Diseases",
+      "Chapter 18: Maternal and Child Health",
+      "Chapter 22: Environmental Health",
+      "Chapter 25: Conflict, Displacement, and Humanitarian Health"
+    ]
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define the epidemiology and global burden of major respiratory infections including tuberculosis, influenza, COVID-19, and pneumonia"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Identify key risk factors and transmission dynamics of respiratory pathogens across different populations and settings"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Describe the clinical presentations and diagnostic approaches for major respiratory infections"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the mechanisms of transmission prevention and infection control for respiratory pathogens"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Compare different surveillance systems and approaches for respiratory infection monitoring"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Summarize treatment protocols and public health management strategies for major respiratory diseases"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply tuberculosis control strategies including DOTS and drug resistance management in diverse settings"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Implement infection prevention and control measures in healthcare and community settings"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Design respiratory infection surveillance systems appropriate for different resource contexts"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the effectiveness of different pandemic preparedness and response strategies"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate the impact of social determinants on respiratory infection outcomes"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Assess the role of environmental factors in respiratory disease transmission and prevention"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop integrated respiratory infection control programs combining clinical and public health approaches"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design comprehensive tuberculosis elimination strategies addressing drug resistance and social factors"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Create pandemic preparedness frameworks incorporating lessons from COVID-19 and influenza responses"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critically evaluate respiratory infection control policies and their population health impact"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Judge the effectiveness of different tuberculosis treatment regimens and programmatic approaches"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Assess the quality and appropriateness of respiratory infection surveillance and response systems"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Tuberculosis epidemiology and control"
+    },
+    {
+      "topic": "Drug-resistant tuberculosis management"
+    },
+    {
+      "topic": "DOTS and DOTS-Plus strategies"
+    },
+    {
+      "topic": "Latent tuberculosis infection"
+    },
+    {
+      "topic": "Influenza surveillance and pandemic preparedness"
+    },
+    {
+      "topic": "COVID-19 pandemic response and lessons learned"
+    },
+    {
+      "topic": "SARS-CoV-2 variants and evolution"
+    },
+    {
+      "topic": "Long COVID and post-acute sequelae"
+    },
+    {
+      "topic": "Childhood pneumonia and integrated management"
+    },
+    {
+      "topic": "Vaccine-preventable respiratory infections"
+    },
+    {
+      "topic": "Lower respiratory tract infections across age groups"
+    },
+    {
+      "topic": "Indoor air pollution and respiratory health"
+    },
+    {
+      "topic": "Infection prevention and control in healthcare"
+    },
+    {
+      "topic": "Contact tracing and outbreak investigation"
+    },
+    {
+      "topic": "Laboratory diagnosis and molecular epidemiology"
+    },
+    {
+      "topic": "Treatment adherence and patient support systems"
+    },
+    {
+      "topic": "Health system impacts of respiratory pandemics"
+    },
+    {
+      "topic": "Respiratory infection surveillance systems"
+    },
+    {
+      "topic": "Environmental determinants of respiratory health"
+    },
+    {
+      "topic": "Social determinants and health equity in respiratory infections"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Peru's DOTS-Plus Implementation for MDR-TB",
+      "who_region": "Region of the Americas",
+      "income_level": "Upper-middle income",
+      "focus": "Programmatic management of drug-resistant tuberculosis"
+    },
+    {
+      "title": "Rwanda's Influenza Surveillance and Pandemic Preparedness",
+      "who_region": "African Region",
+      "income_level": "Low income",
+      "focus": "Building influenza surveillance capacity in sub-Saharan Africa"
+    },
+    {
+      "title": "COVID-19 Response Comparison: New Zealand vs Brazil",
+      "who_region": "Western Pacific Region",
+      "income_level": "High income / Upper-middle income",
+      "focus": "Contrasting pandemic response strategies and outcomes"
+    },
+    {
+      "title": "Pneumonia Case Management in rural Bangladesh",
+      "who_region": "South-East Asia Region",
+      "income_level": "Lower-middle income",
+      "focus": "Integrated Management of Childhood Illness (IMCI) implementation"
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low income",
+      "Lower-middle income",
+      "Upper-middle income",
+      "High income"
+    ],
+    "urban_rural_contexts": [
+      "Urban",
+      "Rural"
+    ]
+  },
+  "multimedia_elements": [
+    "Tuberculosis treatment algorithm flowcharts",
+    "Influenza surveillance system diagrams",
+    "COVID-19 variant emergence timelines",
+    "Pneumonia case management protocols",
+    "Infection control procedure videos",
+    "Global respiratory infection burden maps",
+    "Drug resistance surveillance data visualizations"
+  ]
+}

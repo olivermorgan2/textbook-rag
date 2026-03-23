@@ -1,0 +1,417 @@
+{
+  "chapter_number": 10,
+  "title": "Sexually Transmitted Infections and Blood-Borne Pathogens",
+  "part": {
+    "part_number": 2,
+    "part_title": "Communicable Diseases"
+  },
+  "version": "1.0",
+  "last_updated": "2025-01-15",
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "prerequisite_chapters": [
+    5,
+    6
+  ],
+  "related_chapters": [
+    9,
+    11,
+    18,
+    19,
+    33
+  ],
+  "learning_objectives": [
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the global epidemiology of HIV, viral hepatitis, and bacterial STIs across different populations and geographic contexts"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the effectiveness of combination prevention strategies including behavioral, biomedical, and structural interventions for STI and HIV control"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply harm reduction principles to design context-appropriate interventions for key populations at elevated risk"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design integrated sexual and reproductive health programs that address STI prevention, treatment, and stigma reduction"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critically evaluate human rights-based approaches to infectious disease control and their impact on health outcomes"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the biological, social, and structural factors contributing to antimicrobial resistance in sexually transmitted infections"
+    }
+  ],
+  "key_concepts": [
+    "HIV epidemiology and prevention cascade",
+    "Treatment as prevention (TasP)",
+    "Pre-exposure prophylaxis (PrEP)",
+    "Prevention of mother-to-child transmission (PMTCT)",
+    "Voluntary medical male circumcision (VMMC)",
+    "Viral hepatitis elimination strategies",
+    "Hepatitis B vaccination and birth dose",
+    "Hepatitis C direct-acting antivirals",
+    "Bacterial STI syndromic management",
+    "Antimicrobial resistance in Neisseria gonorrhoeae",
+    "Harm reduction and needle/syringe programs",
+    "Opioid substitution therapy",
+    "Key populations and differentiated service delivery",
+    "Stigma and discrimination reduction",
+    "Criminalization and public health outcomes",
+    "Sexual and reproductive health integration",
+    "Comprehensive sexuality education",
+    "U=U (Undetectable = Untransmittable)"
+  ],
+  "key_terms": [
+    {
+      "term": "Antiretroviral therapy (ART)"
+    },
+    {
+      "term": "Combination prevention"
+    },
+    {
+      "term": "Direct-acting antivirals (DAAs)"
+    },
+    {
+      "term": "Harm reduction"
+    },
+    {
+      "term": "Key populations"
+    },
+    {
+      "term": "Mother-to-child transmission (MTCT)"
+    },
+    {
+      "term": "Needle and syringe programs (NSP)"
+    },
+    {
+      "term": "Opioid substitution therapy (OST)"
+    },
+    {
+      "term": "Pre-exposure prophylaxis (PrEP)"
+    },
+    {
+      "term": "Post-exposure prophylaxis (PEP)"
+    },
+    {
+      "term": "Prevention of mother-to-child transmission (PMTCT)"
+    },
+    {
+      "term": "Seroprevalence"
+    },
+    {
+      "term": "Syndromic management"
+    },
+    {
+      "term": "Treatment as prevention (TasP)"
+    },
+    {
+      "term": "U=U (Undetectable = Untransmittable)"
+    },
+    {
+      "term": "Vertical transmission"
+    },
+    {
+      "term": "Viral load suppression"
+    },
+    {
+      "term": "Voluntary medical male circumcision (VMMC)"
+    }
+  ],
+  "content_sections": [
+    {
+      "section_id": "10.1",
+      "title": "Introduction to Sexually Transmitted Infections and Blood-Borne Pathogens",
+      "subsections": [
+        "Global burden and epidemiological patterns",
+        "Biological and social determinants of transmission",
+        "Syndemic relationships and co-infections",
+        "Historical context and evolution of responses"
+      ]
+    },
+    {
+      "section_id": "10.2",
+      "title": "HIV/AIDS: Global Epidemiology and Response",
+      "subsections": [
+        "Global HIV epidemiology and regional variations",
+        "HIV prevention cascade and combination prevention",
+        "Biomedical interventions: PrEP, PEP, VMMC",
+        "Prevention of mother-to-child transmission",
+        "Treatment as prevention and viral suppression",
+        "The 95-95-95 targets and progress"
+      ]
+    },
+    {
+      "section_id": "10.3",
+      "title": "Viral Hepatitis B and C",
+      "subsections": [
+        "Hepatitis B epidemiology and natural history",
+        "Hepatitis B vaccination strategies and birth dose",
+        "Hepatitis C epidemiology and transmission",
+        "Direct-acting antivirals and cure",
+        "WHO elimination targets and progress",
+        "Integrated screening and linkage to care"
+      ]
+    },
+    {
+      "section_id": "10.4",
+      "title": "Bacterial Sexually Transmitted Infections",
+      "subsections": [
+        "Syphilis: epidemiology and congenital syphilis elimination",
+        "Gonorrhea: rising antimicrobial resistance",
+        "Chlamydia: silent epidemic and sequelae",
+        "Mycoplasma genitalium and emerging pathogens",
+        "Syndromic management versus laboratory diagnosis",
+        "Treatment guidelines and resistance monitoring"
+      ]
+    },
+    {
+      "section_id": "10.5",
+      "title": "Comprehensive Prevention Strategies",
+      "subsections": [
+        "Behavioral interventions and risk reduction",
+        "Structural interventions and enabling environments",
+        "Combination prevention frameworks",
+        "Prevention for key populations",
+        "Youth-friendly services and comprehensive sexuality education"
+      ]
+    },
+    {
+      "section_id": "10.6",
+      "title": "Harm Reduction Approaches",
+      "subsections": [
+        "Principles and evidence base for harm reduction",
+        "Needle and syringe programs",
+        "Opioid substitution therapy",
+        "Safe injection facilities",
+        "Drug policy reform and public health outcomes"
+      ]
+    },
+    {
+      "section_id": "10.7",
+      "title": "Sexual and Reproductive Health Integration",
+      "subsections": [
+        "Integration frameworks and rationale",
+        "STI services in family planning settings",
+        "Antenatal care integration",
+        "Adolescent and youth integration models"
+      ]
+    },
+    {
+      "section_id": "10.8",
+      "title": "Stigma, Discrimination, and Human Rights",
+      "subsections": [
+        "Mechanisms and impacts of stigma",
+        "Criminalization and health outcomes",
+        "Gender-based violence and STI/HIV risk",
+        "Rights-based approaches to STI control",
+        "Community engagement and meaningful involvement"
+      ]
+    },
+    {
+      "section_id": "10.9",
+      "title": "Future Directions and Emerging Challenges",
+      "subsections": [
+        "HIV vaccine and cure research",
+        "Antimicrobial resistance threats",
+        "Long-acting prevention technologies",
+        "Health systems strengthening for sustainability"
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Thailand's 100% Condom Program: A Structural Intervention Success",
+      "income_level": "Upper-middle-income country",
+      "geographic_focus": "Thailand (South-East Asia Region)",
+      "focus": "HIV prevention through structural and policy change",
+      "key_lessons": [
+        "Government leadership and political commitment",
+        "Multi-sectoral collaboration including entertainment industry",
+        "Structural interventions addressing commercial sex contexts",
+        "Monitoring and enforcement mechanisms",
+        "Sustained implementation over decades"
+      ]
+    },
+    {
+      "title": "Taiwan's Hepatitis B Elimination Through Universal Vaccination",
+      "income_level": "High-income economy",
+      "geographic_focus": "Taiwan (Western Pacific Region)",
+      "focus": "Viral hepatitis elimination through immunization",
+      "key_lessons": [
+        "Universal newborn vaccination program design",
+        "Birth dose implementation and coverage achievement",
+        "Long-term follow-up and impact evaluation",
+        "Integration with maternal screening",
+        "Model for global hepatitis B elimination"
+      ]
+    },
+    {
+      "title": "Portugal's Drug Policy Reform: Decriminalization and Harm Reduction",
+      "income_level": "High-income country",
+      "geographic_focus": "Portugal (European Region)",
+      "focus": "Harm reduction through policy reform",
+      "key_lessons": [
+        "Decriminalization of personal drug use",
+        "Investment in treatment and harm reduction services",
+        "Reduction in HIV transmission among PWID",
+        "Improved health-seeking behavior",
+        "Policy transferability considerations"
+      ]
+    },
+    {
+      "title": "Botswana's PMTCT Program: Achieving Virtual Elimination",
+      "income_level": "Upper-middle-income country",
+      "geographic_focus": "Botswana (African Region)",
+      "focus": "PMTCT scale-up and mother-to-child transmission elimination",
+      "key_lessons": [
+        "Universal testing in antenatal care",
+        "Option B+ implementation",
+        "High coverage of antiretroviral prophylaxis",
+        "Early infant diagnosis systems",
+        "Health system integration"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low-income",
+      "Lower-middle-income",
+      "Upper-middle-income",
+      "High-income"
+    ],
+    "countries": [
+      "Thailand",
+      "Taiwan",
+      "Portugal",
+      "Botswana",
+      "South Africa",
+      "Kenya",
+      "Uganda",
+      "India",
+      "China",
+      "Brazil",
+      "United States",
+      "Australia",
+      "United Kingdom",
+      "Mozambique",
+      "Rwanda",
+      "Malawi",
+      "Cambodia",
+      "Vietnam",
+      "Switzerland",
+      "Netherlands",
+      "Canada",
+      "Egypt",
+      "Pakistan",
+      "Georgia"
+    ]
+  },
+  "sdg_alignment": [
+    {
+      "goal": "SDG 3",
+      "target": "3.3",
+      "description": "End epidemics of AIDS, tuberculosis, malaria, and neglected tropical diseases and combat hepatitis"
+    },
+    {
+      "goal": "SDG 3",
+      "target": "3.7",
+      "description": "Universal access to sexual and reproductive health-care services"
+    },
+    {
+      "goal": "SDG 5",
+      "target": "5.6",
+      "description": "Universal access to sexual and reproductive health and reproductive rights"
+    },
+    {
+      "goal": "SDG 10",
+      "target": "10.2",
+      "description": "Empower and promote social, economic, and political inclusion of all"
+    }
+  ],
+  "cross_cutting_themes": [
+    "Health equity and social determinants",
+    "Human rights and dignity",
+    "Gender and sexuality",
+    "Key populations and vulnerable groups",
+    "Health systems strengthening",
+    "Community engagement and participation",
+    "Stigma and discrimination",
+    "Integration of services",
+    "Evidence-based policy"
+  ],
+  "multimedia_elements": [
+    {
+      "type": "figure",
+      "description": "Global HIV prevalence map by country",
+      "source": "UNAIDS Global AIDS Update"
+    },
+    {
+      "type": "figure",
+      "description": "HIV prevention cascade diagram",
+      "source": "WHO guidelines"
+    },
+    {
+      "type": "table",
+      "description": "Comparison of STI syndromic versus etiologic management",
+      "source": "Author-created based on WHO guidelines"
+    },
+    {
+      "type": "figure",
+      "description": "Hepatitis B and C global prevalence",
+      "source": "WHO Global Hepatitis Report"
+    },
+    {
+      "type": "figure",
+      "description": "Combination prevention framework",
+      "source": "Adapted from UNAIDS"
+    },
+    {
+      "type": "table",
+      "description": "Harm reduction interventions and evidence base",
+      "source": "Author-created based on systematic reviews"
+    }
+  ],
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 15
+    },
+    "short_answer_questions": {
+      "count": 8
+    },
+    "case_study_exercises": {
+      "count": 3
+    },
+    "policy_analysis_exercises": {
+      "count": 2
+    },
+    "discussion_questions": {
+      "count": 6
+    }
+  },
+  "who_frameworks": [
+    "Global Health Sector Strategy on HIV 2016-2021",
+    "Global Health Sector Strategy on Viral Hepatitis 2016-2021",
+    "Global Health Sector Strategy on STIs 2016-2021",
+    "95-95-95 Targets",
+    "Hepatitis Elimination by 2030"
+  ]
+}

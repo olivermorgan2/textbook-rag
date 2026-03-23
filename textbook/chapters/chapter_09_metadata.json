@@ -1,0 +1,256 @@
+{
+  "chapter_number": 9,
+  "title": "Water and Food-Borne Diseases",
+  "part": {
+    "part_number": 2,
+    "part_title": "Communicable Diseases"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Identify major waterborne and foodborne pathogens and their transmission mechanisms"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "List key components of WASH (Water, Sanitation, and Hygiene) interventions"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Recall epidemiological patterns of diarrheal diseases globally"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the relationship between inadequate WASH and disease transmission"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Describe the impact of climate change on water-related diseases"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Interpret water quality standards and monitoring indicators"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Design appropriate WASH interventions for different community contexts"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply behavior change principles to hygiene promotion programs"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Implement food safety systems using HACCP principles"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate the effectiveness of different water treatment technologies"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Assess linkages between WASH, nutrition, and development outcomes"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Compare sanitation technology choices for various settings"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critique current approaches to cholera outbreak response"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Judge the appropriateness of WASH interventions in emergency settings"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Assess food safety regulatory frameworks in different countries"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop comprehensive WASH strategies for rural and urban populations"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design monitoring and evaluation frameworks for WASH programs"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Formulate policy recommendations for improving food safety systems"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Diarrheal Diseases",
+      "subtopics": [
+        "Rotavirus epidemiology and vaccination",
+        "Cholera transmission and outbreak response",
+        "ETEC and traveler's diarrhea",
+        "Norovirus in institutional settings",
+        "Cryptosporidium and other protozoan parasites"
+      ]
+    },
+    {
+      "topic": "Hepatitis A and E",
+      "subtopics": [
+        "Transmission patterns and risk factors",
+        "Prevention strategies and vaccination",
+        "Outbreak investigation and control",
+        "Regional burden variations"
+      ]
+    },
+    {
+      "topic": "Food-Borne Diseases",
+      "subtopics": [
+        "Bacterial pathogens (Salmonella, E. coli, Campylobacter)",
+        "Viral foodborne illnesses",
+        "Parasitic food contamination",
+        "Foodborne disease surveillance",
+        "Food safety regulatory frameworks"
+      ]
+    },
+    {
+      "topic": "Water Quality and Safety",
+      "subtopics": [
+        "WHO water quality guidelines",
+        "Water treatment technologies",
+        "Household water treatment and safe storage",
+        "Water quality monitoring systems",
+        "Point-of-use water treatment"
+      ]
+    },
+    {
+      "topic": "Sanitation Systems",
+      "subtopics": [
+        "On-site sanitation technologies",
+        "Sewered sanitation systems",
+        "Ecological sanitation approaches",
+        "Sanitation value chain management",
+        "Fecal sludge management"
+      ]
+    },
+    {
+      "topic": "Hygiene Promotion",
+      "subtopics": [
+        "Behavior change theories and models",
+        "Handwashing promotion strategies",
+        "Community-led approaches",
+        "Hygiene in institutional settings",
+        "Menstrual hygiene management"
+      ]
+    },
+    {
+      "topic": "WASH in Special Settings",
+      "subtopics": [
+        "Healthcare facility WASH",
+        "School WASH programs",
+        "Emergency and humanitarian settings",
+        "Urban informal settlements",
+        "Rural and remote communities"
+      ]
+    },
+    {
+      "topic": "Climate Change and WASH",
+      "subtopics": [
+        "Water security and climate adaptation",
+        "Extreme weather impacts on sanitation",
+        "Vector breeding and environmental changes",
+        "Resilient WASH systems",
+        "Early warning systems"
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Cholera Outbreak Response in Yemen (2016-2019)",
+      "who_region": "Eastern Mediterranean Region",
+      "income_level": "Low-middle income",
+      "key_lessons": [
+        "Multi-sectoral coordination in emergency response",
+        "Rapid WASH intervention scale-up",
+        "Community engagement in outbreak control",
+        "Challenges of working in conflict-affected areas"
+      ]
+    },
+    {
+      "title": "Community-Led Total Sanitation in Bangladesh",
+      "who_region": "South-East Asia Region",
+      "income_level": "Lower-middle income",
+      "key_lessons": [
+        "Community ownership and sustainability",
+        "Behavior change without subsidies",
+        "Scaling up participatory approaches",
+        "Integration with health systems"
+      ]
+    },
+    {
+      "title": "Food Safety System Strengthening in Rwanda",
+      "who_region": "African Region",
+      "income_level": "Low income",
+      "key_lessons": [
+        "Regulatory framework development",
+        "Capacity building for food safety",
+        "Private sector engagement",
+        "Risk-based inspection systems"
+      ]
+    },
+    {
+      "title": "Emergency WASH in Rohingya Refugee Camps, Bangladesh",
+      "who_region": "South-East Asia Region",
+      "income_level": "Lower-middle income",
+      "key_lessons": [
+        "Rapid response in overcrowded conditions",
+        "Cultural sensitivity in WASH design",
+        "Environmental impact management",
+        "Coordination among multiple agencies"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low income (Rwanda food safety, DRC WASH)",
+      "Lower-middle income (Bangladesh, India programs)",
+      "Upper-middle income (Mexico food regulations, China reforms)",
+      "High income (EU regulations, US foodborne surveillance)"
+    ]
+  },
+  "practical_applications": [
+    "Conducting water quality assessments",
+    "Designing culturally appropriate sanitation solutions",
+    "Developing hygiene behavior change campaigns",
+    "Implementing HACCP in food production facilities",
+    "Coordinating multi-agency emergency WASH responses",
+    "Evaluating WASH program effectiveness and sustainability"
+  ],
+  "assessment_materials": {
+    "formative_assessments": [
+      "Weekly reflection journals on WASH program observations",
+      "Peer review of intervention design proposals",
+      "Case study analysis discussions",
+      "Problem-based learning scenarios"
+    ],
+    "summative_assessments": [
+      "Multiple choice questions on pathogen transmission (20 questions)",
+      "Short answer questions on WASH technologies (10 questions)",
+      "Essay on designing community WASH intervention (1500 words)",
+      "Policy brief on food safety improvements (1000 words)",
+      "Case study analysis and recommendations (2000 words)"
+    ]
+  }
+}

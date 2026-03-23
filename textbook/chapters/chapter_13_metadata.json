@@ -1,0 +1,609 @@
+{
+  "chapter_number": 13,
+  "title": "Cancer",
+  "part": {
+    "part_number": 3,
+    "part_title": "Non-Communicable Diseases"
+  },
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Oliver",
+      "affiliation": "Global Public Health",
+      "role": "primary_author"
+    }
+  ],
+  "keywords": [
+    "cancer epidemiology",
+    "oncology",
+    "cancer prevention",
+    "cancer screening",
+    "palliative care",
+    "cancer control programs",
+    "global cancer burden",
+    "health systems",
+    "cancer survivorship",
+    "health equity",
+    "early detection",
+    "cancer treatment access"
+  ],
+  "word_count_target": {
+    "min": 7800,
+    "max": 7800
+  },
+  "review_status": "draft",
+  "estimated_completion_date": "2024-11-29",
+  "learning_objectives": [
+    {
+      "objective_id": "LO-13.1",
+      "bloom_level": "Analyze",
+      "text": "Analyze global cancer epidemiology patterns including incidence, mortality, and DALYs by region and income level",
+      "assessment_method": "Data interpretation exercise"
+    },
+    {
+      "objective_id": "LO-13.2",
+      "bloom_level": "Evaluate",
+      "text": "Evaluate risk factors for major cancer types and assess their relative contribution to global cancer burden",
+      "assessment_method": "Short answer questions"
+    },
+    {
+      "objective_id": "LO-13.3",
+      "bloom_level": "Create",
+      "text": "Design evidence-based cancer prevention strategies appropriate for different epidemiological contexts",
+      "assessment_method": "Case study analysis"
+    },
+    {
+      "objective_id": "LO-13.4",
+      "bloom_level": "Evaluate",
+      "text": "Compare the effectiveness of cancer screening programs across different health system contexts",
+      "assessment_method": "Critical analysis"
+    },
+    {
+      "objective_id": "LO-13.5",
+      "bloom_level": "Apply",
+      "text": "Apply principles of comprehensive cancer care delivery models in resource-constrained settings",
+      "assessment_method": "Practical exercise"
+    },
+    {
+      "objective_id": "LO-13.6",
+      "bloom_level": "Create",
+      "text": "Synthesize approaches to palliative care integration across different cultural and health system contexts",
+      "assessment_method": "Essay question"
+    }
+  ],
+  "content_sections": [
+    {
+      "section_id": "section-13-1",
+      "title": "Global Cancer Epidemiology",
+      "word_count": 1200,
+      "subsections": [
+        {
+          "subsection_id": "subsection-13-1-1",
+          "title": "Cancer Incidence and Mortality Patterns",
+          "word_count": 600,
+          "key_concepts": [
+            "age-standardized incidence rates",
+            "mortality-to-incidence ratios",
+            "regional cancer burden",
+            "epidemiological transition"
+          ],
+          "primary_references": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-1-2",
+          "title": "DALYs and Cancer-Related Disability",
+          "word_count": 600,
+          "key_concepts": [
+            "years lived with disability",
+            "years of life lost",
+            "quality of life measures",
+            "economic burden"
+          ],
+          "primary_references": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "figure-13-1",
+          "title": "Global Cancer Incidence by Type and Region",
+          "caption": "Age-standardized incidence rates for major cancer types across WHO regions. Data sources: GLOBOCAN 2022, International Agency for Research on Cancer."
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "table-13-1",
+          "title": "Leading Cancers by Incidence and Mortality Globally",
+          "caption": "Top 10 cancers by new cases and deaths globally in 2022, with regional variation patterns."
+        }
+      ]
+    },
+    {
+      "section_id": "section-13-2",
+      "title": "Major Cancer Types and Risk Factors",
+      "word_count": 1400,
+      "subsections": [
+        {
+          "subsection_id": "subsection-13-2-1",
+          "title": "Tobacco-Related Cancers",
+          "word_count": 400,
+          "key_concepts": [
+            "lung cancer epidemiology",
+            "head and neck cancers",
+            "tobacco control policies",
+            "secondhand smoke exposure"
+          ],
+          "primary_references": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-2-2",
+          "title": "Infection-Related Cancers",
+          "word_count": 500,
+          "key_concepts": [
+            "hepatitis B and liver cancer",
+            "HPV and cervical cancer",
+            "Helicobacter pylori gastric cancer",
+            "Epstein-Barr virus cancers"
+          ],
+          "primary_references": [
+            "13",
+            "14",
+            "15",
+            "16",
+            "17"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-2-3",
+          "title": "Diet and Lifestyle-Related Cancers",
+          "word_count": 500,
+          "key_concepts": [
+            "colorectal cancer and diet",
+            "breast cancer risk factors",
+            "obesity and cancer risk",
+            "alcohol consumption"
+          ],
+          "primary_references": [
+            "18",
+            "19",
+            "20",
+            "21",
+            "22"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "figure-13-2",
+          "title": "Population Attributable Fractions for Major Cancer Risk Factors",
+          "caption": "Proportion of cancers attributable to modifiable risk factors by region and income level."
+        }
+      ]
+    },
+    {
+      "section_id": "section-13-3",
+      "title": "Primary Prevention Strategies",
+      "word_count": 1100,
+      "subsections": [
+        {
+          "subsection_id": "subsection-13-3-1",
+          "title": "Vaccination-Based Prevention",
+          "word_count": 400,
+          "key_concepts": [
+            "HPV vaccination programs",
+            "hepatitis B vaccination",
+            "vaccine delivery strategies",
+            "immunization coverage"
+          ],
+          "primary_references": [
+            "23",
+            "24",
+            "25",
+            "26"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-3-2",
+          "title": "Tobacco Control Interventions",
+          "word_count": 350,
+          "key_concepts": [
+            "Framework Convention on Tobacco Control",
+            "taxation policies",
+            "smoke-free legislation",
+            "cessation programs"
+          ],
+          "primary_references": [
+            "27",
+            "28",
+            "29",
+            "30"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-3-3",
+          "title": "Dietary and Lifestyle Interventions",
+          "word_count": 350,
+          "key_concepts": [
+            "nutrition guidelines",
+            "physical activity promotion",
+            "alcohol control policies",
+            "obesity prevention"
+          ],
+          "primary_references": [
+            "31",
+            "32",
+            "33",
+            "34"
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "table-13-2",
+          "title": "Evidence-Based Cancer Prevention Interventions",
+          "caption": "Summary of primary prevention strategies with evidence levels and implementation considerations."
+        }
+      ]
+    },
+    {
+      "section_id": "section-13-4",
+      "title": "Secondary Prevention and Screening",
+      "word_count": 1200,
+      "subsections": [
+        {
+          "subsection_id": "subsection-13-4-1",
+          "title": "Cervical Cancer Screening",
+          "word_count": 400,
+          "key_concepts": [
+            "HPV-based screening",
+            "cytology screening",
+            "visual inspection methods",
+            "screen-and-treat strategies"
+          ],
+          "primary_references": [
+            "35",
+            "36",
+            "37",
+            "38"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-4-2",
+          "title": "Breast Cancer Screening",
+          "word_count": 400,
+          "key_concepts": [
+            "mammography programs",
+            "clinical breast examination",
+            "age-specific recommendations",
+            "resource-stratified guidelines"
+          ],
+          "primary_references": [
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-4-3",
+          "title": "Colorectal Cancer Screening",
+          "word_count": 400,
+          "key_concepts": [
+            "fecal immunochemical testing",
+            "colonoscopy programs",
+            "population-based screening",
+            "cost-effectiveness analysis"
+          ],
+          "primary_references": [
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "section-13-5",
+      "title": "Cancer Treatment and Care Delivery",
+      "word_count": 1300,
+      "subsections": [
+        {
+          "subsection_id": "subsection-13-5-1",
+          "title": "Essential Cancer Treatments",
+          "word_count": 500,
+          "key_concepts": [
+            "surgical oncology",
+            "chemotherapy regimens",
+            "radiation therapy",
+            "essential medicines list"
+          ],
+          "primary_references": [
+            "47",
+            "48",
+            "49",
+            "50",
+            "51"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-5-2",
+          "title": "Cancer Care Delivery Models",
+          "word_count": 400,
+          "key_concepts": [
+            "centralized vs. decentralized care",
+            "task-shifting strategies",
+            "regional cancer centers",
+            "telemedicine applications"
+          ],
+          "primary_references": [
+            "52",
+            "53",
+            "54",
+            "55"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-5-3",
+          "title": "Treatment Access and Equity",
+          "word_count": 400,
+          "key_concepts": [
+            "geographic accessibility",
+            "financial barriers",
+            "health insurance coverage",
+            "catastrophic health expenditure"
+          ],
+          "primary_references": [
+            "56",
+            "57",
+            "58",
+            "59"
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "figure_id": "figure-13-3",
+          "title": "Cancer Treatment Capacity by Income Level",
+          "caption": "Availability of essential cancer treatments and technologies across countries by income classification."
+        }
+      ]
+    },
+    {
+      "section_id": "section-13-6",
+      "title": "Palliative Care and Supportive Care",
+      "word_count": 1100,
+      "subsections": [
+        {
+          "subsection_id": "subsection-13-6-1",
+          "title": "Palliative Care Principles",
+          "word_count": 400,
+          "key_concepts": [
+            "WHO definition of palliative care",
+            "pain and symptom management",
+            "psychosocial support",
+            "spiritual care"
+          ],
+          "primary_references": [
+            "60",
+            "61",
+            "62",
+            "63"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-6-2",
+          "title": "Integration into Health Systems",
+          "word_count": 350,
+          "key_concepts": [
+            "primary care integration",
+            "specialist palliative care",
+            "community-based programs",
+            "home-based care"
+          ],
+          "primary_references": [
+            "64",
+            "65",
+            "66",
+            "67"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-6-3",
+          "title": "Family and Caregiver Support",
+          "word_count": 350,
+          "key_concepts": [
+            "caregiver burden",
+            "bereavement support",
+            "cultural considerations",
+            "family-centered care"
+          ],
+          "primary_references": [
+            "68",
+            "69",
+            "70",
+            "71"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "section-13-7",
+      "title": "Cancer Survivorship and Quality of Life",
+      "word_count": 600,
+      "subsections": [
+        {
+          "subsection_id": "subsection-13-7-1",
+          "title": "Long-term Effects and Follow-up Care",
+          "word_count": 300,
+          "key_concepts": [
+            "treatment-related toxicities",
+            "secondary cancers",
+            "survivorship care plans",
+            "rehabilitation services"
+          ],
+          "primary_references": [
+            "72",
+            "73",
+            "74",
+            "75"
+          ]
+        },
+        {
+          "subsection_id": "subsection-13-7-2",
+          "title": "Quality of Life Measures",
+          "word_count": 300,
+          "key_concepts": [
+            "health-related quality of life",
+            "psychosocial outcomes",
+            "return to work",
+            "social reintegration"
+          ],
+          "primary_references": [
+            "76",
+            "77",
+            "78",
+            "79"
+          ]
+        }
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "case_study_id": "case-13-1",
+      "title": "Rwanda's Cervical Cancer Screening Program: From Pilot to National Scale",
+      "country": "Rwanda",
+      "who_region": "African Region",
+      "income_level": "lower-middle-income",
+      "population_size": "13.3 million",
+      "time_period": "2009-2023",
+      "intervention_type": [
+        "screening",
+        "prevention",
+        "health systems strengthening"
+      ],
+      "outcomes": [
+        "screening coverage",
+        "detection rates",
+        "treatment completion",
+        "cost-effectiveness"
+      ],
+      "primary_references": [
+        "80",
+        "81",
+        "82",
+        "83"
+      ]
+    },
+    {
+      "case_study_id": "case-13-2",
+      "title": "Thailand's Universal Coverage Cancer Treatment Program",
+      "country": "Thailand",
+      "who_region": "South-East Asia Region",
+      "income_level": "upper-middle-income",
+      "population_size": "70 million",
+      "time_period": "2002-2023",
+      "intervention_type": [
+        "health financing",
+        "treatment access",
+        "quality improvement"
+      ],
+      "outcomes": [
+        "treatment coverage",
+        "financial protection",
+        "survival rates",
+        "quality indicators"
+      ],
+      "primary_references": [
+        "84",
+        "85",
+        "86",
+        "87"
+      ]
+    },
+    {
+      "case_study_id": "case-13-3",
+      "title": "Brazil's National Tobacco Control Program",
+      "country": "Brazil",
+      "who_region": "Region of the Americas",
+      "income_level": "upper-middle-income",
+      "population_size": "215 million",
+      "time_period": "1989-2023",
+      "intervention_type": [
+        "primary prevention",
+        "policy intervention",
+        "tobacco control"
+      ],
+      "outcomes": [
+        "smoking prevalence",
+        "lung cancer incidence",
+        "policy compliance",
+        "economic impact"
+      ],
+      "primary_references": [
+        "88",
+        "89",
+        "90",
+        "91"
+      ]
+    },
+    {
+      "case_study_id": "case-13-4",
+      "title": "Uganda's Community-Based Palliative Care Program",
+      "country": "Uganda",
+      "who_region": "African Region",
+      "income_level": "low-income",
+      "population_size": "47 million",
+      "time_period": "1993-2023",
+      "intervention_type": [
+        "palliative care",
+        "community health",
+        "health systems integration"
+      ],
+      "outcomes": [
+        "coverage rates",
+        "pain control",
+        "quality of death",
+        "caregiver support"
+      ],
+      "primary_references": [
+        "92",
+        "93",
+        "94",
+        "95"
+      ]
+    }
+  ],
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 12
+    },
+    "short_answer_questions": {
+      "count": 8
+    },
+    "case_study_exercises": {
+      "count": 4
+    },
+    "practical_exercises": {
+      "count": 3
+    }
+  },
+  "references": {
+    "total_count": 95
+  }
+}

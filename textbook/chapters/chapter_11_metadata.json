@@ -1,0 +1,168 @@
+{
+  "chapter_number": 11,
+  "title": "Emerging and Re-emerging Infectious Diseases",
+  "part": {
+    "part_number": 2,
+    "part_title": "Communicable Diseases"
+  },
+  "last_updated": "2024-11-28",
+  "word_count_target": {
+    "min": 7850,
+    "max": 7850
+  },
+  "citation_style": "Vancouver",
+  "learning_objectives": [
+    {
+      "bloom_level": "Analyze",
+      "text": "Define emerging and re-emerging infectious diseases and analyze the ecological, social, and technological drivers of disease emergence"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply One Health principles to evaluate zoonotic disease spillover events and surveillance strategies"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate the effectiveness of global health security architectures including IHR, GHSA, and pandemic preparedness systems"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Design evidence-based antimicrobial resistance surveillance and stewardship programs for different healthcare settings"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze the impact of climate change on infectious disease emergence patterns and develop adaptation strategies"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Evaluate risk communication strategies for health emergencies and assess infodemic management approaches"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Definitions and Drivers of Disease Emergence",
+      "subtopics": [
+        "Ecological factors: deforestation, biodiversity loss, land use change",
+        "Social factors: urbanization, population density, travel patterns",
+        "Technological factors: healthcare practices, agricultural intensification",
+        "Economic factors: poverty, inequality, food systems"
+      ]
+    },
+    {
+      "topic": "Zoonotic Disease Spillover",
+      "subtopics": [
+        "Spillover mechanisms and pathogen evolution",
+        "Wildlife-human interface and disease emergence",
+        "Surveillance systems for early detection",
+        "Risk assessment and prediction modeling"
+      ]
+    },
+    {
+      "topic": "One Health Approach",
+      "subtopics": [
+        "Human-animal-environment health integration",
+        "Cross-sectoral collaboration frameworks",
+        "Implementation challenges and successes",
+        "One Health surveillance systems"
+      ]
+    },
+    {
+      "topic": "Global Health Security Architecture",
+      "subtopics": [
+        "International Health Regulations (IHR) 2005",
+        "Global Health Security Agenda (GHSA)",
+        "Pandemic preparedness and response frameworks",
+        "Country core capacity requirements"
+      ]
+    },
+    {
+      "topic": "Antimicrobial Resistance",
+      "subtopics": [
+        "AMR surveillance systems and data",
+        "Antimicrobial stewardship programs",
+        "New drug development and innovation",
+        "Policy approaches to AMR containment"
+      ]
+    },
+    {
+      "topic": "Climate Change and Infectious Diseases",
+      "subtopics": [
+        "Temperature and precipitation effects on disease vectors",
+        "Extreme weather events and outbreak risks",
+        "Geographic range shifts of diseases",
+        "Adaptation and mitigation strategies"
+      ]
+    },
+    {
+      "topic": "Laboratory Systems and Biosafety",
+      "subtopics": [
+        "Laboratory capacity strengthening",
+        "Biosafety and biosecurity frameworks",
+        "Quality assurance and networking",
+        "Diagnostic innovation and accessibility"
+      ]
+    },
+    {
+      "topic": "Risk Communication and Infodemic Management",
+      "subtopics": [
+        "Health emergency communication principles",
+        "Social media and misinformation challenges",
+        "Community engagement strategies",
+        "Behavioral insights and risk perception"
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "MERS-CoV Emergence and Response in the Arabian Peninsula",
+      "country": "Saudi Arabia",
+      "who_region": "Eastern Mediterranean Region",
+      "income_level": "High-income",
+      "focus": "Recent disease emergence",
+      "key_lessons": [
+        "Zoonotic spillover from camels to humans",
+        "Healthcare-associated transmission dynamics",
+        "International collaboration in outbreak investigation",
+        "Risk communication challenges during Hajj pilgrimage"
+      ]
+    },
+    {
+      "title": "Measles Resurgence in Europe: Vaccine Hesitancy and Coverage Gaps",
+      "country": "Multiple European countries",
+      "who_region": "European Region",
+      "income_level": "High-income",
+      "focus": "Re-emerging disease response",
+      "key_lessons": [
+        "Factors contributing to declining vaccination coverage",
+        "Role of vaccine hesitancy and misinformation",
+        "Emergency response and outbreak control measures",
+        "Health system strengthening for immunization"
+      ]
+    },
+    {
+      "title": "Carbapenem-Resistant Enterobacteriaceae Response in India",
+      "country": "India",
+      "who_region": "South-East Asia Region",
+      "income_level": "Lower-middle-income",
+      "focus": "AMR response program",
+      "key_lessons": [
+        "AMR surveillance system implementation",
+        "Antimicrobial stewardship in diverse healthcare settings",
+        "Regulatory approaches to antibiotic use",
+        "International collaboration on AMR containment"
+      ]
+    },
+    {
+      "title": "Post-Ebola Health Security Strengthening in West Africa",
+      "country": "Guinea, Liberia, Sierra Leone",
+      "who_region": "African Region",
+      "income_level": "Low-income and lower-middle-income",
+      "focus": "Health security strengthening",
+      "key_lessons": [
+        "IHR core capacity development",
+        "Laboratory system strengthening",
+        "Workforce development and training",
+        "Community engagement and trust building"
+      ]
+    }
+  ]
+}

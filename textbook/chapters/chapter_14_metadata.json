@@ -1,0 +1,254 @@
+{
+  "chapter_number": 14,
+  "title": "Diabetes and Metabolic Disorders",
+  "part": {
+    "part_number": 3,
+    "part_title": "Non-Communicable Diseases"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define diabetes mellitus types, metabolic syndrome components, and key epidemiological terms related to diabetes burden globally"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the pathophysiology of Type 1, Type 2, and gestational diabetes, and describe risk factors contributing to the global diabetes epidemic"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Design diabetes prevention strategies for high-risk populations using evidence-based lifestyle interventions and population-level approaches"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate diabetes care delivery models for different health system contexts, comparing primary care integration approaches across income settings"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Assess the cost-effectiveness of diabetes prevention and management interventions, considering health equity implications across populations"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop comprehensive diabetes management programs integrating technology innovations and chronic disease management principles for resource-constrained settings"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Global diabetes epidemiology and trends"
+    },
+    {
+      "topic": "Type 1, Type 2, and gestational diabetes pathophysiology"
+    },
+    {
+      "topic": "Obesity and metabolic syndrome definitions and prevalence"
+    },
+    {
+      "topic": "Diabetes risk factors: genetic, lifestyle, environmental"
+    },
+    {
+      "topic": "Diabetes prevention strategies and lifestyle interventions"
+    },
+    {
+      "topic": "Diabetes management and glycemic control approaches"
+    },
+    {
+      "topic": "Diabetes complications: cardiovascular, renal, retinal, neuropathic"
+    },
+    {
+      "topic": "Healthcare delivery models for diabetes care"
+    },
+    {
+      "topic": "Technology innovations in diabetes management"
+    },
+    {
+      "topic": "Social determinants and health equity in diabetes care"
+    },
+    {
+      "topic": "Economic burden and cost-effectiveness of interventions"
+    },
+    {
+      "topic": "Population-level obesity prevention policies"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Finnish Diabetes Prevention Programme (DPP)",
+      "country": "Finland",
+      "who_region": "European Region",
+      "income_level": "High-income",
+      "focus": "Lifestyle intervention for Type 2 diabetes prevention",
+      "key_lessons": [
+        "Evidence-based lifestyle modification reducing diabetes incidence by 58% in high-risk individuals"
+      ]
+    },
+    {
+      "title": "Mexico DIABETIMSS Integrated Care Program",
+      "country": "Mexico",
+      "who_region": "Region of the Americas",
+      "income_level": "Upper-middle income",
+      "focus": "Comprehensive diabetes care delivery through social security system",
+      "key_lessons": [
+        "Health system integration improving glycemic control and reducing complications"
+      ]
+    },
+    {
+      "title": "India Diabetes Prevention through Lifestyle Modification",
+      "country": "India",
+      "who_region": "South-East Asia Region",
+      "income_level": "Lower-middle income",
+      "focus": "Community-based diabetes prevention in urban and rural settings",
+      "key_lessons": [
+        "Culturally adapted lifestyle interventions in diverse socioeconomic contexts"
+      ]
+    },
+    {
+      "title": "Chile Food Labeling and Childhood Obesity Prevention",
+      "country": "Chile",
+      "who_region": "Region of the Americas",
+      "income_level": "High-income",
+      "focus": "Population-level intervention for childhood obesity prevention",
+      "key_lessons": [
+        "Policy intervention using warning labels reducing consumption of high-calorie foods among children"
+      ]
+    }
+  ],
+  "geographic_coverage": {
+    "who_regions": [
+      "African Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "European Region",
+      "Eastern Mediterranean Region",
+      "Western Pacific Region"
+    ],
+    "income_levels": [
+      "Low-income countries",
+      "Lower-middle income countries",
+      "Upper-middle income countries",
+      "High-income countries"
+    ]
+  },
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 5,
+      "items": [
+        {
+          "question": "According to the International Diabetes Federation, what was the estimated global prevalence of diabetes among adults aged 20-79 years in 2021?",
+          "options": [
+            "A) 6.2%",
+            "B) 8.4%",
+            "C) 10.5%",
+            "D) 12.1%"
+          ],
+          "correct_answer": "C",
+          "learning_objective": "Remember diabetes epidemiological data"
+        },
+        {
+          "question": "Which component is NOT part of the metabolic syndrome definition according to the International Diabetes Federation criteria?",
+          "options": [
+            "A) Central obesity",
+            "B) Elevated triglycerides",
+            "C) Elevated LDL cholesterol",
+            "D) Reduced HDL cholesterol"
+          ],
+          "correct_answer": "C",
+          "learning_objective": "Remember metabolic syndrome components"
+        },
+        {
+          "question": "The Finnish Diabetes Prevention Programme demonstrated that lifestyle intervention reduced Type 2 diabetes incidence by approximately:",
+          "options": [
+            "A) 28%",
+            "B) 38%",
+            "C) 48%",
+            "D) 58%"
+          ],
+          "correct_answer": "D",
+          "learning_objective": "Remember evidence from diabetes prevention trials"
+        },
+        {
+          "question": "Which diabetes management approach has shown the greatest effectiveness in low-resource settings?",
+          "options": [
+            "A) Specialist-only care",
+            "B) Primary care integration with task-shifting",
+            "C) Hospital-based management",
+            "D) Private clinic networks"
+          ],
+          "correct_answer": "B",
+          "learning_objective": "Apply diabetes care delivery models"
+        },
+        {
+          "question": "The most cost-effective diabetes prevention strategy for population-level implementation is:",
+          "options": [
+            "A) Individual counseling for all adults",
+            "B) Screening and treatment of high-risk individuals",
+            "C) Mass medication with metformin",
+            "D) Intensive lifestyle programs for entire population"
+          ],
+          "correct_answer": "B",
+          "learning_objective": "Evaluate cost-effectiveness of interventions"
+        }
+      ]
+    },
+    "short_answer_questions": {
+      "count": 3,
+      "items": [
+        {
+          "question": "Describe the key components of an effective diabetes prevention program for high-risk populations, including behavioral targets and implementation strategies.",
+          "points": 15,
+          "learning_objective": "Apply prevention strategy design"
+        },
+        {
+          "question": "Compare and contrast diabetes care delivery models in high-income versus low- and middle-income countries, discussing barriers and facilitating factors.",
+          "points": 20,
+          "learning_objective": "Analyze care delivery models"
+        },
+        {
+          "question": "Evaluate the role of technology innovations (digital health platforms, continuous glucose monitoring, mobile applications) in improving diabetes management outcomes, considering accessibility and equity issues.",
+          "points": 20,
+          "learning_objective": "Evaluate technology interventions"
+        }
+      ]
+    },
+    "case_study_exercises": {
+      "count": 2,
+      "items": [
+        {
+          "title": "Designing a National Diabetes Prevention Strategy",
+          "scenario": "You are advising the Ministry of Health in a lower-middle income country with rising diabetes prevalence (current 8.2%) and limited healthcare infrastructure. Design a comprehensive prevention strategy.",
+          "questions": [
+            "What population-level interventions would you prioritize and why?",
+            "How would you identify and target high-risk populations?",
+            "What delivery mechanisms would be most appropriate given resource constraints?",
+            "How would you evaluate the effectiveness and cost-effectiveness of your strategy?"
+          ],
+          "learning_objective": "Create comprehensive diabetes prevention programs"
+        },
+        {
+          "title": "Technology Integration in Diabetes Care",
+          "scenario": "A healthcare organization wants to integrate digital health technologies into their diabetes management program serving a diverse population with varying levels of digital literacy and access.",
+          "questions": [
+            "What technology solutions would be most appropriate for different population segments?",
+            "How would you address digital equity and access barriers?",
+            "What training and support systems would be needed?",
+            "How would you measure the impact on clinical outcomes and patient satisfaction?"
+          ],
+          "learning_objective": "Create technology-integrated diabetes management systems"
+        }
+      ]
+    }
+  },
+  "quality_metrics": {
+    "evidence_level": "Primary research sources for all factual claims",
+    "global_representation": "Examples and data from all WHO regions",
+    "health_equity": "Explicit discussion of disparities and equity considerations",
+    "practical_application": "Implementation guidance for different health system contexts",
+    "current_relevance": "References primarily from last 10 years, with foundational studies as appropriate"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "chapter_number": 23,
+  "title": "Food Security and Nutrition",
+  "part": {
+    "part_number": 5,
+    "part_title": "Environmental and Social Determinants"
+  },
+  "word_count_target": {
+    "min": 7000,
+    "max": 8000
+  },
+  "citation_style": "Vancouver",
+  "reference_count_target": {
+    "min": 40,
+    "max": 60
+  },
+  "learning_objectives": [
+    {
+      "bloom_level": "Remember",
+      "text": "Define food security dimensions and distinguish between different forms of malnutrition"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Identify key micronutrient deficiencies and their global distribution patterns"
+    },
+    {
+      "bloom_level": "Remember",
+      "text": "Describe components and interactions within food systems from production to consumption"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Explain the relationship between food systems, nutrition outcomes, and health"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Compare undernutrition and overnutrition challenges across different global regions"
+    },
+    {
+      "bloom_level": "Understand",
+      "text": "Interpret nutrition surveillance data and assessment frameworks"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Apply food systems thinking to analyze nutrition problems in specific contexts"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Design appropriate nutrition interventions for different population groups"
+    },
+    {
+      "bloom_level": "Apply",
+      "text": "Implement nutrition assessment tools in diverse settings"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Analyze factors contributing to the double burden of malnutrition"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Evaluate effectiveness of nutrition-specific and nutrition-sensitive interventions"
+    },
+    {
+      "bloom_level": "Analyze",
+      "text": "Assess food policy impacts on population nutrition outcomes"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Integrate multiple approaches to address complex nutrition challenges"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Develop comprehensive nutrition strategies addressing food system determinants"
+    },
+    {
+      "bloom_level": "Create",
+      "text": "Create multi-sectoral approaches to improve food security and nutrition"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Critically evaluate nutrition intervention programs and their scalability"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Judge the sustainability and equity of food system interventions"
+    },
+    {
+      "bloom_level": "Evaluate",
+      "text": "Assess trade-offs between nutrition and environmental sustainability goals"
+    }
+  ],
+  "key_topics": [
+    {
+      "topic": "Global nutrition situation and trends"
+    },
+    {
+      "topic": "Food security dimensions and measurement"
+    },
+    {
+      "topic": "Forms of malnutrition: undernutrition, overnutrition, micronutrient deficiencies"
+    },
+    {
+      "topic": "Life course approach to nutrition"
+    },
+    {
+      "topic": "Food systems framework and health impacts"
+    },
+    {
+      "topic": "Nutrition-specific and nutrition-sensitive interventions"
+    },
+    {
+      "topic": "Food environment and dietary behaviors"
+    },
+    {
+      "topic": "Nutrition policy and governance"
+    },
+    {
+      "topic": "Sustainable diets and planetary health"
+    },
+    {
+      "topic": "Double burden of malnutrition"
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Brazil's Zero Hunger Program: Integrated Approach to Food Security",
+      "who_region": "Region of the Americas",
+      "income_level": "Upper middle income",
+      "focus": "Comprehensive food security and nutrition program"
+    },
+    {
+      "title": "Rwanda's Comprehensive Nutrition Strategy",
+      "who_region": "African Region",
+      "income_level": "Low income",
+      "focus": "Multi-sectoral nutrition approach and stunting reduction"
+    },
+    {
+      "title": "Chile's Food Labeling and Marketing Law",
+      "who_region": "Region of the Americas",
+      "income_level": "High income",
+      "focus": "Obesity prevention through food environment regulation"
+    },
+    {
+      "title": "Global Vitamin A Supplementation Programs",
+      "who_region": "Multiple (Asia, Africa)",
+      "income_level": "Low and middle income",
+      "focus": "Micronutrient deficiency elimination"
+    }
+  ],
+  "assessment_materials": {
+    "multiple_choice_questions": {
+      "count": 15
+    },
+    "short_answer_questions": {
+      "count": 8
+    }
+  }
+}
