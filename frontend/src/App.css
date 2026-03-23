@@ -18,7 +18,113 @@ body {
 }
 
 h1 {
+  margin-bottom: 1rem;
+}
+
+/* -- Tabs ----------------------------------------------------------------- */
+
+.tab-bar {
+  display: flex;
+  gap: 0;
   margin-bottom: 1.5rem;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.tab {
+  padding: 0.5rem 1.25rem;
+  font-size: 1rem;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  cursor: pointer;
+  color: #6b7280;
+  font-family: inherit;
+}
+
+.tab.active {
+  color: #2563eb;
+  border-bottom-color: #2563eb;
+  font-weight: 600;
+}
+
+/* -- Chapter list --------------------------------------------------------- */
+
+.chapter-list h2 {
+  margin-bottom: 0.75rem;
+}
+
+.chapter-list ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.chapter-list li button {
+  display: flex;
+  gap: 0.75rem;
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.95rem;
+  font-family: inherit;
+}
+
+.chapter-list li button:hover {
+  background: #f0f4ff;
+  border-color: #2563eb;
+}
+
+.chapter-num {
+  flex-shrink: 0;
+  color: #6b7280;
+  min-width: 3rem;
+}
+
+.chapter-title {
+  color: #1a1a1a;
+}
+
+/* -- Chapter detail ------------------------------------------------------- */
+
+.chapter-detail .back-btn {
+  padding: 0.35rem 0.75rem;
+  font-size: 0.9rem;
+  background: none;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  font-family: inherit;
+}
+
+.chapter-detail .back-btn:hover {
+  background: #f5f5f5;
+}
+
+.chapter-detail h2 {
+  margin-bottom: 1rem;
+}
+
+.chapter-content {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-family: inherit;
+  line-height: 1.6;
+  font-size: 0.95rem;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 1rem;
+  max-height: 70vh;
+  overflow-y: auto;
 }
 
 .query-form {

@@ -2,11 +2,16 @@
 
 from __future__ import annotations
 
+from pathlib import Path
+
 from fastapi import APIRouter, HTTPException
 
 from backend.api.schemas import (
     AnswerRequest,
     AnswerResponse,
+    ChapterDetailResponse,
+    ChapterListResponse,
+    ChapterSummary,
     ChunkResult,
     CitationItem,
     FetchRequest,
@@ -14,6 +19,7 @@ from backend.api.schemas import (
     SearchRequest,
     SearchResponse,
 )
+from backend.ingest.ingest import ingest_corpus
 from backend.providers.base import BaseProvider
 from backend.rag.citations import build_citations
 from backend.rag.index import get_chunk_by_id
@@ -23,6 +29,9 @@ router = APIRouter(prefix="/api")
 
 # The provider is injected at app startup via ``set_provider``.
 _provider: BaseProvider | None = None
+
+# Default chapters directory (can be overridden for tests).
+_CHAPTERS_DIR = Path(__file__).resolve().parent.parent.parent / "textbook" / "chapters"
 
 
 def set_provider(provider: BaseProvider) -> None:
@@ -61,3 +70,33 @@ def api_answer(req: AnswerRequest) -> AnswerResponse:
         answer=generated["answer"],
         citations=[CitationItem(**c.to_dict()) for c in citations],
     )
+
+
+@router.get("/chapters", response_model=ChapterListResponse)
+def api_list_chapters() -> ChapterListResponse:
+    docs = ingest_corpus(_CHAPTERS_DIR)
+    summaries = [
+        ChapterSummary(
+            chapter_number=d["chapter_number"],
+            chapter_title=d["chapter_title"],
+            part_title=d.get("part_title"),
+            source_path=d["source_path"],
+        )
+        for d in docs
+    ]
+    return ChapterListResponse(chapters=summaries)
+
+
+@router.get("/chapters/{chapter_number}", response_model=ChapterDetailResponse)
+def api_get_chapter(chapter_number: int) -> ChapterDetailResponse:
+    docs = ingest_corpus(_CHAPTERS_DIR)
+    for d in docs:
+        if d["chapter_number"] == chapter_number:
+            return ChapterDetailResponse(
+                chapter_number=d["chapter_number"],
+                chapter_title=d["chapter_title"],
+                part_title=d.get("part_title"),
+                source_path=d["source_path"],
+                text=d["text"],
+            )
+    raise HTTPException(status_code=404, detail=f"Chapter {chapter_number} not found")

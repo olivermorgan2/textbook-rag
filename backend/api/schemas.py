@@ -52,5 +52,24 @@ class AnswerResponse(BaseModel):
     citations: list[CitationItem]
 
 
+class ChapterSummary(BaseModel):
+    chapter_number: int
+    chapter_title: str
+    part_title: str | None = None
+    source_path: str
+
+
+class ChapterListResponse(BaseModel):
+    chapters: list[ChapterSummary]
+
+
+class ChapterDetailResponse(BaseModel):
+    chapter_number: int
+    chapter_title: str
+    part_title: str | None = None
+    source_path: str
+    text: str
+
+
 class ErrorResponse(BaseModel):
     detail: str
