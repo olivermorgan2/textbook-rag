@@ -15,6 +15,7 @@ from backend.api.schemas import (
     SearchResponse,
 )
 from backend.providers.base import BaseProvider
+from backend.rag.citations import build_citations
 from backend.rag.index import get_chunk_by_id
 from backend.rag.retrieve import search
 
@@ -54,7 +55,9 @@ def api_answer(req: AnswerRequest) -> AnswerResponse:
     results = search(req.query, top_k=req.top_k)
     generated = _provider.generate(req.query, results)
 
+    citations = build_citations(results)
+
     return AnswerResponse(
         answer=generated["answer"],
-        citations=[CitationItem(**c) for c in generated["citations"]],
+        citations=[CitationItem(**c.to_dict()) for c in citations],
     )
