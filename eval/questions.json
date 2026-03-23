@@ -1,0 +1,47 @@
+[
+  {
+    "id": "q-001",
+    "question": "What is the definition of global public health and how does it differ from international health?",
+    "expected_chapter": "Chapter 1",
+    "expected_section": "1.1 Defining Global Public Health",
+    "expected_sources": ["ch01-0002", "ch01-0003"],
+    "difficulty": "easy",
+    "notes": "Core definitional content from Chapter 1 section 1.1"
+  },
+  {
+    "id": "q-002",
+    "question": "What is the epidemiological triad and what are its three components?",
+    "expected_chapter": "Chapter 5",
+    "expected_section": "The Epidemiological Triad: Agent, Host, and Environment",
+    "expected_sources": ["ch05-0002", "ch05-0003"],
+    "difficulty": "easy",
+    "notes": "Fundamental concept clearly defined early in Chapter 5"
+  },
+  {
+    "id": "q-003",
+    "question": "How many deaths are caused by cardiovascular diseases annually and what percentage of global deaths do they represent?",
+    "expected_chapter": "Chapter 12",
+    "expected_section": "Global Burden of Cardiovascular Diseases",
+    "expected_sources": ["ch12-0002", "ch12-0004"],
+    "difficulty": "medium",
+    "notes": "Specific statistics from CVD burden section"
+  },
+  {
+    "id": "q-004",
+    "question": "What is the basic reproduction number R0 and how is it used in infectious disease epidemiology?",
+    "expected_chapter": "Chapter 5",
+    "expected_section": "Basic Reproduction Number (R₀) and Effective Reproduction Number (Rt)",
+    "expected_sources": ["ch05-0019", "ch05-0020"],
+    "difficulty": "medium",
+    "notes": "Technical concept from mid-chapter section on R0"
+  },
+  {
+    "id": "q-005",
+    "question": "What are the immunological principles behind how vaccines work?",
+    "expected_chapter": "Chapter 6",
+    "expected_section": "Immunological Principles of Vaccination",
+    "expected_sources": ["ch06-0003", "ch06-0004"],
+    "difficulty": "medium",
+    "notes": "Core vaccine science from Chapter 6"
+  }
+]
